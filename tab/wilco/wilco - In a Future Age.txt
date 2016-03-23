@@ -1,0 +1,74 @@
+This tab is based on <a href="https://www.youtube.com/watch?v=_09P9p0qa2A" target="_blank" style="color: blue">this YouTube video</a>
+
+Tuning: Open D (DADF#AD)
+
+D 000000
+Dmaj7 000040
+G 555555
+Em11/B x22100
+D6/F# 420000
+A7sus4 x02100
+DII 004350
+Dmaj7II 004340
+
+intro
+D   Dmaj7   G   D   Em11/B   D6/F#
+
+D   A7sus4 x4
+
+D   A7sus4   D   A7sus4
+Genuine
+D   A7sus4   D   A7sus4
+Day will come
+D   A7sus4   D   A7sus4
+When the wind
+D   A7sus4   D   A7sus4
+Decides to run
+Dmaj7
+And shakes the stairs
+G
+That stab the wall
+Dmaj7
+And turns the page
+Em11/B
+In a future age
+
+D   A7sus4 x2
+
+D   A7sus4   D   A7sus4
+Some trees will bend
+D   A7sus4   D   A7sus4
+And some will fall
+D   A7sus4   D   A7sus4
+But then again
+D   A7sus4   D   A7sus4
+So will us all
+Dmaj7
+Lets turn our prayers
+G
+Into outrageous dares
+Dmaj7
+And mark our page
+Em11/B
+In a future age
+Dmaj7
+High above
+G
+The sea of cars
+Dmaj7
+And barking dogs
+Em11/B
+In fenced-in yards
+
+D   A7sus4 x2
+
+D |-0--0--0---4p0----0-0-0-|
+A |-11-11-11------4\-0-0-0-|
+F#|-0--0--0----------2-2-3-|  x2
+D |-0--0--0----------0-0-0-|
+A |------------------0-0-0-|
+D |------------------------|
+
+DII   Dmaj7II   G   D   Em11/B   D6/F#   D
+
+

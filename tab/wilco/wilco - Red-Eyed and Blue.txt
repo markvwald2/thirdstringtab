@@ -1,0 +1,56 @@
+This tab is based on <a href="https://www.youtube.com/watch?v=U3CmGS_LoD4" target="_blank" style="color: blue">this YouTube video</a>
+
+Tuning: standard
+
+A x02220
+AaddF x03220
+A6 x04220
+A7 x05220
+D x00232
+Dm x00231
+Am/D xx0210
+Asus4add2/D xx0200
+A7/G 302220
+A6/F# 202220
+Dm/F 10023x
+Bm x24432
+F#m 244222
+G 355433
+AII 577655B
+
+Intro
+A   AaddF   A6   AaddF x2
+
+A                        AaddF
+We've got solid state technology
+A6             AaddF
+Tapes on the floor
+A                      AaddF   A6   A7
+Some songs we can't afford to play
+          D              Dm
+When we came here today
+    Am/D        Asus4add2/D         A  AaddF   A   AaddF
+All I wanted to say was how much I miss you
+A    A7/G    A6/F#   A/F
+Alcohol and cotton balls
+         A              AaddF         A6   A7
+And some drugs we can't afford on the way
+         D               Dm
+When we came here today
+       Am/D        Asus4add2/D
+We all felt something true
+    A   Bm              D
+Now I'm red-eyed and blue
+
+e|-------------------------0-0-0-0-0-|
+B|-------------------------0-0-0-2-3-|
+G|-2-2-2-----2-2-2---------1-1-1-1-1-|
+D|-2-2-2-----2-2-2---------2-2-2-2-2-|
+A|-0-0-0-----0-0-0---------2-2-2-2-2-|
+E|-------0h2-------0-2-1-0-0-0-0-0-0-|
+
+Whistling solo
+A   D   Bm x2
+A   D   F#m
+A   E   G   AII
+

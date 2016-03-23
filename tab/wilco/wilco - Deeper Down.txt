@@ -1,0 +1,93 @@
+This tab is based on <a href="http://www.youtube.com/watch?v=S6WFa6x3pUA" target="_blank" style="color: blue">this YouTube video</a>
+
+Tuning: Standard
+Capo V
+
+Am x02210
+Amadd2 x02410
+Am6/9 x04410
+D7sus2/A x00210
+D7sus2add6/A x00240
+G 320033
+D7no5/F# 2x05xx
+Bdim/F 1x04xx
+C/G 332010
+Cm 33120x
+Em 022000
+D x00232
+B x24442
+F 133211
+Dmin x00231
+Em7 020xxx
+Em7b5 010xxx
+A11no5 540xxx
+
+intro
+Am   Amadd2   Am   Am6/9
+D7sus2/A   D7sus2add6/A   D7sus2/A   Am6/9
+
+Am
+By the end of the bout, he was punched out
+D7sus2/A
+Fists capsized, muscles shouting
+G   D7no5/F#   Bdim/F   riff 1
+Deeper down
+C/G            Cm        G
+He felt the insult of a kiss
+
+riff 1
+e|-----|
+B|-----|
+G|-2-0-|
+D|-0-0-|
+A|-x---|
+E|-1---|
+
+Am
+Deeper still than we can go
+D7sus2/A
+Further out than triremes row
+G   D7no5/F#   Bdim/F   riff 1
+Drowning slow
+C/G    Cm          G
+His memories persist
+
+Am
+Out beyond the telescope's pry
+D7sus2/A
+Up above the tallest Dutch dope high
+G   D7no5/F#   Bdim/F   riff 1
+He realized
+C/G     Cm          G
+This mystery is his
+
+Em   D7sus2/A   C/G   B
+Am   F   Dmin   Am
+
+Am
+Underneath the ocean floor
+D7sus2/A
+A part of who we are don't explore
+G   D7no5/F#   Bdim/F   riff 1
+I adore
+C/G    Cm         G           C/G   Em
+The meaninglessness of the this
+Cm         G
+We can't express
+
+Em   D   C   B
+Am   D   C   B
+
+Am
+By the end of the bout, he was punched out
+D7sus2/A
+Fists capsized, muscles shouting
+G   D7no5/F#   Bdim/F   riff 1
+Deeper down
+C/G            Cm           G
+He felt the comfort of a kiss
+
+outro
+Em7   Em7b5   A11no5   G
+
+

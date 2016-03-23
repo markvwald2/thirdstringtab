@@ -1,0 +1,148 @@
+This tab is based on <a href="http://www.youtube.com/watch?v=jhekcD4AaTc" target="_blank" style="color: blue">this YouTube video</a>
+
+Tuning: Open G (DGDGBD)
+
+G x00000
+C x55555
+D x77777
+
+   riff 1
+d|-----------------|
+B|-0-0-1-0-0-0-1-0-|
+G|-0-0-0-0-0-0-0-0-|
+D|-0-0-2-0-0-0-2-0-|
+G|-0-0-0-0-0-0-0-0-|
+D|-----------------|
+
+intro
+riff 1 x4
+
+   riff 2
+d|-------------------|
+B|-0-0-1-0-1/3-3-1-0-|
+G|-0-0-0-0-2/4-4-2-0-|
+D|-0-0-2-0-0---0-0-0-|
+G|-0-0-0-0-0---0-0-0-|
+D|-------------------|
+
+               riff 1        riff 2     C
+Well there's a dreamer in my dreams...   Swinging from the beams
+         riff 1   riff 2          D
+(With a) light... shining off the snow
+               riff 1       riff 2   C
+Well there's a singer in my heart...  Burning up the charts
+     riff 2      D             riff 2 x2
+With songs about things we all know
+               riff 1         riff 2    C
+Well there's a blister on his brain...   That's driving him insane
+      riff 2   riff 2            D
+Cause all good things they gotta go
+               riff 1       riff 2   C
+Well there's a child on the way...    It could be any day
+    riff 2             D                         riff 2 x2
+But how this life will change him, that we don't know
+
+   solo 1
+d|-------------------------------------------|
+B|-----------3-------8~8~8~----------3-5-5-0-|
+G|-7-7-9-3h4-0-0-7-9-0-0-0-7-7-9-3h4-0-5-5-0-|
+D|-0-0-0-0---0-0-0-0-0-0-0-0-0-0-0-0-0-5-5-0-|
+G|-0-0-0-0---0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-|
+D|-------------------------------------------|
+   solo 1 (continued)
+d|-------------------------------------------|
+B|-----------3-------8~8~8~----------3-1-1-0-|
+G|-7-7-9-3h4-0-0-7-9-0-0-0-7-7-9-3h4-0-0-0-0-|
+D|-0-0-0-0---0-0-0-0-0-0-0-0-0-0-0-0-0-2-2-0-|
+G|-0-0-0-0---0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-|
+D|-------------------------------------------|
+
+               riff 1       riff 2    C
+Well there's a child on the way...     He's gonna look a lot like him
+        riff 2          riff 2             D    riff 3
+And one day, he's gonna say, "Ain't you my dad?"
+                riff 1        riff 2     C
+Then he's gonna look down and smile...    and after awhile
+          riff 2            D                 riff 2 x2
+He'll say, "That's for sure, cause you got my eyes."
+
+   riff 3
+d|-----------|
+B|-7-6-5-5-0-|
+G|-7-6-5-5-0-|
+D|-7-6-5-5-0-|
+G|-7-6-5-5-0-|
+D|-----------|
+
+               riff 2        riff 2    C
+Well there's a dreamer in my dreams...  He's hanging from a beam
+     riff 2   riff 2          D   riff 3
+With light... shining off the snow
+               riff 1         riff 2     C
+Well there's a blister on his brain...    It's driving him insane
+    riff 2   D              riff 2 x2
+And all good things have to go, all right
+
+   solo 2
+d|-------------------------------------------|
+B|-----------3-------8~8~8~----------3-5-5-0-|
+G|-7-7-9-3h4-0-0-7-9-0-0-0-7-7-9-3h4-0-5-5-0-|
+D|-0-0-0-0---0-0-0-0-0-0-0-0-0-0-0-0-0-5-5-0-|
+G|-0-0-0-0---0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-|
+D|-------------------------------------------|
+   solo 2 (continued)
+d|-------------------------------------------|
+B|-----------3-------8~8~8~----------3-1-1-0-|
+G|-7-7-9-3h4-0-0-7-9-0-0-0-7-7-9-3h4-0-0-0-0-|
+D|-0-0-0-0---0-0-0-0-0-0-0-0-0-0-0-0-0-2-2-0-|
+G|-0-0-0-0---0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-|
+D|-------------------------------------------|
+
+(repeat solo 2)
+
+(When Tweedy plays acoustic, he adds this section here)
+d|---------------------------------------------------------|
+B|---------------------------------------------------------|
+G|-3-3-3-3-3-0-0-0-3-3-3-3-3-0-0-0-3-3-3-3-3-0-0-0-3-0-0-0-| x2
+D|-3-3-3-3-3-0-2-0-3-3-3-3-3-0-2-0-3-3-3-3-3-0-2-0-3-0-2-0-|
+G|-3-3-3-3-3-0-0-0-3-3-3-3-3-0-0-0-3-3-3-3-3-0-0-0-3-0-0-0-|
+D|-------------2---------------2---------------2-------2---|
+
+riff 1   riff 2 x7
+
+          riff 1        riff 2      C
+There's a dreamer in my dreams...    Swinging from the beams
+       riff 1   riff 2          D
+With a light... shining off the lake
+        riff 1        riff 2      C
+Well, I know I made mistakes...    I'm passing then all on
+      riff 2     D              riff 2 x2
+But I hope... he gets up before dawn
+
+All right
+riff 1   riff 2 x ~12
+
+Yeah, that's it
+
+               riff 1        riff 2      C
+Well there's a dreamer in my dreams...    Climbing up the back
+     riff 1           riff 2      D
+Of a car they used to call a Cadillac
+           riff 1           riff 2     C
+It's got a brand new set of keys...     It's got a new look, it's got a new look
+riff 2            D                       riff 2 x2
+And he's gonna... he's gonna take it all away
+I believe it...
+
+riff 1   riff 2 x 2
+
+(piano interlude)
+
+               riff 1        riff 2       C
+Well there's a dreamer in my dreams...     Swinging from the beams
+riff 1        riff 2    D
+All wrapped up in my garage
+     riff 1         riff 2     C
+He's hanging from a bell...     He don't know what he's done
+riff 2               D                     riff 2 x2
+Just don't forget to say goodbye when he's gone.  That's it

@@ -1,0 +1,100 @@
+This tab is based on <a href="https://www.youtube.com/watch?v=ygiG7Ltxgg8" target="_blank" style="color: blue">this YouTube video</a>
+
+Tuning: DADADe (the 4th and 5th strings get pretty tight)
+
+G5 555xxx
+F#5 444xxx
+E5 222xxx
+F5 333xxx
+
+intro
+e|-------------5-5-5-5-5-5-5-5-7-7-7-7-7-7----|
+D|-------------5-5-5-5-5-5-5-5-7-7-7-7-7-7----|
+A|-5/7/9-4-2-0-5-5-5-7-5-5-5-7-7-7-7-7-7-7----|
+D|-0-0-0-0-0-0-5-5-5-5-5-5-5-5-7-7-7-7-7-7----|
+A|-5/7/9-4-2-0-5-5-5-5-5-5-5-5-7-7-7-7-7-7----|
+D|-0-0-0-0-0-0-5-5-5-5-5-5-5-5-7-7-7-7-7-7-7\-|
+
+riff 1
+e|-----------|
+D|-----------|
+A|-----------| x4
+D|--0-0-/5-5-|
+A|--0-0-/5-5-|
+D|-\0-0-/5-5-|
+
+riff 1 (over lyrics)
+The way things go
+You get so low
+Struggle to find your skin
+Hey ho
+Look out below
+Your prayers will never be answered again
+
+riff 2
+e|---------------------|
+D|---------------------|
+A|---------------------| x4
+D|-10h11h12-12-7p6p5-5-|
+A|-10h11h12-12-7p6p5-5-|
+D|-10h11h12-12-7p6p5-5-|
+
+riff 1 (over lyrics)
+Phones still ring
+And singers sing
+Speakers are speaking in code
+What now
+Well anyhow
+Our prayers will never be answered again
+
+chorus
+G5   F#5   E5
+
+   You know it's all beginning to feel like It's ending
+e|---------5-5-5-5-----------5-5-5-5-|
+D|---------5-5-5-5-----------5-5-5-5-|
+A|-5/7/9-4-5-5-5-5-4/5/7-2-0-5-5-5-5-|
+D|-0-0-0-0-5-5-5-5-0-0-0-0-0-5-5-5-5-|
+A|-5/7/9-4-5-5-5-5-4/5/7-2-0-5-5-5-5-|
+D|-0-0-0-0-5-5-5-5-0-0-0-0-0-5-5-5-5-|
+
+No loves as random as God's love I can't stand it I can't stand it
+e|-------------5-5-5-5-5-5-5-5-7-7-7-7-7-7----|
+D|-------------5-5-5-5-5-5-5-5-7-7-7-7-7-7----|
+A|-5/7/9-4-2-0-5-5-5-7-5-5-5-7-7-7-7-7-7-7----|
+D|-0-0-0-0-0-0-5-5-5-5-5-5-5-5-7-7-7-7-7-7----|
+A|-5/7/9-4-2-0-5-5-5-5-5-5-5-5-7-7-7-7-7-7----|
+D|-0-0-0-0-0-0-5-5-5-5-5-5-5-5-7-7-7-7-7-7-7\-|
+
+riff 1 x4
+
+riff 1 (over lyrics)
+The way things get
+You get so high
+Funny how we make new friends
+Oh hey ho
+I gotta go
+My prayers will never be answered again
+
+chorus
+
+riff 1 x4
+
+F5                G5
+Speakers speaking speakers speaking
+F5                G5
+Speaking in code
+
+F5                G5
+Speakers speaking speakers speaking
+F5                G5
+Speaking in code
+
+chorus
+
+riff 1 (over lyrics)
+Your prayers will never be answered again
+Your prayers will never be answered again
+Your prayers will never be answered again
+Your prayers will never be answered again
+

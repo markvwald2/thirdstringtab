@@ -1,0 +1,84 @@
+This tab is based on <a href="http://www.youtube.com/watch?v=uTfqWTSNss8" target="_blank" style="color: blue">this YouTube video</a>
+
+Tuning: Standard
+
+Am x02210
+Cmaj7 x32000
+Asus4 x02230
+B7no3/C x3420x
+G 320033
+Em 022000
+Asus2 x02200
+Em9 054000
+EmII 075000
+
+intro
+Am   Cmaj7  x4
+
+Asus4       Am
+Impossible Germany
+Cmaj7       B7no3/C
+Unlikely Japan
+G             Em
+Wherever you go
+              Am   Asus2
+Wherever you land
+Asus4               Am
+I'll say what this means to me
+Cmaj7           B7no3/C
+I'll do what I can
+G           Em
+Impossible Germany
+          Am   Asus2
+Unlikely Japan
+
+Cmaj7             Am
+The fundamental problem
+Cmaj7           Am
+We all need to face
+G          Em
+This is important
+        Am              Cmaj7
+But I know you're not listening
+       Am             Cmaj7
+Oh I know you're not listening
+
+e|---------------------------------------|
+B|----8-10-10-10-8---8-10/12-12-12-8---8-|  x2
+G|--9--------------9-----------------9---|
+D|---------------------------------------|
+A|---------------------------------------|
+E|---------------------------------------|
+
+Asus4              Am
+If this was still new to me
+Cmaj7       B7no3/C
+I wouldn't understand
+G           Em
+Impossible Germany
+          Am   Asus2
+Unlikely Japan
+
+Asus4             Am
+But this is what love is for
+Cmaj7          B7no3/C
+To be out of place
+G              Em
+Gorgeous and alone
+         Am   Asus2
+Face to face
+
+Cmaj7            Am
+With no larger problems
+Cmaj7             Am
+That need to be erased
+G               Em
+Nothing more important
+          Am            Cmaj7
+Than to know someone's listening
+        Am            Cmaj7
+Now I know you'll be listening
+
+G   Em9   EmII   Am  x4
+
+

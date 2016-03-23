@@ -1,0 +1,96 @@
+This tab is based on <a href="https://www.youtube.com/watch?v=8QSK6Jh47K4" target="_blank" style="color: blue">this YouTube video</a>
+
+Capo VII
+
+Tuning: Drop D
+
+D 000232
+A x02220
+G x20033
+Em 222000
+Amadd2 x02410
+Cmaj7 x32000
+
+riff 1
+e|---0h2-----0h2p0---0-----2-0-----0h2p0---0---|
+B|-------3---------3---3-------3---------3---3-|
+G|---2-------2-------------2-2-----2-----------|
+D|-0-------0---------0---0-------0---------0---|
+A|---------------------------------------------|
+E|---------------------------------------------|
+
+intro
+riff 1 x2
+
+           A
+There's a random painted highway
+G               riff 1
+And a muzzle of bees
+A
+My sleeves have come unstitched
+       G            riff 1
+From climbing your tree
+
+riff 1
+
+     G
+And dogs laugh, some say they're barking
+                       riff 1
+I don't think they're mean
+G
+Some people get so frightened
+                    riff 1
+Of the fences in between
+
+        A
+And the sun gets passed from tree to tree
+Em             G      riff 1
+Silently, and back to me
+           A
+With the breeze blown through
+A                      Em
+Pushed up against the sea
+G               riff 2 x2
+Finally back to me
+
+riff 2
+e|-------------------|
+B|---1-----0---------|
+G|-----1-----1-2-----|
+D|---0-----0-----4---|
+A|-------0---0-0-----|
+E|-0---------------0-|
+
+     G
+I'm assuming you got my message
+           riff 2 x2
+On your machine
+       G
+I'm assuming you love me
+                        riff 2 x2
+And you know what that means
+
+Amadd2   Cmaj7   G   riff 1
+
+Amadd2   Cmaj7   G   D
+
+A
+Sun gets passed, sea to sea
+Em             G       D
+Silently, and back to me
+A
+With the breeze blown through
+A                       Em
+Pushed up above the leaves
+A
+With the breeze blown through
+A                   Em
+My head upon your knee
+             G            D
+Half of it's you, half is me
+Em                G       D
+Half of it's you, half is me
+
+Amadd2   Cmaj7   G   D x6
+
+

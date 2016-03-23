@@ -1,0 +1,53 @@
+female: <a style="color:red">red</a>
+male: <a style="color:blue">blue</a>
+both: black
+
+Capo I
+
+G  C
+
+G                C               G              C
+<a style="color:red">I'm a wildflower by the highway, up against the rain</a>
+G              C              Am                   C
+<a style="color:blue">I'm an old man, growing tired, getting used to the pain</a>
+G                C           G            C
+<a style="color:red">I'm a wildflower in a garden, tended everyday</a>
+G              C                Am              C
+<a style="color:blue">I'm an old dog, hard to love and even harder to change</a>
+
+D/F#             Em         G       C
+     But it's no time to be slowing down
+D/F#         Em         G        C
+     It's no time to be turning 'round
+D/F#           Em     G                       C
+     You could blow a hole right through this town
+           D            C     D
+<a style="color:blue">If I don't ever let you down</a>
+
+G                C                  G                 C
+<a style="color:red">I'm a wildflower by the streetlight where the night begins</a>
+G                 C                Am                C
+<a style="color:blue">I'm an old house, barely breathing as the walls fall in</a>
+
+D/F#             Em         G       C
+     But it's no time to be slowing down
+D/F#         Em         G        C
+     It's no time to be turning 'round
+D/F#           Em     G                       C
+     You could blow a hole right through this town
+           D            C
+<a style="color:blue">If I don't ever let you down</a>
+
+G                 C                  Am                     C
+<a style="color:red">I'm a wildflower,</a> <a style="color:blue">and I'm an old man.</a> There's so much in between
+
+D/F#             Em         G        C
+     But it's no time to be standing by
+D/F#         Em         G      C
+     It's no time to be asking why
+D/F#           Em     G                       C
+     You could blow a hole right through this sky
+     D         C    D
+<a style="color:blue">If I don't ever let you down</a>
+
+G  C  G

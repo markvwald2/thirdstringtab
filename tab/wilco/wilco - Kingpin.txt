@@ -1,0 +1,80 @@
+This tab is based on <a href="https://www.youtube.com/watch?v=SysZbKGbNK4" target="_blank" style="color: blue">this YouTube video</a>
+
+Tuning: Open G (DGDGBD)
+
+G 000000
+G6sus4 x02010
+Dmno5/G x03030
+
+G   G6sus4   G  x8
+
+G                     G6sus4   G   G6sus4   G
+I wanna be your kingpin,
+G   riff 1
+living in Pekin
+
+riff1
+d|--------|
+B|--------|
+G|--2/4-4-|
+D|--------|
+G|--------|
+D|--------|
+
+G6sus4   G x2
+
+G                     G6sus4   G   G6sus4   G
+I wanna be your bigwig,
+riff 1        G6sus4   G   G6sus4   G
+living in Pekin
+
+riff 2*
+d|--0---0-0---0---0-0---0-0---0---0-|
+B|--2/4-4-2/4-2/4-0-0---0-0---0---0-|
+G|--0---0-0---0---0-2/5-5-0---0---0-|  x2
+D|--0---0-0---0---0-0---0-0---0h2-0-|
+G|--0---0-0---0---0-0---0-2h4-0---0-|
+D|----------------------------------|
+
+(*There's a bunch of improvisation over the G on this "riff 2." Sorry I didn't tab
+it all out but there are a lot of variations on it both on the album version and
+in live versions. What I've tabbed here is just one of the more recognizable
+riffs.)
+
+Dmno5/G   G6sus4
+
+G6sus4   G x4
+
+G                            G6sus4   G   G6sus4   G
+I caught the flu and away I flew
+G
+N.Y.C., P.D. blue
+G
+Dimeatapp, and spinal tap, a-city maps, and hand claps
+
+riff 2 x2
+
+Dmno5/G   G6sus4
+
+riff 2 x8
+
+Dmno5/G   G6sus4
+
+riff 2 x6
+
+G
+Statue of liberty play, it only works once, don't throw it away
+G
+Cause I wanna be your kingpin, living in Pekin
+G
+Living in Pekin, livin in.... Pekin. Livin in...
+G
+How can I, how can I give my love to you when I don't know what to do
+
+riff 1 x
+
+Dmno5/G   G
+
+G repeat to end
+
+

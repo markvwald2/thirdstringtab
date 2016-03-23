@@ -1,0 +1,88 @@
+This tab is based on <a href="https://www.youtube.com/watch?v=5n1ch_oQwHs" target="_blank" style="color: blue">this YouTube video</a>
+
+Tuning: Standard
+Capo II
+
+*riff 1
+e|--------------|
+B|--------------|
+G|--0--0--0--0--|
+D|--0--0--0--0--|
+A|--7--9--7--0--|
+E|--9--9--9--0--|
+E|--0--0--0--0--|
+
+Em 075000
+G/B 750000
+Cmaj7 x32000
+Amadd2 x02410
+G 320033
+Em9 0(10)0(11)0x
+E7sus2/D (10)90(11)0x
+E5addC 032400
+Em(II) 022000
+EmMaj7 021000
+Gm/A# x100xx
+A x02220
+Dadd2/F# 200230
+E 022100
+
+Em  G/B  *riff 1 x2
+
+Em                      G/B  *riff 1
+We once belonged to a bird
+Em                          G/B  *riff 1
+Who cast his shadow on this world
+Cmaj7                   Amadd2
+You were a blessing and I was a curse
+                      G                    Cmaj7  *riff 1
+I did my best not to make things worse for you
+
+Em         G/B  *riff 1
+It isn't true,
+Em                               G/B  *riff 1
+I always knew this would be our fate
+Cmaj7                        Amadd2
+This is what happens when we separate
+                  G                     Cmaj7
+This is happens, all dead weight, eventually
+
+Em                        G/B  *riff 1
+We may as well be made of stone
+Em            G/B  *riff 1
+We can't be flown
+Cmaj7               Amadd2
+One wing will never fly
+                   G
+Neither yours nor mine
+                          Cmaj7
+I fear we can only wave goodbye
+
+Em9    E7sus2/D    E5addC  x2
+
+Em(II)   EmMaj7   Gm/A#   A
+
+Cmaj7               Amadd2
+One wing will never ever fly
+                   G   Dadd2/F#
+Neither yours nor mine
+Cmaj7               Amadd2
+One wing will never ever fly, dear
+                   G
+Neither yours nor mine
+                          Cmaj7
+I fear we can only wave goodbye
+A               Amadd2
+One wing will never ever fly, dear
+                   G
+Neither yours nor mine
+                          Cmaj7
+I fear we can only wave goodbye
+
+Em(II)   EmMaj7
+Bye bye, bye bye,
+Gm/A#   A           E
+bye bye, bye bye
+
+
+

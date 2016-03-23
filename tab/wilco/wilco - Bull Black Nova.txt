@@ -1,0 +1,102 @@
+This tab is based on <a href="https://www.youtube.com/watch?v=fvbXkeyWRmI" target="_blank" style="color: blue">this YouTube video</a>
+
+Tuning: CGCGCD
+
+Cmadd2 003530
+Cadd2 004540
+C xx(12)x(12)x
+Cm xx(12)x(12)(13)
+C II xx(12)x(12)(14)
+Gm x02320
+Fsus2 555555
+Dmadd2 225222
+Emadd2 447444
+
+Cmadd2   Cadd2 x2
+
+C
+It's in my hair, it's on my clothes
+C
+It's in the river, over the road
+Cm                           C
+It's shining down, my angry star
+Cm                         Gm
+Hanging off the hood of my car
+          Fsus2
+Not going far, not going far
+
+riff 1
+e|-0--0--0-0-0-|
+D|-0--0--0-0-0-|
+A|-9--9--3-5-5-|
+D|-10-10-2-5-4-|
+A|-0--0--0-0-0-|
+D|-0--0--0-0-0-|
+
+or
+
+E|-0-0-0-0-0-|
+D|-0-0-0-0-0-|
+A|-3-3-3-5-5-|
+D|-4-4-2-5-4-|
+A|-0-0-0-0-0-|
+D|-0-0-0-0-0-|
+
+Cm                                      C II
+It's coming down, they're coming up the shoulders
+Cm                                        C II
+What have they found? I wonder if they'd know
+Cm                         C II   Cm                       C II
+I'm in a bull black Chevy Nova, silhouetted by the setting sun
+               Gm                   Fsus2
+This can't be undone, this can't be undone
+
+riff 1 x2
+
+Dmadd2   Emadd2   Dmadd2
+
+riff 2
+e|---------------------|
+D|---0-2-4-0-----0-----|
+A|---0-0-0---0-4-------|
+D|---0-0-0---------4-7-|
+A|-0-------------------|
+D|-0-------------------|
+
+Dmadd2   Emadd2   Dmadd2
+
+riff 3
+e|-----------------------5-|
+D|---0-2-4-------8-------5-|
+A|---0-0-0-----7-------3---|
+D|---0-0-0---5-------3-----|
+A|-0-------5-------3-------|
+D|-0-------5-------3-------|
+
+D
+
+C
+If I Gm the one, blood on the sofa
+C
+Blood in the sink, blood in the trunk
+Cm
+High at the wheel of a bull black Nova
+Cm
+And I'm sorry as a setting sun
+               Gm               Fsus2
+This can't be undone, can't be outrun
+
+riff 1 x2
+
+Cm
+
+C
+It's in my hair, there's blood in the sink
+C
+I can't calm down, I can't think
+Cm
+I keep calling, there's blood in the trunk
+Cm
+I can't calm down, I freak out, black out
+
+C

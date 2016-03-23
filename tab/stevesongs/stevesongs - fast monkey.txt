@@ -1,0 +1,39 @@
+E
+
+    E                   C#7       F#    B            E
+i'm fast, i'm very very fast, i'm faster than a fast monkey
+    E                   C#7       F#    B            E
+i'm slow, i'm very very slow, i'm slower than a slow monkey
+E     B     A         E     A       E       B       E
+fast, slow, fast fast slow, are you fast or are you slow
+E     B     A         E     A       E       B       E
+fast, slow, fast fast slow, are you fast or are you slow
+
+E                      C#7      F#    B           E
+i'm big, i'm very very big, i'm bigger than a big monkey
+E                   C#7       F#    B            E
+i'm small, i'm very very small i'm smaller than a small monkey
+E    B      A       E      A       E      B       E
+big, small, big big small, are you big or are you small?
+E    B      A       E      A       E      B       E
+big, small, big big small, are you big or are you small?
+
+E  C#7
+
+    C#7                  Bb7        D#     G#            C#7
+i'm happy, i'm very very happy, i'm happier than a happy monkey
+    C#7                Bb7      D#    G#          C#m
+i'm sad, i'm very very sad, i'm sadder than a sad monkey
+C#m    G#  F#m         C#m  F#m     C#m      G#     C#m
+happy, sad, happy happy sad, are you happy or are you sad?
+
+C#7  A
+
+      A                     F#7         B          E     A
+we're loud, we're very very loud, we're louder than loud monkeys
+    A                    F#7        B      E             A
+i'm quiet, i'm very very quiet, i'm quieter than a quiet monkey
+A     E     D         A     D       A      E       A
+fast, slow, fast fast slow, are you big or are you small?
+A     E     D         A     D       A      E       A
+happy, sad, quiet quiet loud, are you silly or are you not silly?

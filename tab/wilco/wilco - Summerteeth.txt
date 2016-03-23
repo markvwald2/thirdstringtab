@@ -1,0 +1,105 @@
+This tab is based on <a href="http://www.youtube.com/watch?v=RVI1g5pUPnc" target="_blank" style="color: blue">this YouTube video</a>
+
+Tuning: Standard
+
+F# 244322
+A x02220
+E 022100
+G# 466544
+C#m x46654
+B x24442
+F#m 244222
+F#mMaj7 243222
+F#m7 242222
+B7/A    x0444x
+B6/G# 4x444x
+B/F# 2x444x
+C/G 332010
+F 133211
+Fm 133111
+Am x02210
+Dm x00231
+D x00232
+G 320033
+AmMaj7 x02110
+Am7 x02010
+
+intro
+|-----------4-|
+|-----------5-|
+|--4/6-11-8-6-|
+|--x---x--x-6-|
+|--2/4-9--6-4-|
+|--0---0--0---|
+
+F#   A
+
+E                 G#
+Like a cloud his fingers explode
+A                         F#
+On the typewriter ribbon, the shadow grows
+E               C#m             F#       A
+His hearts in a bowl behind the bank
+E                      G#
+And every evening when he gets home
+A                      F#
+To make his supper and eat it alone
+E               B                         F#m   F#Maj7   F#m7
+His black shirt cries while his shoes get cold
+              B             E        C#m   F#m
+It's just a dream he keeps having
+        B       B7/A   B6/G#   B/F#  E
+And it doesn't seem to mean anything
+C#m                        F#m   B   B7/A   B6/G#   B/F#
+Its just a dream he keeps having
+
+E             G#
+One summer, a suicide
+A               F#
+Another autumn, a travelers guide
+E              C#m             F#     A
+He hits snooze twice before he dies
+E                      G#
+And every evening when he gets home
+A                      F#
+To make his supper and eat it alone
+E               B                         F#m   F#Maj7   F#m7
+His black shirt cries while his shoes get cold
+              B             E        C#m   F#m
+It's just a dream he keeps having
+        B       B7/A   B6/G#   B/F#  E
+And it doesn't seem to mean anything
+C#m                        F#m   B   B7/A   B6/G#   B/F#   E
+Its just a dream he keeps having
+C#m                        F#m   B   B7/A   B6/G#   B/F#
+Its just a dream he keeps having
+
+C/G   Em   F   Fm   C/G   Em   F   Am   Dm   Am   D
+
+G                 B
+He feels lucky to have you here
+C/G                 A
+In his kitchen, in your chair
+G                D                        Am   AmMaj7   Am7
+Sometimes he forgets that you're even there
+              D              G       Em     Am
+It's just a dream he keeps having
+        D                        G
+And it doesn't seem to mean anything
+Em                          Am       D   G
+It's just a dream he keeps having
+Em            Am
+It's just a dream
+D                                G
+And it doesn't seem to mean anything
+Em
+Oooh oooh
+Am   D
+Aaah aaah
+
+G     Em
+Oooh oooh
+Am   D
+Aaah aaah
+
+

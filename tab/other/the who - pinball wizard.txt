@@ -1,0 +1,77 @@
+|-2---------------|-0---------------|-0---------------|
+|-3---------------|-3---------------|-2---------------|
+|-4---------------|-4---------------|-4---------------|
+|-4-4-4-4-4-4-4-4-|-4-4-4-4-4-4-4-4-|-4-4-4-4-4-4-4-4-|
+|-----------------|-----------------|-----------------|
+|-----------------|-----------------|-----------------|
+
+|-0---------------|-0---------------|-0---------------|
+|-2---------------|-2---------------|-0---------------|
+|-3---------------|-2---------------|-0---------------|
+|-4-4-4-4-4-4-4-4-|-4-4-4-4-4-4-4-4-|-4-4-4-4-4-4-4-4-|
+|-----------------|-----------------|-----------------|
+|-----------------|-----------------|-----------------|
+
+|-----------------|---------------------|-------------------|
+|-0-0-0-0-0-0-0-0-|-2-2-2-2-2-2-2-2-2-2-|-2-2-2-2-2-2-2-2---|
+|-4-4-4-4-4-4-4-4-|-3-3-3-3-3-3-3-3-3-3-|-3-3-3-3-3-3-3-3---|
+|-5-5-5-5-5-5-5-5-|-4-4-4-4-4-4-4-4-4-4-|-4-4-4-4-4-4-4-4-0-|
+|-----------------|---------------------|-------------------|
+|-----------------|---------------------|-------------------|
+
+Bsus4  B  x4
+
+     Bsus4                        B
+Ever since i was a young boy i've played the silver ball
+     Asus4                   A
+From Soho down to Brighton i must have played them all
+      Gsus4                      G
+But i ain't seen nothin like him in any amusement hall
+     F#sus4                  (no chord)           B    A D E
+that deaf dumb and blind kid sure plays a mean pinball
+
+B A D E
+
+   Bsus4                        B
+He stands like a statue becomes part of the machine
+Asus4                    A
+feeling all the bumpers, always playing clean
+Gsus4                   G
+plays by intuition, the digit counters fall
+     F#7sus4                 (no chord)           B    A D E
+that deaf dumb and blind kid sure plays a mean pinball
+
+B A D E
+
+       E  F#   B            E      F#   B
+He's a pinball wizard there has to be a twist
+  E  F#   B            G             D
+A pinball wizard's got such a supple wrist
+
+D          Cadd9 G  D           Cadd9 G      D          Cadd9 G  D
+How do you think he does it? (I don't know), what makes him   so good?
+
+Bsus4                            B
+ain't got no distractions, can't hear no buzzes and bells
+      Asus4                    A
+don't see no lights a flashin, plays by sense of smell
+Gsus4                     G
+Always gets a replay, you never see him fall
+     F#sus4                  (no chord)           B    A D E
+that deaf dumb and blind kid sure plays a mean pinball
+
+B A D E
+
+E       F# B      E     F#    B         E  F#  B         G                D
+thought i was the Bally table king, but i just handed my pinball crown to him
+
+Dsus4 D  x4
+
+     Dsus4                D
+Even on my favorite table he can beat my best
+       Csus4                  C
+his disciples lead him in and he just does the rest
+         Bbsus4                 Bb
+he's got crazy flipper fingers, never seen him fall
+     Asus4                  A                    D  C F Bb7sus4
+that deaf dumb and blind kid sure plays a mean pinball
