@@ -1,4 +1,4 @@
-<?php include '../../include/header.php';?>
+ee<?php include '../../include/header.php';?>
 
 				<a class="left" href="../../index.php"><span class="arrow">&nbsp;</span> Home</a>
 				<h1 class="title">Various Artists</h1>
@@ -51,8 +51,6 @@
 						<p><a href="beatles-yellow-submarine.php">Beatles - Yellow Submarine<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="ben-kweller-wasted-and-ready.php">Ben Kweller - Wasted and Ready<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="billy-joe-shaver-honky-tonk-heroes.php">Billy Joe Shaver - Honky Tonk Heroes<span><span class="arrow">&nbsp;</span></span></a></p>
-						<p><a href="billy-joel-my-life.php">Billy Joel - My Life<span><span class="arrow">&nbsp;</span></span></a></p>
-						<p><a href="billy-joel-you-may-be-right.php">Billy Joel - You May Be Right<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="blue-oyster-cult-burnin-for-you.php">Blue &Ouml;yster Cult - Burnin' for You<span><span class="arrow">&nbsp;</span></span></a></p>						
 						<p><a href="breeders-cannonball.php">Breeders - Cannonball<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="bryan-adams-summer-of-69.php">Bryan Adams - Summer of '69<span><span class="arrow">&nbsp;</span></span></a></p>
@@ -68,7 +66,6 @@
 						<p><a href="daft-punk-get-lucky.php">Daft Punk - Get Lucky<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="dave-rawlings-machine-ruby.php">Dave Rawlings Machine - Ruby<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="david-bowie-space-oddity.php">David Bowie - Space Oddity<span><span class="arrow">&nbsp;</span></span></a></p>
-						<p><a href="def-leppard-love-bites.php">Def Leppard - Love Bites<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="del-amitri-driving-with-the-brakes-on.php">Del Amitri - Driving with the Brakes On<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="derek-and-the-dominos-keep-on-growing.php">Derek and the Dominos - Keep on Growing<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="dido-white-flag.php">Dido - White Flag<span><span class="arrow">&nbsp;</span></span></a></p>
@@ -131,8 +128,6 @@
 						<p><a href="my-morning-jacket-im-amazed.php">My Morning Jacket - I'm Amazed<span><span class="arrow">&nbsp;</span></span></a></p>
 						<a name="n" class="anchor"></a>
 						<h2 class="title2">N</h2>
-						<p><a href="neil-young-old-man.php">Neil Young - Old Man<span><span class="arrow">&nbsp;</span></span></a></p>
-						<p><a href="neil-young-rockin-in-the-free-world.php">Neil Young - Rockin' in the Real World<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="neko-case-thrice-all-american.php">Neko Case - Thrice All American<span><span class="arrow">&nbsp;</span></span></a></p>
 						<a name="o" class="anchor"></a>
 						<h2 class="title2">O</h2>
@@ -146,6 +141,7 @@
 						<p><a href="parry-gripp-hero-up.php">Parry Gripp - Hero Up<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="patrick-swayze-shes-like-the-wind.php">Patrick Swayze - She's Like the Wind<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="pavement-cut-your-hair.php">Pavement - Cut Your Hair<span><span class="arrow">&nbsp;</span></span></a></p>
+						<p><a href="pearl-jam-betterman.php">Pearl Jam - Betterman<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="phantom-planet-1st-things-1st.php">Phantom Planet - 1st Thing's 1st<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="phil-collins-in-the-air-tonight.php">Phil Collins - In the Air Tonight<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="pink-floyd-mother.php">Pink Floyd - Mother<span><span class="arrow">&nbsp;</span></span></a></p>

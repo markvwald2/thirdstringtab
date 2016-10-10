@@ -26,6 +26,7 @@
 	{
 		$files = glob($dirName . '*.php');
 		$files = preg_grep('~/index.php~i', $files, PREG_GREP_INVERT);
+		$files = preg_grep('~/stevesongs~i', $files, PREG_GREP_INVERT);
 		$file = array_rand($files);
 		$link = $files[$file];	
 		$filetrim = str_replace("/home/content/v/w/a/vwald/html/tab/bands/","/tab/bands/",$link);
