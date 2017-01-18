@@ -38,6 +38,7 @@
 					<li><a href="http://thirdstringshirts.com/tab/bands/petedroge"><span class="ico msg"></span>Pete Droge</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/radiohead"><span class="ico msg"></span>Radiohead</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/ryanadams"><span class="ico msg"></span>Ryan Adams</a></li>
+					<li><a href="http://thirdstringshirts.com/tab/bands/shins"><span class="ico msg"></span>The Shins</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/smashingpumpkins"><span class="ico msg"></span>Smashing Pumpkins</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/sonvolt"><span class="ico msg"></span>Son Volt</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/stephenmalkmus"><span class="ico msg"></span>Stephen Malkmus</a></li>

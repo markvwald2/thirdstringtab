@@ -14,7 +14,7 @@ function pageScroll() {
 
 			<div class="content">
                 
-				<div class="tab" style="font-size: 14px">
+				<div class="tab">
 					<pre><p><?php include '../../tab/other/screaming trees - nearly lost you.txt';?> </p></pre>
 
 <?php include '../../include/footer.php';?>

@@ -7,7 +7,7 @@ function pageScroll() {
     	scrolldelay = setTimeout('pageScroll()',100); // scrolls every 100 milliseconds
 }
 </script>
-			<a class="left" href="index.php"><span class="arrow">&nbsp;</span> Back</a>
+			<a class="left" href="index.php"><span class="arrow">&nbsp;</span> Aerosmith</a>
 				<h1 class="title">Aerosmith - Angel</h1>
 				<a class="right" href="<?php echo random_tab(); ?>">Random!</a>
 			<!--  <a class="right" href="#"><span class="pause">&nbsp;</span></a><a class="right" href="#">Play</a>-->

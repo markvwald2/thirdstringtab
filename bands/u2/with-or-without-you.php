@@ -7,14 +7,14 @@ function pageScroll() {
     	scrolldelay = setTimeout('pageScroll()',100); // scrolls every 100 milliseconds
 }
 </script>
-			<a class="left" href="index.php"><span class="arrow">&nbsp;</span> Various Artists</a>
+			<a class="left" href="index.php"><span class="arrow">&nbsp;</span> U2</a>
 				<h1 class="title">U2 - With or Without You</h1>
 				<a class="right" href="<?php echo random_tab(); ?>">Random!</a>
 			</div><!--header-->
 
 			<div class="content">
                 
-				<div class="tab" style="font-size: 14px">
+				<div class="tab">
 					<pre><p><?php include '../../tab/u2/u2 - with or without you.txt';?> </p></pre>
 
 <?php include '../../include/footer.php';?>

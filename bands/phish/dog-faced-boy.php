@@ -7,7 +7,7 @@ function pageScroll() {
     	scrolldelay = setTimeout('pageScroll()',100); // scrolls every 100 milliseconds
 }
 </script>
-			<a class="left" href="javascript:history.back()">&lt; Back</a>
+			<a class="left" href="index.php"><span class="arrow">&nbsp;</span> Phish</a>
 				<h1 class="title">Phish - Dog Faced Boy</h1>
 				<a class="right" href="<?php echo random_tab(); ?>">Random!</a>
 			</div><!--header-->

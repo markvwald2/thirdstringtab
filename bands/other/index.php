@@ -9,6 +9,7 @@ ee<?php include '../../include/header.php';?>
 
 				<div class="box-white">
 					<div class="alpha">
+						<a href="#a">#</a>
 						<a href="#a">A</a>
 						<a href="#b">B</a>
 						<a href="#c">C</a>
@@ -36,11 +37,13 @@ ee<?php include '../../include/header.php';?>
 						<a href="#y">Y</a>
 						<a href="#z">Z</a>
 					</div>
-<!--					<object type="text/html" data="ioslist.html" width="100%" height="700" style="overflow:auto;"></object>
--->
+<!--					<object type="text/html" data="ioslist.html" width="100%" height="700" style="overflow:auto;"></object> -->
 						<a name="a" class="anchor"></a>
+						<h2 class="title2">#</h2>
+					    <p><a href="4-non-blondes-whats-up.php">4 Non Blondes - What's Up<span><span class="arrow">&nbsp;</span></span></a></p>
 						<h2 class="title2">A</h2>
 					    <p><a href="a-ha-take-on-me.php">A-Ha - Take On Me<span><span class="arrow">&nbsp;</span></span></a></p>
+					    <p><a href="arcade-fire-wake-up.php">Arcade Fire - Wake Up<span><span class="arrow">&nbsp;</span></span></a></p>
 						<a name="b" class="anchor"></a>
 						<h2 class="title2">B</h2>
 					    <p><a href="the-babies-mess-me-around.php">The Babies - Mess Me Around<span><span class="arrow">&nbsp;</span></span></a></p>
@@ -51,7 +54,8 @@ ee<?php include '../../include/header.php';?>
 						<p><a href="beatles-yellow-submarine.php">Beatles - Yellow Submarine<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="ben-kweller-wasted-and-ready.php">Ben Kweller - Wasted and Ready<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="billy-joe-shaver-honky-tonk-heroes.php">Billy Joe Shaver - Honky Tonk Heroes<span><span class="arrow">&nbsp;</span></span></a></p>
-						<p><a href="blue-oyster-cult-burnin-for-you.php">Blue &Ouml;yster Cult - Burnin' for You<span><span class="arrow">&nbsp;</span></span></a></p>						
+						<p><a href="black-rebel-motorcycle-club-stop.php">Black Rebel Motorcycle Club - Stop<span><span class="arrow">&nbsp;</span></span></a></p>
+						<p><a href="blue-oyster-cult-burnin-for-you.php">Blue &Ouml;yster Cult - Burnin' for You<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="breeders-cannonball.php">Breeders - Cannonball<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="bryan-adams-summer-of-69.php">Bryan Adams - Summer of '69<span><span class="arrow">&nbsp;</span></span></a></p>
 						<a name="c" class="anchor"></a>
@@ -59,7 +63,7 @@ ee<?php include '../../include/header.php';?>
 						<p><a href="cheap-trick-surrender.php">Cheap Trick - Surrender<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="coconut-records-wires.php">Coconut Records - Wires<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="convoy-anytime-she-wants-it.php">Convoy - Anytime She Wants It<span><span class="arrow">&nbsp;</span></span></a></p>
-						<p><a href="corey-hart-sunglasses-at-night.php">Corey Hart - Sunglasses at Night<span><span class="arrow">&nbsp;</span></span></a></p>						
+						<p><a href="corey-hart-sunglasses-at-night.php">Corey Hart - Sunglasses at Night<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="crowded-house-dont-dream-its-over.php">Crowded House - Don't Dream It's Over<span><span class="arrow">&nbsp;</span></span></a></p>
 						<a name="d" class="anchor"></a>
 						<h2 class="title2">D</h2>
@@ -75,6 +79,7 @@ ee<?php include '../../include/header.php';?>
 						<a name="e" class="anchor"></a>
 						<h2 class="title2">E</h2>
 						<p><a href="eddie-rabbit-every-which-way-but-loose.php">Eddie Rabbit - Every Which Way but Loose<span><span class="arrow">&nbsp;</span></span></a></p>
+						<p><a href="elliott-smith-between-the-bars.php">Elliott Smith - Between the Bars<span><span class="arrow">&nbsp;</span></span></a></p>
 						<a name="f" class="anchor"></a>
 						<h2 class="title2">F</h2>
 						<p><a href="faces-ooh-la-la.php">The Faces - Ooh La La<span><span class="arrow">&nbsp;</span></span></a></p>
@@ -90,6 +95,7 @@ ee<?php include '../../include/header.php';?>
 						<p><a href="freedy-johnston-bad-reputation.php">Freedy Johnston - Bad Reputation<span><span class="arrow">&nbsp;</span></span></a></p>
 						<a name="g" class="anchor"></a>
 						<h2 class="title2">G</h2>
+						<p><a href="george-michael-faith.php">George Michael - Faith<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="gin-blossoms-hey-jealousy.php">Gin Blossoms - Hey Jealousy<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="golden-smog-i-cant-keep-from-talking.php">Golden Smog - I Can't Keep from Talking<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="great-white-once-bitten-twice-shy.php">Great White - Once Bitten, Twice Shy<span><span class="arrow">&nbsp;</span></span></a></p>
@@ -98,6 +104,7 @@ ee<?php include '../../include/header.php';?>
 						<p><a href="guns-n-roses-dont-cry.php">Guns N' Roses - Don't Cry<span><span class="arrow">&nbsp;</span></span></a></p>
 						<a name="h" class="anchor"></a>
 						<h2 class="title2">H</h2>
+						<p><a href="head-and-the-heart-lets-be-still.php">The Head and the Heart - Let's Be Still<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="head-east-never-been-any-reason.php">Head East - Never Been Any Reason<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="hole-malibu.php">Hole - Malibu<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="hollies-long-cool-woman.php">Hollies - Long Cool Woman<span><span class="arrow">&nbsp;</span></span></a></p>
@@ -135,7 +142,8 @@ ee<?php include '../../include/header.php';?>
 						<p><a href="ok-go-here-it-goes.php">OK Go - Here It Goes Again<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="oranges-band-ok-apartment.php">Oranges Band - OK Apartment<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="outfield-your-love.php">The Outfield - Your Love<span><span class="arrow">&nbsp;</span></span></a></p>
-						<p><a href="ozzy-osbourne-close-my-eyes-forever.php">Ozzy Osbourne - Close My Eyes Forever<span><span class="arrow">&nbsp;</span></span></a></p>
+						<p><a href="ozzy-osbourne-mama-im-coming-home.php">Ozzy Osbourne - Mama, I'm Coming Home<span><span class="arrow">&nbsp;</span></span></a></p>
+						<p><a href="ozzy-osbourne-and-lita-ford-close-my-eyes-forever.php">Ozzy Osbourne and Lita Ford - Close My Eyes Forever<span><span class="arrow">&nbsp;</span></span></a></p>
 						<a name="p" class="anchor"></a>
 						<h2 class="title2">P</h2>
 						<p><a href="parry-gripp-hero-up.php">Parry Gripp - Hero Up<span><span class="arrow">&nbsp;</span></span></a></p>
@@ -147,6 +155,7 @@ ee<?php include '../../include/header.php';?>
 						<p><a href="pink-floyd-mother.php">Pink Floyd - Mother<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="poison-fallen-angel.php">Poison - Fallen Angel<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="poison-control-center-torpedoes-on-tuesday.php">Poison Control Center - Torpedoes on Tuesday<span><span class="arrow">&nbsp;</span></span></a></p>
+						<p><a href="portishead-glory-box.php">Portishead - Glory Box<span><span class="arrow">&nbsp;</span></span></a></p>
 						<a name="r" class="anchor"></a>
 						<h2 class="title2">R</h2>
 						<p><a href="refreshments-banditos.php">The Refreshments - Banditos<span><span class="arrow">&nbsp;</span></span></a></p>
@@ -174,6 +183,7 @@ ee<?php include '../../include/header.php';?>
 						<p><a href="taylor-swift-shake-it-off.php">Taylor Swift - Shake It Off<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="telekinesis-power-lines.php">Telekinesis - Power Lines<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="thermals-returning-to-the-fold.php">Thermals - Returning to the Fold<span><span class="arrow">&nbsp;</span></span></a></p>
+						<p><a href="third-eye-blind-hows-it-going-to-be.php">Third Eye Blind - How's It Going to Be<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="tom-petty-i-wont-back-down.php">Tom Petty - I Won't Back Down<span><span class="arrow">&nbsp;</span></span></a></p>
 						<a name="w" class="anchor"></a>
 						<h2 class="title2">W</h2>
