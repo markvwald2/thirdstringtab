@@ -177,10 +177,10 @@ ee<?php include '../../include/header.php';?>
 						<p><a href="spoon-lines-in-the-suit.php">Spoon - Lines in the Suit<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="steve-miller-band-take-the-money-and-run.php">Steve Miller Band - Take the Money and Run<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="stone-temple-pilots-interstate-love-song.php">Stone Temple Pilots - Interstate Love Song<span><span class="arrow">&nbsp;</span></span></a></p>
+						<p><a href="strumbellas-spirits.php">Strumbellas - Spirits<span><span class="arrow">&nbsp;</span></span></a></p>
 						<a name="t" class="anchor"></a>
 						<h2 class="title2">T</h2>
 						<p><a href="tpau-heart-and-soul.php">T'Pau - Heart and Soul<span><span class="arrow">&nbsp;</span></span></a></p>
-						<p><a href="taylor-swift-shake-it-off.php">Taylor Swift - Shake It Off<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="telekinesis-power-lines.php">Telekinesis - Power Lines<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="thermals-returning-to-the-fold.php">Thermals - Returning to the Fold<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="third-eye-blind-hows-it-going-to-be.php">Third Eye Blind - How's It Going to Be<span><span class="arrow">&nbsp;</span></span></a></p>

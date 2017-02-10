@@ -8,13 +8,13 @@ function pageScroll() {
 }
 </script>
 			<a class="left" href="index.php"><span class="arrow">&nbsp;</span> Various Artists</a>
-				<h1 class="title">Taylor Swift - Welcome to New York</h1>
+				<h1 class="title">Strumbellas - Spirits</h1>
 				<a class="right" href="<?php echo random_tab(); ?>">Random!</a>
 			</div><!--header-->
 
 			<div class="content">
                 
 				<div class="tab">
-					<pre><p><?php include '../../tab/taylorswift/taylor swift - welcome to new york.txt';?> </p></pre>
+					<pre><p><?php include '../../tab/other/strumbellas - spirits.txt';?> </p></pre>
 
 <?php include '../../include/footer.php';?>
