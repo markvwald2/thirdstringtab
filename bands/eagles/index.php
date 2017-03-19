@@ -8,6 +8,7 @@
 			<div class="content">
 
 				<div class="box-white">
+					<p><a href="hotel-california.php">Hotel California<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="peaceful-easy-feeling.php">Peaceful Easy Feeling<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="take-it-easy.php">Take It Easy<span><span class="arrow">&nbsp;</span></span></a></p>
 

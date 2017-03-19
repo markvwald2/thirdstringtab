@@ -24,6 +24,7 @@
 					<li><a href="http://thirdstringshirts.com/tab/bands/defleppard"><span class="ico msg"></span>Def Leppard</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/eagles"><span class="ico msg"></span>The Eagles</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/gillianwelch"><span class="ico msg"></span>Gillian Welch</a></li>
+					<li><a href="http://thirdstringshirts.com/tab/bands/greenday"><span class="ico msg"></span>Green Day</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/holdsteady"><span class="ico msg"></span>The Hold Steady</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/humorinuniform"><span class="ico msg"></span>Humor In Uniform</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/lizphair"><span class="ico msg"></span>Liz Phair</a></li>
@@ -43,6 +44,8 @@
 					<li><a href="http://thirdstringshirts.com/tab/bands/sonvolt"><span class="ico msg"></span>Son Volt</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/stephenmalkmus"><span class="ico msg"></span>Stephen Malkmus</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/stevesongs"><span class="ico msg"></span>SteveSongs</a></li>
+					<li><a href="http://thirdstringshirts.com/tab/bands/stonetemplepilots"><span class="ico msg"></span>Stone Temple Pilots</a></li>
+					<li><a href="http://thirdstringshirts.com/tab/bands/taylorswift"><span class="ico msg"></span>Taylor Swift</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/u2"><span class="ico msg"></span>U2</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/uncletupelo"><span class="ico msg"></span>Uncle Tupelo</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/wallflowers"><span class="ico msg"></span>The Wallflowers</a></li>

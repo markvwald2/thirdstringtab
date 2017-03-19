@@ -176,7 +176,6 @@ ee<?php include '../../include/header.php';?>
 						<p><a href="spacehog-in-the-meantime.php">Spacehog - In the Meantime<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="spoon-lines-in-the-suit.php">Spoon - Lines in the Suit<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="steve-miller-band-take-the-money-and-run.php">Steve Miller Band - Take the Money and Run<span><span class="arrow">&nbsp;</span></span></a></p>
-						<p><a href="stone-temple-pilots-interstate-love-song.php">Stone Temple Pilots - Interstate Love Song<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="strumbellas-spirits.php">Strumbellas - Spirits<span><span class="arrow">&nbsp;</span></span></a></p>
 						<a name="t" class="anchor"></a>
 						<h2 class="title2">T</h2>
@@ -185,6 +184,7 @@ ee<?php include '../../include/header.php';?>
 						<p><a href="thermals-returning-to-the-fold.php">Thermals - Returning to the Fold<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="third-eye-blind-hows-it-going-to-be.php">Third Eye Blind - How's It Going to Be<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="tom-petty-i-wont-back-down.php">Tom Petty - I Won't Back Down<span><span class="arrow">&nbsp;</span></span></a></p>
+						<p><a href="toto-rosanna.php">Toto - Rosanna<span><span class="arrow">&nbsp;</span></span></a></p>
 						<a name="w" class="anchor"></a>
 						<h2 class="title2">W</h2>
 						<p><a href="wheatus-teenage-dirtbag.php">Wheatus - Teenage Dirtbag<span><span class="arrow">&nbsp;</span></span></a></p>
