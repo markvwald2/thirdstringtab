@@ -64,6 +64,7 @@ ee<?php include '../../include/header.php';?>
 						<p><a href="coconut-records-wires.php">Coconut Records - Wires<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="convoy-anytime-she-wants-it.php">Convoy - Anytime She Wants It<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="corey-hart-sunglasses-at-night.php">Corey Hart - Sunglasses at Night<span><span class="arrow">&nbsp;</span></span></a></p>
+						<p><a href="cranberries-zombie.php">The Cranberries - Zombie<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="crowded-house-dont-dream-its-over.php">Crowded House - Don't Dream It's Over<span><span class="arrow">&nbsp;</span></span></a></p>
 						<a name="d" class="anchor"></a>
 						<h2 class="title2">D</h2>
@@ -125,13 +126,16 @@ ee<?php include '../../include/header.php';?>
 						<p><a href="la-guns-its-over-now.php">L.A. Guns - It's Over Now<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="lee-majors-unknown-stuntman.php">Lee Majors - Unknown Stuntman<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="lisa-loeb-stay-i-missed-you.php">Lisa Loeb - Stay (I Missed You)<span><span class="arrow">&nbsp;</span></span></a></p>
+						<p><a href="lit-my-own-worst-enemy.php">Lit - My Own Worst Enemy<span><span class="arrow">&nbsp;</span></span></a></p>
 						<a name="m" class="anchor"></a>
 						<h2 class="title2">M</h2>
+						<p><a href="macy-gray-i-try.php">Macy Gray - I Try<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="margot-and-the-nuclear-so-and-sos-broadripple-is-burning.php">Margot and the Nuclear So and So's - Broadripple is Burning<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="matthew-sweet-sick-of-myself.php">Matthew Sweet - Sick of Myself<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="the-men-dark-waltz.php">The Men - Dark Waltz<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="michael-bolton-how-can-we-be-lovers.php">Michael Bolton - How Can We Be Lovers<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="mister-mister-kyrie.php">Mister Mister - Kyrie<span><span class="arrow">&nbsp;</span></span></a></p>
+						<p><a href="morcheeba-the-sea.php">Morcheeba - The Sea<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="my-morning-jacket-im-amazed.php">My Morning Jacket - I'm Amazed<span><span class="arrow">&nbsp;</span></span></a></p>
 						<a name="n" class="anchor"></a>
 						<h2 class="title2">N</h2>
@@ -158,6 +162,7 @@ ee<?php include '../../include/header.php';?>
 						<p><a href="portishead-glory-box.php">Portishead - Glory Box<span><span class="arrow">&nbsp;</span></span></a></p>
 						<a name="r" class="anchor"></a>
 						<h2 class="title2">R</h2>
+						<p><a href="ramones-i-wanna-be-sedated.php">The Ramones - I Wanna Be Sedated<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="refreshments-banditos.php">The Refreshments - Banditos<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="rembrandts-just-the-way-it-is-baby.php">The Rembrandts - Just the Way It Is, Baby<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="replacements-cant-hardly-wait.php">The Replacements - Can't Hardly Wait<span><span class="arrow">&nbsp;</span></span></a></p>
@@ -176,7 +181,6 @@ ee<?php include '../../include/header.php';?>
 						<p><a href="spacehog-in-the-meantime.php">Spacehog - In the Meantime<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="spoon-lines-in-the-suit.php">Spoon - Lines in the Suit<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="steve-miller-band-take-the-money-and-run.php">Steve Miller Band - Take the Money and Run<span><span class="arrow">&nbsp;</span></span></a></p>
-						<p><a href="stone-temple-pilots-interstate-love-song.php">Stone Temple Pilots - Interstate Love Song<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="strumbellas-spirits.php">Strumbellas - Spirits<span><span class="arrow">&nbsp;</span></span></a></p>
 						<a name="t" class="anchor"></a>
 						<h2 class="title2">T</h2>
@@ -184,7 +188,9 @@ ee<?php include '../../include/header.php';?>
 						<p><a href="telekinesis-power-lines.php">Telekinesis - Power Lines<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="thermals-returning-to-the-fold.php">Thermals - Returning to the Fold<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="third-eye-blind-hows-it-going-to-be.php">Third Eye Blind - How's It Going to Be<span><span class="arrow">&nbsp;</span></span></a></p>
+						<p><a href="tlc-waterfalls.php">TLC - Waterfalls<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="tom-petty-i-wont-back-down.php">Tom Petty - I Won't Back Down<span><span class="arrow">&nbsp;</span></span></a></p>
+						<p><a href="toto-rosanna.php">Toto - Rosanna<span><span class="arrow">&nbsp;</span></span></a></p>
 						<a name="w" class="anchor"></a>
 						<h2 class="title2">W</h2>
 						<p><a href="wheatus-teenage-dirtbag.php">Wheatus - Teenage Dirtbag<span><span class="arrow">&nbsp;</span></span></a></p>
