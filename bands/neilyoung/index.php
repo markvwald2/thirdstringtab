@@ -8,8 +8,8 @@
 			<div class="content">
 
 				<div class="box-white">
-					<p><a href="old-man.php">Neil Young - Old Man<span><span class="arrow">&nbsp;</span></span></a></p>
-					<p><a href="rockin-in-the-free-world.php">Neil Young - Rockin' in the Real World<span><span class="arrow">&nbsp;</span></span></a></p>
+					<p><a href="old-man.php">Old Man<span><span class="arrow">&nbsp;</span></span></a></p>
+					<p><a href="rockin-in-the-free-world.php">Rockin' in the Real World<span><span class="arrow">&nbsp;</span></span></a></p>
 
 
 <?php include '../../include/footer.php';?>

@@ -35,7 +35,8 @@ body {min-width:0px;}
 					<p><a href="http://thirdstringshirts.com/tab/bands/defleppard">Def Leppard<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://thirdstringshirts.com/tab/bands/eagles">The Eagles<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://thirdstringshirts.com/tab/bands/gillianwelch">Gillian Welch<span><span class="arrow">&nbsp;</span></span></a></p>
-					<p><a href="http://thirdstringshirts.com/tab/bands/greenday">Greeh Day<span><span class="arrow">&nbsp;</span></span></a></p>
+					<p><a href="http://thirdstringshirts.com/tab/bands/greenday">Green Day<span><span class="arrow">&nbsp;</span></span></a></p>
+					<p><a href="http://thirdstringshirts.com/tab/bands/gunsnroses">Guns N' Roses<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://thirdstringshirts.com/tab/bands/holdsteady">The Hold Steady<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://thirdstringshirts.com/tab/bands/humorinuniform">Humor in Uniform<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://thirdstringshirts.com/tab/bands/lizphair">Liz Phair<span><span class="arrow">&nbsp;</span></span></a></p>

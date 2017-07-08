@@ -25,6 +25,7 @@
 					<li><a href="http://thirdstringshirts.com/tab/bands/eagles"><span class="ico msg"></span>The Eagles</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/gillianwelch"><span class="ico msg"></span>Gillian Welch</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/greenday"><span class="ico msg"></span>Green Day</a></li>
+					<li><a href="http://thirdstringshirts.com/tab/bands/gunsnroses"><span class="ico msg"></span>Guns N' Roses</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/holdsteady"><span class="ico msg"></span>The Hold Steady</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/humorinuniform"><span class="ico msg"></span>Humor In Uniform</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/lizphair"><span class="ico msg"></span>Liz Phair</a></li>
