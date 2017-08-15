@@ -6,6 +6,8 @@ function random_tab($dirName = "/home/content/v/w/a/vwald/html/tab/bands/*/")
 
 	$files = preg_grep('~/index.php~i', $files, PREG_GREP_INVERT);
 	$files = preg_grep('~/stevesongs~i', $files, PREG_GREP_INVERT);
+	$files = preg_grep('~/wilco~i', $files, PREG_GREP_INVERT);
+	$files = preg_grep('~/old97s~i', $files, PREG_GREP_INVERT);
 
 	$file = array_rand($files);
 

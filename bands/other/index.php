@@ -43,6 +43,7 @@ ee<?php include '../../include/header.php';?>
 					    <p><a href="4-non-blondes-whats-up.php">4 Non Blondes - What's Up<span><span class="arrow">&nbsp;</span></span></a></p>
 						<h2 class="title2">A</h2>
 					    <p><a href="a-ha-take-on-me.php">A-Ha - Take On Me<span><span class="arrow">&nbsp;</span></span></a></p>
+					    <p><a href="aimee-mann-save-me.php">Aimee Mann - Save Me<span><span class="arrow">&nbsp;</span></span></a></p>
 					    <p><a href="arcade-fire-wake-up.php">Arcade Fire - Wake Up<span><span class="arrow">&nbsp;</span></span></a></p>
 						<a name="b" class="anchor"></a>
 						<h2 class="title2">B</h2>
@@ -51,7 +52,6 @@ ee<?php include '../../include/header.php';?>
 						<p><a href="baltimora-tarzan-boy.php">Baltimora - Tarzan Boy<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="band-of-horses-older.php">Band of Horses - Older<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="be-good-tanyas-ship-out-on-the-sea.php">The Be Good Tanyas - Ship Out on the Sea<span><span class="arrow">&nbsp;</span></span></a></p>
-						<p><a href="beatles-yellow-submarine.php">Beatles - Yellow Submarine<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="ben-kweller-wasted-and-ready.php">Ben Kweller - Wasted and Ready<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="billy-joe-shaver-honky-tonk-heroes.php">Billy Joe Shaver - Honky Tonk Heroes<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="black-rebel-motorcycle-club-stop.php">Black Rebel Motorcycle Club - Stop<span><span class="arrow">&nbsp;</span></span></a></p>
@@ -65,6 +65,7 @@ ee<?php include '../../include/header.php';?>
 						<p><a href="convoy-anytime-she-wants-it.php">Convoy - Anytime She Wants It<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="corey-hart-sunglasses-at-night.php">Corey Hart - Sunglasses at Night<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="cranberries-zombie.php">The Cranberries - Zombie<span><span class="arrow">&nbsp;</span></span></a></p>
+						<p><a href="crash-test-dummies-supermans-song.php">Crash Test Dummies - Superman's Song<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="crowded-house-dont-dream-its-over.php">Crowded House - Don't Dream It's Over<span><span class="arrow">&nbsp;</span></span></a></p>
 						<a name="d" class="anchor"></a>
 						<h2 class="title2">D</h2>
@@ -102,7 +103,6 @@ ee<?php include '../../include/header.php';?>
 						<p><a href="great-white-once-bitten-twice-shy.php">Great White - Once Bitten, Twice Shy<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="greg-kihn-band-break-up-song.php">Greg Kihn Band - Break Up Song<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="guess-who-no-sugar-tonight-new-mother-nature.php">The Guess Who - No Sugar Tonight/New Mother Nature<span><span class="arrow">&nbsp;</span></span></a></p>
-						<p><a href="guns-n-roses-dont-cry.php">Guns N' Roses - Don't Cry<span><span class="arrow">&nbsp;</span></span></a></p>
 						<a name="h" class="anchor"></a>
 						<h2 class="title2">H</h2>
 						<p><a href="head-and-the-heart-lets-be-still.php">The Head and the Heart - Let's Be Still<span><span class="arrow">&nbsp;</span></span></a></p>
@@ -177,6 +177,7 @@ ee<?php include '../../include/header.php';?>
 						<p><a href="sheryl-crow-soak-up-the-sun.php">Sheryl Crow - Soak Up the Sun<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="shins-gone-for-good.php">Shins - Gone for Good<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="simple-minds-dont-you-forget-about-me.php">Simple Minds - Don't You (Forget About Me)<span><span class="arrow">&nbsp;</span></span></a></p>
+						<p><a href="sinead-oconnor-nothing-compares-2-u.php">Sin&eacute;ad O'Connor - Nothing Compares 2 U<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="sloan-rest-of-my-life.php">Sloan - Rest of My Life<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="spacehog-in-the-meantime.php">Spacehog - In the Meantime<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="spoon-lines-in-the-suit.php">Spoon - Lines in the Suit<span><span class="arrow">&nbsp;</span></span></a></p>
@@ -189,7 +190,6 @@ ee<?php include '../../include/header.php';?>
 						<p><a href="thermals-returning-to-the-fold.php">Thermals - Returning to the Fold<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="third-eye-blind-hows-it-going-to-be.php">Third Eye Blind - How's It Going to Be<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="tlc-waterfalls.php">TLC - Waterfalls<span><span class="arrow">&nbsp;</span></span></a></p>
-						<p><a href="tom-petty-i-wont-back-down.php">Tom Petty - I Won't Back Down<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="toto-rosanna.php">Toto - Rosanna<span><span class="arrow">&nbsp;</span></span></a></p>
 						<a name="w" class="anchor"></a>
 						<h2 class="title2">W</h2>

@@ -24,6 +24,7 @@ body {min-width:0px;}
 				<div class="box-white">
 					<p><a href="http://thirdstringshirts.com/tab/bands/aerosmith">Aerosmith<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://thirdstringshirts.com/tab/bands/badcompany">Bad Company<span><span class="arrow">&nbsp;</span></span></a></p>
+					<p><a href="http://thirdstringshirts.com/tab/bands/beatles">The Beatles<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://thirdstringshirts.com/tab/bands/bigheadtodd">Big Head Todd &amp; the Monsters<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://thirdstringshirts.com/tab/bands/billybraggandwilco">Billy Bragg &amp; Wilco<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://thirdstringshirts.com/tab/bands/billyjoel">Billy Joel<span><span class="arrow">&nbsp;</span></span></a></p>
@@ -35,7 +36,8 @@ body {min-width:0px;}
 					<p><a href="http://thirdstringshirts.com/tab/bands/defleppard">Def Leppard<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://thirdstringshirts.com/tab/bands/eagles">The Eagles<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://thirdstringshirts.com/tab/bands/gillianwelch">Gillian Welch<span><span class="arrow">&nbsp;</span></span></a></p>
-					<p><a href="http://thirdstringshirts.com/tab/bands/greenday">Greeh Day<span><span class="arrow">&nbsp;</span></span></a></p>
+					<p><a href="http://thirdstringshirts.com/tab/bands/greenday">Green Day<span><span class="arrow">&nbsp;</span></span></a></p>
+					<p><a href="http://thirdstringshirts.com/tab/bands/gunsnroses">Guns N' Roses<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://thirdstringshirts.com/tab/bands/holdsteady">The Hold Steady<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://thirdstringshirts.com/tab/bands/humorinuniform">Humor in Uniform<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://thirdstringshirts.com/tab/bands/lizphair">Liz Phair<span><span class="arrow">&nbsp;</span></span></a></p>
@@ -57,6 +59,7 @@ body {min-width:0px;}
 					<p><a href="http://thirdstringshirts.com/tab/bands/stevesongs">SteveSongs<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://thirdstringshirts.com/tab/bands/stonetemplepilots">Stone Temple Pilots<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://thirdstringshirts.com/tab/bands/taylorswift">Taylor Swift<span><span class="arrow">&nbsp;</span></span></a></p>
+					<p><a href="http://thirdstringshirts.com/tab/bands/tompetty">Tom Petty<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://thirdstringshirts.com/tab/bands/u2">U2<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://thirdstringshirts.com/tab/bands/uncletupelo">Uncle Tupelo<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://thirdstringshirts.com/tab/bands/wallflowers">The Wallflowers<span><span class="arrow">&nbsp;</span></span></a></p>

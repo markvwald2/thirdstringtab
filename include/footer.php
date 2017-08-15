@@ -13,6 +13,7 @@
 				<ul class="nav">
 					<li><a href="http://thirdstringshirts.com/tab/bands/aerosmith"><span class="ico msg"></span>Aerosmith</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/badcompany"><span class="ico msg"></span>Bad Company</a></li>
+					<li><a href="http://thirdstringshirts.com/tab/bands/beatles"><span class="ico msg"></span>The Beatles</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/bigheadtodd"><span class="ico msg"></span>Big Head Todd &amp; the Monsters</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/billybraggandwilco"><span class="ico msg"></span>Billy Bragg &amp; Wilco</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/billyjoel"><span class="ico msg"></span>Billy Joel</a></li>
@@ -25,6 +26,7 @@
 					<li><a href="http://thirdstringshirts.com/tab/bands/eagles"><span class="ico msg"></span>The Eagles</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/gillianwelch"><span class="ico msg"></span>Gillian Welch</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/greenday"><span class="ico msg"></span>Green Day</a></li>
+					<li><a href="http://thirdstringshirts.com/tab/bands/gunsnroses"><span class="ico msg"></span>Guns N' Roses</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/holdsteady"><span class="ico msg"></span>The Hold Steady</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/humorinuniform"><span class="ico msg"></span>Humor In Uniform</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/lizphair"><span class="ico msg"></span>Liz Phair</a></li>
@@ -46,6 +48,7 @@
 					<li><a href="http://thirdstringshirts.com/tab/bands/stevesongs"><span class="ico msg"></span>SteveSongs</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/stonetemplepilots"><span class="ico msg"></span>Stone Temple Pilots</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/taylorswift"><span class="ico msg"></span>Taylor Swift</a></li>
+					<li><a href="http://thirdstringshirts.com/tab/bands/tompetty"><span class="ico msg"></span>Tom Petty</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/u2"><span class="ico msg"></span>U2</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/uncletupelo"><span class="ico msg"></span>Uncle Tupelo</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/wallflowers"><span class="ico msg"></span>The Wallflowers</a></li>
