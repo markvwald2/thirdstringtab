@@ -19,8 +19,13 @@ body {min-width:0px;}
 			</div><!--header-->
 
 			<div class="content">
-				<h2 class="title2">Bands</h2>
+				
+				<h2 class="title2">Individual Songs</h2>
+				<div class="box-white">
+					<p><a href="http://thirdstringshirts.com/tab/bands/other">Various Artists<span><span class="arrow">&nbsp;</span></span></a></p>
+				</div><!--box-white-->
 
+				<h2 class="title2">Bands</h2>
 				<div class="box-white">
 					<p><a href="http://thirdstringshirts.com/tab/bands/aerosmith">Aerosmith<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://thirdstringshirts.com/tab/bands/badcompany">Bad Company<span><span class="arrow">&nbsp;</span></span></a></p>
@@ -66,10 +71,5 @@ body {min-width:0px;}
 					<p><a href="http://thirdstringshirts.com/tab/bands/weezer">Weezer<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://thirdstringshirts.com/tab/bands/whiskeytown">Whiskeytown<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://thirdstringshirts.com/tab/bands/wilco">Wilco<span><span class="arrow">&nbsp;</span></span></a></p>
-				</div><!--box-white-->
-				<h2 class="title2">Individual Songs</h2>
-
-				<div class="box-white">
-					<p><a href="http://thirdstringshirts.com/tab/bands/other">Various Artists<span><span class="arrow">&nbsp;</span></span></a></p>
 
 <?php include 'include/footer.php';?>

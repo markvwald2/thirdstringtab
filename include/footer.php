@@ -7,9 +7,19 @@
 
 		<div id="sidebar">
 			<div class="header">
-				<p class="title">Bands</p>
+				<p class="title">Tablature</p>
 			</div>
 			<div class="content">
+				<div style="color:#6d6d72;font-size:14px;font-weight:normal;margin:10px 21px 4px;text-transform: uppercase;">
+					<h1>Individual Songs</h1>
+				</div>
+				<ul class="nav">
+					<li><a href="http://thirdstringshirts.com/tab/bands/other"><span class="ico msg"></span>Various Artists</a></li>
+				</ul>
+				<br>
+				<div style="color:#6d6d72;font-size:14px;font-weight:normal;margin:10px 21px 4px;text-transform: uppercase;">
+					<h1>Bands</h1>
+				</div>
 				<ul class="nav">
 					<li><a href="http://thirdstringshirts.com/tab/bands/aerosmith"><span class="ico msg"></span>Aerosmith</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/badcompany"><span class="ico msg"></span>Bad Company</a></li>
@@ -55,10 +65,6 @@
 					<li><a href="http://thirdstringshirts.com/tab/bands/weezer"><span class="ico msg"></span>Weezer</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/whiskeytown"><span class="ico msg"></span>Whiskeytown</a></li>
 					<li><a href="http://thirdstringshirts.com/tab/bands/wilco"><span class="ico msg"></span>Wilco</a></li>
-				</ul>
-				<br>
-				<ul class="nav">
-					<li><a href="http://thirdstringshirts.com/tab/bands/other"><span class="ico msg"></span>Individual Songs</a></li>
 				</ul>
 				<br>
 				<p align="center">Powered by <a class="strong" href="http://thirdstringshirts.com/">thirdstringshirts.com</a></p>
