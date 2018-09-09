@@ -1,4 +1,4 @@
-<?php include '../../include/header.php';?>
+<?php $title="Neil Young - Rockin' In The Free World"; include '../../include/header.php';?>	
 
 <script type="text/javascript">
 window.setTimeout(pageScroll, 100000); // delay scrolling for 100 seconds
@@ -8,13 +8,13 @@ function pageScroll() {
 }
 </script>
 			<a class="left" href="index.php"><span class="arrow">&nbsp;</span> Neil Young</a>
-				<h1 class="title">Neil Young - Rockin' In The Free World</h1>
+				<h1 class="title"><?php echo $title; ?></h1>
 				<a class="right" href="<?php echo random_tab(); ?>">Random!</a>
 			</div><!--header-->
 
 			<div class="content">
                 
 				<div class="tab">
-					<pre><p><?php include '../../tab/other/Neil Young - Rockin In The Free World.txt';?> </p></pre>
+					<pre><p><?php include '../../tab/neilyoung/Neil Young - Rockin In The Free World.txt';?> </p></pre>
 
 <?php include '../../include/footer.php';?>

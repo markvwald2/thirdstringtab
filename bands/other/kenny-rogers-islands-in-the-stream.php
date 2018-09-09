@@ -1,4 +1,4 @@
-<?php include '../../include/header.php';?>
+<?php $title="Kenny Rogers - Islands in the Stream"; include '../../include/header.php';?>	
 <style type="text/css">
 .female {
 	color: #F00;
@@ -19,18 +19,17 @@ function pageScroll() {
 }
 </script>
 			<a class="left" href="index.php"><span class="arrow">&nbsp;</span> Various Artists</a>
-
-				<h1 class="title">Kenny Rogers - Islands in the Stream</h1>
+				<h1 class="title"><?php echo $title; ?></h1>
 				<a class="right" href="<?php echo random_tab(); ?>">Random!</a>
 			</div><!--header-->
 
+			<div class="content">
 
-<div class="content">
-	<div class="tab">
-		<pre><p>
-<span class="female">female: red</span>
-<span class="male">male: blue</span>
-<span class="both">both: green</span>
+				<div class="tab">
+					<pre><p>
+						<span class="female">female: red</span>
+						<span class="male">male: blue</span>
+						<span class="both">both: green</span>
 
 C  F  C  2x
 

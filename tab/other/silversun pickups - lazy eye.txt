@@ -1,0 +1,125 @@
+C# 9(11)(11)xxx
+B 799xxx
+E 0(11)xxxx
+
+riff 1
+e|------------------------------------------------------|
+B|------------------------------------------------------|
+G|------------------------------------------------------|
+D|------------------------------------------------------|
+A|--11-11-11-11-11-11-11-11-9-9-9-9h11-11-11b12r11-9-9--|
+E|--0--0--0--0--0--0--0--0--0-0-0-0----0--0--------0-0--|
+
+riff 2
+e|------------------------------------------------|
+b|------------------------------------------------|
+g|------------------------------------------------|
+d|------------------------------------------------|
+a|--11-11-11-11-11-11-11-11-9\7/9-11-11-11-11-11--|
+e|--0--0--0--0--0--0--0--0--0-----0--0--0--0--0---|
+
+riff 3
+e|-----------------------------------------------|
+B|-----------------------------------------------|
+G|-----------------------------------------------|
+d|--------------------------9/11/9---------------|
+a|--11-11-11-11-11-11-11-11--------11-11-11-9-9--|
+E|--0--0--0--0--0--0--0--0--0------0--0--0--0-0--|
+
+riff 4
+e|---------------------------------------------------------------------|
+B|---------------------------------------------------------------------|
+G|---------------------------------------------------------------------|
+g|--9-9-9-9-9-9--11-11-11--13-13-13-13--9-9-9-9-9-9--11--9/13--13--13--|
+d|--x-x-x-x-x-x--x--x--x---x--x--x--x---x-x-x-x-x-x--x---x/x---x---x---|
+a|--7-7-7-7-7-7--9--9--9---11-11-11-11--7-7-7-7-7-7--9---7/11--11--11--|
+E|---------------------------------------------------------------------|
+
+
+riff 1 x3
+riff 2
+C#   B
+
+riff 3 x4
+
+riff 2
+I've been waiting
+riff 2                                    C#
+I've been waiting for this moment all my life
+B                   riff 3
+But it's not quite right
+
+riff 3
+
+riff 2
+And this real
+riff 2                                      C#
+It's impossible if possible at whose blind word
+B
+So clear but so unheard
+
+solo
+
+riff 2
+I've been waiting
+riff 2                                        C#
+I've been waiting for this silence all night long
+B
+It's just a matter of time
+
+riff *start of fancy
+
+riff 2
+To appear sad
+riff 2                                              C#
+With the same old decent lazy eye fixed to rest on you
+B
+Aim free and so untrue
+
+riff 4 x2
+
+C#                 B             riff 3 x2
+Everyone's so intimately rearranged
+C#                      B                 riff 12 x2
+Everyone's so focused clearly with such shine
+
+riff 2  x2
+
+C#                 B             riff 2 x2
+Everyone's so intimately rearranged
+C#                      B                 E
+Everyone's so focused clearly with such shine
+
+E
+Lost and loaded
+E
+Still the same old decent lazy eye
+E
+Straight through your gaze
+                       C#
+That's why I said I relate
+           B                       riff 1 x2
+I said we relate it's so fun to relate
+
+riff 1
+It's the room, the sun, and the sky
+riff 1
+The room, the sun, and the sky
+
+riff 2 x4  \  x2 (quiet)
+C#   B     / 
+
+riff 2 x4  \  x3 (loud)
+C#   B     /
+
+riff 2 x4  \  x1 (quiet)
+C#   B     /
+
+riff 3 x4
+
+riff 2
+I've been waiting
+riff 2
+I've been waiting for this moment
+
+riff 2 x2

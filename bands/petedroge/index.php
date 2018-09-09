@@ -13,5 +13,6 @@
 					<p><a href="if-you-dont-love-me-ill-kill-myself.php">If You Don't Love Me (I'll Kill Myself)<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="mr-jade.php">Mr. Jade<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="northern-bound-train.php">Northern Bound Train<span><span class="arrow">&nbsp;</span></span></a></p>
+					<p><a href="sunspot-stopwatch.php">Sunspot Stopwatch<span><span class="arrow">&nbsp;</span></span></a></p>
 
 <?php include '../../include/footer.php';?>

@@ -1,4 +1,4 @@
-<?php include '../../include/header.php';?>
+<?php $title="Wilco - Candy Floss"; include '../../include/header.php';?>	
 
 <script type="text/javascript">
 window.setTimeout(pageScroll, 100000); // delay scrolling for 100 seconds
@@ -8,7 +8,7 @@ function pageScroll() {
 }
 </script>
 			<a class="left" href="index.php"><span class="arrow">&nbsp;</span> Wilco</a>
-				<h1 class="title">Wilco - Candy Floss</h1>
+				<h1 class="title"><?php echo $title; ?></h1>
 				<a class="right" href="<?php echo random_tab(); ?>">Random!</a>
 			</div><!--header-->
 

@@ -1,4 +1,4 @@
-<?php include '../../include/header.php';?>
+<?php $title="Screaming Trees - Nearly Lost You"; include '../../include/header.php';?>	
 
 <script type="text/javascript">
 window.setTimeout(pageScroll, 90000); // delay scrolling for 30 seconds
@@ -8,7 +8,7 @@ function pageScroll() {
 }
 </script>
 			<a class="left" href="index.php"><span class="arrow">&nbsp;</span> Various Artists</a>
-				<h1 class="title">Screaming Trees - Nearly Lost You</h1>
+				<h1 class="title"><?php echo $title; ?></h1>
 				<a class="right" href="<?php echo random_tab(); ?>">Random!</a>
 			</div><!--header-->
 

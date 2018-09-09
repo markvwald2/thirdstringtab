@@ -1,4 +1,4 @@
-<?php include '../../include/header.php';?>
+<?php $title="Stephen Malkmus - The Hook"; include '../../include/header.php';?>	
 
 <script type="text/javascript">
 window.setTimeout(pageScroll, 100000); // delay scrolling for 100 seconds
@@ -8,7 +8,7 @@ function pageScroll() {
 }
 </script>
 			<a class="left" href="index.php"><span class="arrow">&nbsp;</span> Stephen Malkmus</a>
-				<h1 class="title">Stephen Malkmus - The Hook</h1>
+				<h1 class="title"><?php echo $title; ?></h1>
 				<a class="right" href="<?php echo random_tab(); ?>">Random!</a>
 			</div><!--header-->
 

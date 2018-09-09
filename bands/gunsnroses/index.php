@@ -8,7 +8,7 @@ k<?php include '../../include/header.php';?>
 			<div class="content">
 
 				<div class="box-white">
-					<p><a href="guns-n-roses-dont-cry.php">Don't Cry<span><span class="arrow">&nbsp;</span></span></a></p>
-					<p><a href="guns-n-roses-patience.php">Patience<span><span class="arrow">&nbsp;</span></span></a></p>
+					<p><a href="dont-cry.php">Don't Cry<span><span class="arrow">&nbsp;</span></span></a></p>
+					<p><a href="patience.php">Patience<span><span class="arrow">&nbsp;</span></span></a></p>
 
 <?php include '../../include/footer.php';?>
