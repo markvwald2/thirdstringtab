@@ -44,7 +44,6 @@ ee<?php include '../../include/header.php';?>
 						<h2 class="title2">A</h2>
 					    <p><a href="a-ha-take-on-me.php">A-Ha - Take On Me<span><span class="arrow">&nbsp;</span></span></a></p>
 					    <p><a href="aimee-mann-save-me.php">Aimee Mann - Save Me<span><span class="arrow">&nbsp;</span></span></a></p>
-					    <p><a href="alanis-morissette-hand-in-my-pocket.php">Alanis Morissette - Hand In My Pocket<span><span class="arrow">&nbsp;</span></span></a></p>
 					    <p><a href="arcade-fire-wake-up.php">Arcade Fire - Wake Up<span><span class="arrow">&nbsp;</span></span></a></p>
 						<a name="b" class="anchor"></a>
 						<h2 class="title2">B</h2>
@@ -122,6 +121,7 @@ ee<?php include '../../include/header.php';?>
 						<p><a href="janes-addiction-jane-says.php">Jane's Addiction - Jane Says<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="jeffrey-gaines-nursery-rhyme.php">Jeffrey Gaines - Nursery Rhyme<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="jerry-reed-eastbound-and-down.php">Jerry Reed - Eastbound and Down<span><span class="arrow">&nbsp;</span></span></a></p>
+						<p><a href="jet-are-you-gonna-be-my-girl.php">Jet - Are You Gonna Be My Girl?<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="joel-plaskett-true-patriot-love.php">Joel Plaskett - True Patriot Love<span><span class="arrow">&nbsp;</span></span></a></p>
 						<a name="k" class="anchor"></a>
 						<h2 class="title2">K</h2>
@@ -166,7 +166,6 @@ ee<?php include '../../include/header.php';?>
 						<p><a href="parry-gripp-hero-up.php">Parry Gripp - Hero Up<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="patrick-swayze-shes-like-the-wind.php">Patrick Swayze - She's Like the Wind<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="pavement-cut-your-hair.php">Pavement - Cut Your Hair<span><span class="arrow">&nbsp;</span></span></a></p>
-						<p><a href="pearl-jam-betterman.php">Pearl Jam - Betterman<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="phantom-planet-1st-things-1st.php">Phantom Planet - 1st Thing's 1st<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="phil-collins-in-the-air-tonight.php">Phil Collins - In the Air Tonight<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="pink-so-what.php">Pink - So What<span><span class="arrow">&nbsp;</span></span></a></p>
@@ -179,6 +178,7 @@ ee<?php include '../../include/header.php';?>
 						<h2 class="title2">R</h2>
 						<p><a href="ramones-i-wanna-be-sedated.php">The Ramones - I Wanna Be Sedated<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="refreshments-banditos.php">The Refreshments - Banditos<span><span class="arrow">&nbsp;</span></span></a></p>
+						<p><a href="rem-whats-the-frequency-kenneth.php">R.E.M. - What's the Frequency, Kenneth?<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="rembrandts-just-the-way-it-is-baby.php">The Rembrandts - Just the Way It Is, Baby<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="replacements-cant-hardly-wait.php">The Replacements - Can't Hardly Wait<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="rolling-stones-beast-of-burden.php">Rolling Stones - Beast of Burden<span><span class="arrow">&nbsp;</span></span></a></p>
@@ -196,6 +196,7 @@ ee<?php include '../../include/header.php';?>
 						<p><a href="sinead-oconnor-nothing-compares-2-u.php">Sin&eacute;ad O'Connor - Nothing Compares 2 U<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="sloan-rest-of-my-life.php">Sloan - Rest of My Life<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="spacehog-in-the-meantime.php">Spacehog - In the Meantime<span><span class="arrow">&nbsp;</span></span></a></p>
+						<p><a href="spin-doctors-two-princes.php">Spin Doctors - Two Princes<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="spoon-lines-in-the-suit.php">Spoon - Lines in the Suit<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="steve-miller-band-take-the-money-and-run.php">Steve Miller Band - Take the Money and Run<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="strumbellas-spirits.php">Strumbellas - Spirits<span><span class="arrow">&nbsp;</span></span></a></p>

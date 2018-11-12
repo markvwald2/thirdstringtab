@@ -22,6 +22,7 @@
 				</div>
 				<ul class="nav">
 					<li><a href="http://zerobureau.com/tab/bands/aerosmith"><span class="ico msg"></span>Aerosmith</a></li>
+					<li><a href="http://zerobureau.com/tab/bands/alanismorissette"><span class="ico msg"></span>Alanis Morissette</a></li>
 					<li><a href="http://zerobureau.com/tab/bands/badcompany"><span class="ico msg"></span>Bad Company</a></li>
 					<li><a href="http://zerobureau.com/tab/bands/bandofhorses"><span class="ico msg"></span>Band of Horses</a></li>
 					<li><a href="http://zerobureau.com/tab/bands/beatles"><span class="ico msg"></span>The Beatles</a></li>
@@ -48,9 +49,10 @@
 					<li><a href="http://zerobureau.com/tab/bands/old97s"><span class="ico msg"></span>The Old 97's</a></li>
 					<li><a href="http://zerobureau.com/tab/bands/oldcrowmedicineshow"><span class="ico msg"></span>Old Crow Medicine Show</a></li>
 					<li><a href="http://zerobureau.com/tab/bands/ox"><span class="ico msg"></span>Ox</a></li>
+					<li><a href="http://zerobureau.com/tab/bands/pearljam"><span class="ico msg"></span>Pearl Jam</a></li>
+					<li><a href="http://zerobureau.com/tab/bands/petedroge"><span class="ico msg"></span>Pete Droge</a></li>
 					<li><a href="http://zerobureau.com/tab/bands/phish"><span class="ico msg"></span>Phish</a></li>
 					<li><a href="http://zerobureau.com/tab/bands/pixies"><span class="ico msg"></span>The Pixies</a></li>
-					<li><a href="http://zerobureau.com/tab/bands/petedroge"><span class="ico msg"></span>Pete Droge</a></li>
 					<li><a href="http://zerobureau.com/tab/bands/radiohead"><span class="ico msg"></span>Radiohead</a></li>
 					<li><a href="http://zerobureau.com/tab/bands/ryanadams"><span class="ico msg"></span>Ryan Adams</a></li>
 					<li><a href="http://zerobureau.com/tab/bands/shins"><span class="ico msg"></span>The Shins</a></li>
@@ -70,6 +72,7 @@
 				</ul>
 				<br>
 				<p align="center">Powered by <a class="strong" href="http://zerobureau.com/">zerobureau.com</a></p>
+				<p align="center"><a href="http://zerobureau.com/tab/singalongs.php">...</a></p>
 			</div>
 		</div>
 

@@ -1,7 +1,7 @@
-<?php $title="Silversun Pickups - Lazy Eye"; include '../../include/header.php';?>
+<?php $title="Spin Doctors - Two Princes"; include '../../include/header.php';?>	
 
 <script type="text/javascript">
-window.setTimeout(pageScroll, 80000); // delay scrolling for 80 seconds
+window.setTimeout(pageScroll, 100000); // delay scrolling for 100 seconds
 function pageScroll() {
     	window.scrollBy(0,1); // horizontal and vertical scroll increments
     	scrolldelay = setTimeout('pageScroll()',100); // scrolls every 100 milliseconds
@@ -15,6 +15,6 @@ function pageScroll() {
 			<div class="content">
                 
 				<div class="tab">
-					<pre><p><?php include '../../tab/other/silversun pickups - lazy eye.txt';?> </p></pre>
+					<pre><p><?php include '../../tab/other/spin doctors - two princes.txt';?> </p></pre>
 
 <?php include '../../include/footer.php';?>
