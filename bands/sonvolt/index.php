@@ -9,6 +9,7 @@
 
 				<div class="box-white">
 					<p><a href="drown.php">Drown<span><span class="arrow">&nbsp;</span></span></a></p>
+					<p><a href="medicine-hat.php">Medicine Hat<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="tear-stained-eye.php">Tear Stained Eye<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="windfall.php">Windfall<span><span class="arrow">&nbsp;</span></span></a></p>
 

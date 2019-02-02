@@ -1,4 +1,4 @@
-<?php $title="Son Volt - Drown"; include '../../include/header.php';?>	
+<?php $title="Son Volt - Medicine Hat"; include '../../include/header.php';?>	
 
 <script type="text/javascript">
 window.setTimeout(pageScroll, 100000); // delay scrolling for 100 seconds
@@ -15,6 +15,6 @@ function pageScroll() {
 			<div class="content">
                 
 				<div class="tab">
-					<pre><p><?php include '../../tab/sonvolt/son volt - drown.txt';?> </p></pre>
+					<pre><p><?php include '../../tab/sonvolt/son volt - medicine hat.txt';?> </p></pre>
 
 <?php include '../../include/footer.php';?>

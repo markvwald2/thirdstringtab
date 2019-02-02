@@ -18,6 +18,7 @@ ee<?php include 'include/header.php';?>
 					    <p><a href="bands/defleppard/love-bites.php">Def Leppard - Love Bites<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="bands/other/doobie-brothers-listen-to-the-music.php">Doobie Brothers - Listen to the Music<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="bands/other/fastball-the-way.php">Fastball - The Way<span><span class="arrow">&nbsp;</span></span></a></p>
+						<p><a href="bands/other/eagles-hotel-california.php">Eagles - Hotel California<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="bands/other/george-michael-faith.php">George Michael - Faith<span><span class="arrow">&nbsp;</span></span></a></p>
 					    <p><a href="bands/greenday/basket-case.php">Green Day - Basket Case<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="bands/other/kenny-rogers-islands-in-the-stream.php">Kenny Rogers - Islands in the Stream<span><span class="arrow">&nbsp;</span></span></a></p>

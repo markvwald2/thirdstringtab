@@ -3,7 +3,7 @@ capo VII
 B7  021201
 Em6 045000
 
-[chorus] Em  B7  D  Em6  C  G  Am7  B7
+Em  B7  D  Em6  C  G  Am7  B7
 
 On a dark desert highway, cool wind in my hair
 Warm smell of colitas, rising up through the air
@@ -24,7 +24,7 @@ Welcome to the Hotel California, such a lovely place, such a lovely face
 C                               G           Am7                   B7
 Plenty of room at the Hotel California, any time of year, you can find it here
 
-[chorus] Em  B7  D  Em6  C  G  Am7  B7
+Em  B7  D  Em6  C  G  Am7  B7
 
 Her mind is Tiffany-twisted, she got the Mercedes bends
 She got a lot of pretty, pretty boys, that she calls friends
@@ -43,7 +43,7 @@ Welcome to the Hotel California, such a lovely place, such a lovely face
      C                             G              Am7                       B7
 They livin' it up at the Hotel California, what a nice surprise, bring your alibis
 
-[chorus] Em  B7  D  Em6  C  G  Am7  B7
+Em  B7  D  Em6  C  G  Am7  B7
 
 Mirrors on the ceiling
 The pink champagne on ice
@@ -61,4 +61,5 @@ I had to find the passage back to the place I was before
 You can check out any time you like
 But you can never leave
 
-[chorus] Em  B7  D  Em6  C  G  Am7  B7
+Em  B7  D  Em6  C  G  Am7  B7
+Em

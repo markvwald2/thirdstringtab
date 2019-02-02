@@ -1,4 +1,4 @@
-<?php $title="SonVolt - Tear Stained Eye"; include '../../include/header.php';?>	
+<?php $title="Son Volt - Tear Stained Eye"; include '../../include/header.php';?>	
 
 <script type="text/javascript">
 window.setTimeout(pageScroll, 100000); // delay scrolling for 100 seconds

@@ -9,6 +9,7 @@
 
 				<div class="box-white">
 					<p><a href="blackbird.php">Blackbird<span><span class="arrow">&nbsp;</span></span></a></p>
+					<p><a href="ill-follow-the-sun.php">I'll Follow the Sun<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="yellow-submarine.php">Yellow Submarine<span><span class="arrow">&nbsp;</span></span></a></p>
 
 <?php include '../../include/footer.php';?>

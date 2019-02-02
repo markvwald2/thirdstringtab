@@ -64,6 +64,7 @@ body {min-width:0px;}
 					<p><a href="http://zerobureau.com/tab/bands/shins">The Shins<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://zerobureau.com/tab/bands/smashingpumpkins">Smashing Pumpkins<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://zerobureau.com/tab/bands/sonvolt">Son Volt<span><span class="arrow">&nbsp;</span></span></a></p>
+					<p><a href="http://zerobureau.com/tab/bands/spoon">Spoon<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://zerobureau.com/tab/bands/stephenmalkmus">Stephen Malkmus<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://zerobureau.com/tab/bands/stevesongs">SteveSongs<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://zerobureau.com/tab/bands/stonetemplepilots">Stone Temple Pilots<span><span class="arrow">&nbsp;</span></span></a></p>

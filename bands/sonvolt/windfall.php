@@ -1,4 +1,4 @@
-<?php $title="SonVolt - Windfall"; include '../../include/header.php';?>	
+<?php $title="Son Volt - Windfall"; include '../../include/header.php';?>	
 
 <script type="text/javascript">
 window.setTimeout(pageScroll, 100000); // delay scrolling for 100 seconds
