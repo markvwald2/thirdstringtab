@@ -51,6 +51,7 @@ body {min-width:0px;}
 					<p><a href="http://zerobureau.com/tab/bands/lizphair">Liz Phair<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://zerobureau.com/tab/bands/neilyoung">Neil Young<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://zerobureau.com/tab/bands/newpornographers">The New Pornographers<span><span class="arrow">&nbsp;</span></span></a></p>
+					<p><a href="http://zerobureau.com/tab/bands/oasis">Oasis<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://zerobureau.com/tab/bands/okkervilriver">Okkervil River<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://zerobureau.com/tab/bands/old97s">The Old 97's<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://zerobureau.com/tab/bands/oldcrowmedicineshow">Old Crow Medicine Show<span><span class="arrow">&nbsp;</span></span></a></p>

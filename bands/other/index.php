@@ -51,6 +51,7 @@ ee<?php include '../../include/header.php';?>
 						<p><a href="badfinger-no-matter-what.php">Badfinger - No Matter What<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="baltimora-tarzan-boy.php">Baltimora - Tarzan Boy<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="be-good-tanyas-ship-out-on-the-sea.php">The Be Good Tanyas - Ship Out on the Sea<span><span class="arrow">&nbsp;</span></span></a></p>
+						<p><a href="beck-girl.php">Beck - Girl<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="ben-kweller-wasted-and-ready.php">Ben Kweller - Wasted and Ready<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="billy-joe-shaver-honky-tonk-heroes.php">Billy Joe Shaver - Honky Tonk Heroes<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="black-rebel-motorcycle-club-stop.php">Black Rebel Motorcycle Club - Stop<span><span class="arrow">&nbsp;</span></span></a></p>
@@ -155,9 +156,9 @@ ee<?php include '../../include/header.php';?>
 						<a name="n" class="anchor"></a>
 						<h2 class="title2">N</h2>
 						<p><a href="neko-case-thrice-all-american.php">Neko Case - Thrice All American<span><span class="arrow">&nbsp;</span></span></a></p>
+						<p><a href="nirvana-all-apologies.php">Nirvana - All Apologies<span><span class="arrow">&nbsp;</span></span></a></p>
 						<a name="o" class="anchor"></a>
 						<h2 class="title2">O</h2>
-						<p><a href="oasis-champagne-supernova.php">Oasis - Champagne Supernova<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="ok-go-here-it-goes.php">OK Go - Here It Goes Again<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="oranges-band-ok-apartment.php">Oranges Band - OK Apartment<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="outfield-your-love.php">The Outfield - Your Love<span><span class="arrow">&nbsp;</span></span></a></p>

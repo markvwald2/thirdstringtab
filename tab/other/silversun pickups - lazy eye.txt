@@ -40,7 +40,7 @@ I've been waiting for this moment all my life
 B                   riff 3
 But it's not quite right
 
-riff 3
+riff 3  x2
 
 riff 2
 And this real
@@ -102,13 +102,13 @@ It's the room, the sun, and the sky
 riff 1
 The room, the sun, and the sky
 
-riff 2 x4  \  x2 (quiet)
+riff 2 x4  \  (quiet)
 C#   B     / 
 
-riff 2 x4  \  x3 (loud)
+riff 2 x4  \  (loud)
 C#   B     /
 
-riff 2 x4  \  x1 (quiet)
+riff 2 x4  \  (quiet)
 C#   B     /
 
 riff 3 x4
