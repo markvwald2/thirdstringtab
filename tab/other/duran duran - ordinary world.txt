@@ -1,0 +1,160 @@
+None of the other tabs had the correct chords, including that weird sounding chord, 
+so I decided to make correct tab. The chord in question is an F#m7b5/C, which contains the notes
+F#-A-C-E. I play it like so:
+
+e) 5
+B) 5
+G) 4
+D) x
+A) 3
+E) x
+
+
+____________
+[Intro]
+B - F#m7 - Dsus2 A/C# - Esus2
+B - F#m7 - Dsus2 A/C# - F#m7b5/C
+
+
+
+[Verse]
+C#m7
+Came in from a rainy thursday
+E        F#sus4 F#
+on the avenue
+C#m7                               E       F#sus4 F#
+thought I heard you talking softly
+C#m7
+I turned on the lights, the tv
+E           F#sus4 F#
+and the radio
+C#m                               E     F#sus4 F#
+still I can't escape the ghost of you
+
+
+
+[Bridge]
+C#m
+What is happened to it all?
+G#m7
+Crazy, some say
+D#7                       E
+Where is the life that I recognize?
+E
+gone away
+
+
+[Chorus]
+B                         F#m7
+But I won't cry for yesterday
+                      Dsus2
+there's an ordinary world
+        A/C#          E
+somehow I have to find
+B                        F#m7
+And as I try to make my way
+                  Dsus2
+to the ordinary world
+        A/C#         F#m7b5/C
+I will learn to survive
+
+[Interlude]
+
+  C#m7     C#m6       C#m      C#m (variation on C#m sus4) F#7     F#
+|-7----------6---------4-----------------------------------------------|
+|-5-5--------5-5-------5-5---------4-h5-p4----4-h5-p4----------5-5-2---|
+|-----6----------6-----6---6----6-------------6-------6--------3-3-3---|
+|-6----------6---------6--------6-------------6------------------------|
+|-4----------4---------4--------4-------------4------------4-4---------|
+|----------------------------------------------------------2-2---------|
+
+
+[Verse]
+C#m7
+Passion or coincidence
+       E              F#7
+Once prompted you to say
+C#m7
+"Pride will tear us both apart"
+E       F#sus4 F#
+         Well now
+C#m7
+pride's gone out the window
+            E        F#sus4 F#
+Cross the rooftops, run away
+C#m7
+Left me in the vacuum of my
+E     F#7
+heart
+
+[Bridge]
+C#m
+What is happening to me?
+G#m7
+Crazy, some'd say
+D#7                        E
+Where is my friend when I need you most?
+Gone away
+
+[Chorus]
+B                         F#m7
+But I won't cry for yesterday
+                      Dsus2
+there's an ordinary world
+        A/C#          E
+somehow I have to find
+B                        F#m7
+And as I try to make my way
+                  Dsus2
+to the ordinary world
+        A/C#         E
+I will learn to survive
+
+[Solo]
+B                     F#m7
+Dsus2    A/C#         E
+B                     F#m7
+Dsus2    A/C#         F#m7b5/C
+
+[Verse]
+C#m7
+Papers in the roadside
+         E             F#
+Tell of suffering and greed
+C#m
+Fear today, forgot tomorrow
+E  F#sus4 F#
+         Ooh
+C#m7
+Here besides the news of 
+      E            F#           
+holy war and holy need
+C#m
+Ours is just a little sorrowed
+E    F#
+talk
+
+[Chorus]
+B                         F#m7
+And I won't cry for yesterday
+                      Dsus2
+there's an ordinary world
+        A/C#          E
+somehow I have to find
+B                        F#m7
+And as I try to make my way
+                  Dsus2
+to the ordinary world
+        A/C#         E
+I will learn to survive
+
+(Repeat Chorus pattern to fade)
+Every one
+Is my world, (I will learn to survive)
+Any one
+Is my world, (I will learn to survive)
+Any one
+Is my world
+Every one
+Is my world
+

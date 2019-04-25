@@ -37,7 +37,8 @@ ee<?php include 'include/header.php';?>
 						<p><a href="bands/taylorswift/taylor-swift-shake-it-off.php">Shake It Off<span><span class="arrow">&nbsp;</span></span></a></p>
 						<p><a href="bands/other/tlc-waterfalls.php">TLC - Waterfalls<span><span class="arrow">&nbsp;</span></span></a></p>
 					    <p><a href="bands/tompetty/free-fallin.php">Tom Petty - Free Fallin’<span><span class="arrow">&nbsp;</span></span></a></p>
-						<p><a href="bands/other/toto-rosanna.php">Toto - Rosanna<span><span class="arrow">&nbsp;</span></span></a></p>
+						<p><a href="bands/toto/toto-africa.php">Toto - Africa<span><span class="arrow">&nbsp;</span></span></a></p>
+						<p><a href="bands/toto/toto-rosanna.php">Toto - Rosanna<span><span class="arrow">&nbsp;</span></span></a></p>
 					    <p><a href="bands/u2/angel-of-harlem.php">U2 - Angel of Harlem<span><span class="arrow">&nbsp;</span></span></a></p>
 					    <p><a href="bands/weezer/say-it-aint-so.php">Weezer - Say it Ain’t So<span><span class="arrow">&nbsp;</span></span></a></p>
 						

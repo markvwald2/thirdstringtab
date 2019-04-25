@@ -71,6 +71,7 @@ body {min-width:0px;}
 					<p><a href="http://zerobureau.com/tab/bands/stonetemplepilots">Stone Temple Pilots<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://zerobureau.com/tab/bands/taylorswift">Taylor Swift<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://zerobureau.com/tab/bands/tompetty">Tom Petty<span><span class="arrow">&nbsp;</span></span></a></p>
+					<p><a href="http://zerobureau.com/tab/bands/toto">Toto<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://zerobureau.com/tab/bands/u2">U2<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://zerobureau.com/tab/bands/uncletupelo">Uncle Tupelo<span><span class="arrow">&nbsp;</span></span></a></p>
 					<p><a href="http://zerobureau.com/tab/bands/wallflowers">The Wallflowers<span><span class="arrow">&nbsp;</span></span></a></p>

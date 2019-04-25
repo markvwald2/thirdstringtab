@@ -1,4 +1,4 @@
-<?php $title="Billy Joel - You May Be Right"; include '../../include/header.php';?>
+<?php $title="Toto - Rosanna"; include '../../include/header.php';?>	
 
 <script type="text/javascript">
 window.setTimeout(pageScroll, 100000); // delay scrolling for 100 seconds
@@ -7,7 +7,7 @@ function pageScroll() {
     	scrolldelay = setTimeout('pageScroll()',100); // scrolls every 100 milliseconds
 }
 </script>
-			<a class="left" href="index.php"><span class="arrow">&nbsp;</span> Billy Joel</a>
+			<a class="left" href="index.php"><span class="arrow">&nbsp;</span> Toto</a>
 				<h1 class="title"><?php echo $title; ?></h1>
 				<a class="right" href="<?php echo random_tab(); ?>">Random!</a>
 			</div><!--header-->
@@ -15,6 +15,6 @@ function pageScroll() {
 			<div class="content">
                 
 				<div class="tab">
-					<pre><p><?php include '../../tab/billyjoel/billy joel - you may be right.txt';?> </p></pre>
+					<pre><p><?php include '../../tab/toto/toto - rosanna.txt';?> </p></pre>
 
 <?php include '../../include/footer.php';?>
