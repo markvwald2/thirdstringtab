@@ -29,6 +29,7 @@
 object {
 	width:1000px;
     height:95vh;
+    margin-top: 15px;
 }
 
 /* hides right pane when nothing is selected */
