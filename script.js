@@ -3,15 +3,17 @@ $(function(){
         items: bands,
         width: 300,
         searchEnabled: true,
-        onItemClick: function(e) {
-            var item = e.itemData;
-            if(item.url) {
+        onItemClick: function(data) {
+            var item = data.node;
+            if(data.itemData.url) {
                 $("#band-details").removeClass("hidden");
-                $("#band-details > .name").text(item.url + " - " + item.text);
-                $("#band-details > object").attr("data", item.url);
+                $("#band-details > .name").text(item.parent.text + " - " + item.text);
+                $("#band-details > object").attr("data", data.itemData.url);
             } else {
                 $("#band-details").addClass("hidden");
             }
         }
     }).dxTreeView("instance");
 });
+
+
