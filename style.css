@@ -2,8 +2,8 @@
 #simple-treeview {
     display: inline-block;
     position: fixed;
-    overflow-y: scroll;
     background-color: #eee;
+	overflow:auto;
 }
 
 /* search box */

@@ -1,5 +1,5 @@
 var bands = [
-{text: "4 Non Blondes",id: "1",expanded:true,items: [
+{text: "4 Non Blondes",id: "1",items: [
 	{text: "What's Up?",id: "1_1",url: "tab/other/4 non blondes - whats up.txt"}
 ]
 },{text: "A-ha",id: "2",items: [
