@@ -732,7 +732,7 @@ var bands = [
 },{text: "Third eye Blind",id: "189",items: [
 	{text: "How's it Going to Be",id: "189_1",url: "tab/other/third eye blind - hows it going to be.txt"}
 ]
-},{text: "Tlc",id: "190",items: [
+},{text: "TLC",id: "190",items: [
 	{text: "Waterfalls",id: "190_1",url: "tab/other/tlc - waterfalls.txt"}
 ]
 },{text: "Tom Petty",id: "191",items: [
@@ -743,7 +743,7 @@ var bands = [
 	{text: "Africa",id: "192_1",url: "tab/toto/toto - africa.txt"},
 	{text: "Rosanna",id: "192_2",url: "tab/toto/toto - rosanna.txt"}
 ]
-},{text: "Tpau",id: "193",items: [
+},{text: "T'Pau",id: "193",items: [
 	{text: "Heart and Soul",id: "193_1",url: "tab/other/tpau - heart and soul.txt"}
 ]
 },{text: "U2",id: "194",items: [
