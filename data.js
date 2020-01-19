@@ -597,7 +597,7 @@ var bands = [
 },{text: "Refreshments",id: "155",items: [
 	{text: "Banditos",id: "155_1",url: "../tab/tab/other/Refreshments - Banditos.txt"}
 ]
-},{text: "Rem",id: "156",items: [
+},{text: "R.E.M.",id: "156",items: [
 	{text: "Whats the Frequency Kenneth?",id: "156_1",url: "../tab/tab/other/rem - whats the frequency kenneth.txt"}
 ]
 },{text: "Rembrandts",id: "157",items: [
@@ -631,7 +631,7 @@ var bands = [
 },{text: "Screaming Trees",id: "164",items: [
 	{text: "Nearly Lost You",id: "164_1",url: "../tab/tab/other/screaming trees - nearly lost you.txt"}
 ]
-},{text: "Sean na Na",id: "165",items: [
+},{text: "Sean Na Na",id: "165",items: [
 	{text: "Double Date",id: "165_1",url: "../tab/tab/other/Sean Na Na - Double Date.txt"}
 ]
 },{text: "Sheryl Crow",id: "166",items: [
@@ -726,7 +726,7 @@ var bands = [
 },{text: "Thin Lizzy",id: "187",items: [
 	{text: "The Boys are Back in Town (acoustic)",id: "187_1",url: "../tab/tab/other/thin lizzy - the boys are back in town acoustic.txt"}
 ]
-},{text: "Third eye Blind",id: "188",items: [
+},{text: "Third Eye Blind",id: "188",items: [
 	{text: "How's it Going to Be",id: "188_1",url: "../tab/tab/other/third eye blind - hows it going to be.txt"}
 ]
 },{text: "TLC",id: "189",items: [
