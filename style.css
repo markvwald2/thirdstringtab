@@ -25,6 +25,11 @@
     font-size: 20px;
 }
 
+/* random button */
+#random {
+	float: right;
+}
+
 /* tab window */
 object {
 	width:1000px;

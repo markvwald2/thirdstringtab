@@ -66,7 +66,7 @@ var bands = [
 	{text: "Secret of the Sea",id: "17_6",url: "tab/billybraggandwilco/billy bragg and wilco - secret of the sea.txt"},
 	{text: "Someday Some Morning Sometime",id: "17_7",url: "tab/billybraggandwilco/billy bragg and wilco - Someday Some Morning Sometime.txt"}
 ]
-},{text: "Billy joe Shaver",id: "18",items: [
+},{text: "Billy Joe Shaver",id: "18",items: [
 	{text: "Honky Tonk Heroes",id: "18_1",url: "tab/other/billy joe shaver - honky tonk heroes.txt"}
 ]
 },{text: "Billy Joel",id: "19",items: [
@@ -103,7 +103,7 @@ var bands = [
 	{text: "Stickshifts and Safetybelts",id: "26_7",url: "tab/cake/cake - stickshifts and safetybelts.txt"},
 	{text: "Walk on By",id: "26_8",url: "tab/cake/cake - walk on by.txt"}
 ]
-},{text: "Cars",id: "27",items: [
+},{text: "The Cars",id: "27",items: [
 	{text: "Just What I Needed",id: "27_1",url: "tab/cars/cars - just what i needed.txt"},
 	{text: "Magic",id: "27_2",url: "tab/cars/cars - magic.txt"},
 	{text: "You Might Think",id: "27_3",url: "tab/cars/cars - you might think.txt"}
@@ -449,7 +449,7 @@ var bands = [
 	{text: "Champagne Supernova",id: "128_1",url: "tab/oasis/oasis - champagne supernova.txt"},
 	{text: "Rock N' Roll Star",id: "128_2",url: "tab/oasis/oasis - rock n roll star.txt"}
 ]
-},{text: "Ok Go",id: "129",items: [
+},{text: "OK Go",id: "129",items: [
 	{text: "Here It Goes Again",id: "129_1",url: "tab/other/ok go - here it goes again.txt"}
 ]
 },{text: "Okkervil River",id: "130",items: [
