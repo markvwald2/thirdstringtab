@@ -1397,7 +1397,7 @@
         {
           text: "All These Things That I've Done",
           id: "101_1",
-          url: "tab/other/Killers - All These Things That Ive Done.txt"
+          url: "tab/killers/Killers - All These Things That Ive Done.txt"
         }
       ]
     },
