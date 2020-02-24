@@ -1,6 +1,12 @@
 C# 9(11)(11)xxx
 B 799xxx
 E 0(11)xxxx
+C5 x4x6xx
+D#5 x6x8xx
+E5 x7x9xx
+B5 x2x4xx
+EII 0799xx
+
 
 riff 1
 e|------------------------------------------------------|
@@ -40,7 +46,7 @@ I've been waiting for this moment all my life
 B                   riff 3
 But it's not quite right
 
-riff 3  x2
+riff 3
 
 riff 2
 And this real
@@ -69,46 +75,53 @@ Aim free and so untrue
 
 (solo 3 over riff 1 x4)
 
-C#                 B             riff 3 x2
+C#5                D#5        E5     riff 1
 Everyone's so intimately rearranged
-C#                      B                 
+C#5                     B5
 Everyone's so focused clearly with such shine
 
-(solo 4 over riff 1 x2)
+(solo 4 over riff 1 x4)
 
-riff 1   riff 2
-
-C#                 B             riff 2 x2
+C#5                D#5        E5
 Everyone's so intimately rearranged
-C#                      B                 
+C#                      B                 EII
 Everyone's so focused clearly with such shine
 
-E                                         -----
+EII                                       -----
 Lost and loaded                                |
-E                                              |
+EII                                            |
 Still the same old decent lazy eye             |
-E                                              |
+EII                                            |
 Straight through your gaze                     |-- loud
-                       C#                      |
+                       C#5                     |
 That's why I said I relate                     |
-           B                                   |
+           B5                      EII         |
 I said we relate it's so fun to relate         |
                                           -----
 
-riff 1 x2
+riff 1 x1
 
 riff 1
 It's the room, the sun, and the sky
 riff 1
 The room, the sun, and the sky
 
-riff 2 x4  \  (quiet)
+riff 2 x4  \  (quiet) (arpeggios)
+C#   D#5   / 
+
+riff 2 x4  \  (quiet) (over solo 5)
 C#   B     / 
 
-riff 2 x4  \  (loud)
+riff 2 x4  \  (loud) (free improvisation)
 C#   B     /
 
-riff 2 x4  \  (quiet)
+riff 2 x4  \  (loud) (free improvisation)
+C#   D#5   /
+
+riff 2 x4  \  (loud) (E5 bends)
+C#   B     /
+
+riff 2 x4  \  (quiet) (E5)
 C#   B     /
 
 riff 3 x4
@@ -174,3 +187,12 @@ g|-----------------------------------------------|
 d|-----------------------9---------9-------------|
 a|--14~----14-12-11-9h11---11-9h11---11-9-7-6\2--|
 E|-----------------------------------------------|
+
+solo 5
+e|--------------------11b-------------|
+B|------------------------------------|
+G|--9||-/-11||-/-13||-----13||-\-9||--|
+g|------------------------------------|
+d|------------------------------------|
+a|------------------------------------|
+E|------------------------------------|
