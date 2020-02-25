@@ -851,7 +851,7 @@
         {
           text: "Santa Monica",
           id: "60_1",
-          url: "tab/other/everclear - santa monica.txt"
+          url: "tab/other/Everclear - Santa Monica.txt"
         }
       ]
     },
