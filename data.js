@@ -1,4 +1,4 @@
-  var bands: [
+  var bands = [
     {
       text: "4 Non Blondes",
       id: "1",
