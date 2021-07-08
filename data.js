@@ -3503,7 +3503,17 @@
         {
           text: "Whiskey River",
           id: "207_1",
-          url: "tab/other/willie nelson - whiskey river.txt"
+          url: "tab/willienelson/willie nelson - whiskey river.txt"
+        },
+        {
+          text: "Mammas, Don't Let Your Babies Grow Up to be Cowboys",
+          id: "207_2",
+          url: "tab/willienelson/willie nelson - mammas dont let your babies grow up to be cowboys.txt"
+        },
+        {
+          text: "My Heros have Always Been Cowboys",
+          id: "207_3",
+          url: "tab/willienelson/willie nelson - my heros have always been cowboys.txt"
         }
       ]
     },
