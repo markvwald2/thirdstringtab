@@ -1575,17 +1575,6 @@
       ]
     },
     {
-      text: "Lump",
-      id: "115",
-      items: [
-        {
-          text: "Presidents of the United States of America",
-          id: "115_1",
-          url: "tab/other/lump - presidents of the united states of america.txt"
-        }
-      ]
-    },
-    {
       text: "Macy Gray",
       id: "116",
       items: [
@@ -1623,9 +1612,14 @@
       id: "119",
       items: [
         {
+          text: "Girlfriend",
+          id: "119_1",
+          url: "tab/matthewsweet/matthew sweet - girlfriend.txt"
+        },
+        {
           text: "Sick of Myself",
           id: "119_2",
-          url: "tab/matthewsweet/matthew sweet - girlfriend.txt"
+          url: "tab/matthewsweet/Matthew Sweet - Sick of Myself.txt"
         }
       ]
     },
