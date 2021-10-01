@@ -1624,8 +1624,8 @@
       items: [
         {
           text: "Sick of Myself",
-          id: "119_2",
-          url: "tab/matthewsweet/matthew sweet - girlfriend.txt"
+          id: "119_1",
+          url: "tab/other/Matthew Sweet - Sick of Myself.txt"
         }
       ]
     },
