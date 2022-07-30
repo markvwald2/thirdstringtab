@@ -1575,17 +1575,6 @@
       ]
     },
     {
-      text: "Lump",
-      id: "115",
-      items: [
-        {
-          text: "Presidents of the United States of America",
-          id: "115_1",
-          url: "tab/other/lump - presidents of the united states of america.txt"
-        }
-      ]
-    },
-    {
       text: "Macy Gray",
       id: "116",
       items: [
@@ -1623,9 +1612,14 @@
       id: "119",
       items: [
         {
-          text: "Sick of Myself",
+          text: "Girlfriend",
           id: "119_1",
-          url: "tab/other/Matthew Sweet - Sick of Myself.txt"
+          url: "tab/matthewsweet/matthew sweet - girlfriend.txt"
+        },
+        {
+          text: "Sick of Myself",
+          id: "119_2",
+          url: "tab/matthewsweet/Matthew Sweet - Sick of Myself.txt"
         }
       ]
     },
@@ -3503,7 +3497,17 @@
         {
           text: "Whiskey River",
           id: "207_1",
-          url: "tab/other/willie nelson - whiskey river.txt"
+          url: "tab/willienelson/willie nelson - whiskey river.txt"
+        },
+        {
+          text: "Mammas, Don't Let Your Babies Grow Up to be Cowboys",
+          id: "207_2",
+          url: "tab/willienelson/willie nelson - mammas dont let your babies grow up to be cowboys.txt"
+        },
+        {
+          text: "My Heros have Always Been Cowboys",
+          id: "207_3",
+          url: "tab/willienelson/willie nelson - my heros have always been cowboys.txt"
         }
       ]
     },
