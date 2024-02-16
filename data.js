@@ -48,9 +48,14 @@
       id: "4",
       items: [
         {
-          text: "Save Me",
+          text: "Deathly",
           id: "4_1",
-          url: "tab/other/aimee mann - save me.txt"
+          url: "tab/aimeemann/aimee mann - deathly.txt"
+        },
+        {
+          text: "Save Me",
+          id: "4_2",
+          url: "tab/aimeemann/aimee mann - save me.txt"
         }
       ]
     },

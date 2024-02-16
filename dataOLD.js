@@ -67,6 +67,11 @@
           text: "Ironic",
           id: "5_2",
           url: "tab/alanismorissette/alanis morissette - ironic.txt"
+        },
+        {
+          text: "Head Over Feet",
+          id: "5_3",
+          url: "tab/alanismorissette/alanis morissette - head over feet.txt"
         }
       ]
     },
@@ -349,1239 +354,1239 @@
       ]
     },
     {
-      text: "Breeders",
+      text: "Brandi Carlile",
       id: "24",
       items: [
         {
           text: "Cannonball",
           id: "24_1",
+          url: "tab/brandicarlile/brandi carlile - cannonball.txt"
+        }
+      ]
+    },
+    {
+      text: "Breeders",
+      id: "25",
+      items: [
+        {
+          text: "Cannonball",
+          id: "25_1",
           url: "tab/other/Breeders - Cannonball.txt"
         }
       ]
     },
     {
       text: "Bryan Adams",
-      id: "25",
+      id: "26",
       items: [
         {
           text: "Summer of '69",
-          id: "25_1",
+          id: "26_1",
           url: "tab/other/bryan adams - summer of '69.txt"
         }
       ]
     },
     {
       text: "Cake",
-      id: "26",
+      id: "27",
       items: [
         {
           text: "Alpha Beta Parking Lot",
-          id: "26_1",
+          id: "27_1",
           url: "tab/cake/cake - alpha beta parking lot.txt"
         },
         {
           text: "I Will Survive",
-          id: "26_2",
+          id: "27_2",
           url: "tab/cake/cake - i will survive.txt"
         },
         {
           text: "Italian Leather Sofa",
-          id: "26_3",
+          id: "27_3",
           url: "tab/cake/cake - italian leather sofa.txt"
         },
         {
           text: "Let Me Go",
-          id: "26_4",
+          id: "27_4",
           url: "tab/cake/Cake - Let Me Go.txt"
         },
         {
           text: "Mexico",
-          id: "26_5",
+          id: "27_5",
           url: "tab/cake/cake - mexico.txt"
         },
         {
           text: "Pretty Pink Ribbon",
-          id: "26_6",
+          id: "27_6",
           url: "tab/cake/Cake - Pretty Pink Ribbon.txt"
         },
         {
           text: "Stickshifts and Safetybelts",
-          id: "26_7",
+          id: "27_7",
           url: "tab/cake/cake - stickshifts and safetybelts.txt"
         },
         {
           text: "Walk on By",
-          id: "26_8",
+          id: "27_8",
           url: "tab/cake/cake - walk on by.txt"
         }
       ]
     },
     {
       text: "The Cars",
-      id: "27",
+      id: "28",
       items: [
         {
           text: "Just What I Needed",
-          id: "27_1",
+          id: "28_1",
           url: "tab/cars/cars - just what i needed.txt"
         },
         {
           text: "Magic",
-          id: "27_2",
+          id: "28_2",
           url: "tab/cars/cars - magic.txt"
         },
         {
           text: "You Might Think",
-          id: "27_3",
+          id: "28_3",
           url: "tab/cars/cars - you might think.txt"
         }
       ]
     },
     {
       text: "Cheap Trick",
-      id: "28",
+      id: "29",
       items: [
         {
           text: "Surrender",
-          id: "28_1",
+          id: "29_1",
           url: "tab/other/cheap trick - surrender.txt"
         }
       ]
     },
     {
       text: "Chris Alan Lee",
-      id: "29",
+      id: "30",
       items: [
         {
           text: "Wingman",
-          id: "29_1",
+          id: "30_1",
           url: "tab/other/chris alan lee - wingman.txt"
         }
       ]
     },
     {
       text: "Chuck Berry",
-      id: "30",
+      id: "31",
       items: [
         {
           text: "Johnny B Goode",
-          id: "30_1",
+          id: "31_1",
           url: "tab/other/chuck berry - johnny b goode.txt"
         }
       ]
     },
     {
       text: "Chumbawamba",
-      id: "31",
+      id: "32",
       items: [
         {
           text: "Tubthumping",
-          id: "31_1",
+          id: "32_1",
           url: "tab/other/chumbawamba - tubthumping.txt"
         }
       ]
     },
     {
       text: "Coconut Records",
-      id: "32",
+      id: "33",
       items: [
         {
           text: "Wires",
-          id: "32_1",
+          id: "33_1",
           url: "tab/other/Coconut Records - Wires.txt"
         }
       ]
     },
     {
       text: "Collective Soul",
-      id: "33",
+      id: "34",
       items: [
         {
           text: "Shine",
-          id: "33_1",
+          id: "34_1",
           url: "tab/other/collective soul - shine.txt"
         }
       ]
     },
     {
       text: "Convoy",
-      id: "34",
+      id: "35",
       items: [
         {
           text: "Anytime she Wants It",
-          id: "34_1",
+          id: "35_1",
           url: "tab/other/Convoy - Anytime She Wants It.txt"
         }
       ]
     },
     {
       text: "Corey Hart",
-      id: "35",
+      id: "36",
       items: [
         {
           text: "Sunglasses at Night",
-          id: "35_1",
+          id: "36_1",
           url: "tab/other/Corey Hart - Sunglasses at Night.txt"
         }
       ]
     },
     {
       text: "Counting Crows",
-      id: "36",
+      id: "37",
       items: [
         {
           text: "The Ghost in You",
-          id: "36_1",
+          id: "37_1",
           url: "tab/other/counting crows - the ghost in you.txt"
         }
       ]
     },
     {
       text: "Cracker",
-      id: "37",
+      id: "38",
       items: [
         {
           text: "This is Cracker Soul",
-          id: "37_1",
+          id: "38_1",
           url: "tab/other/cracker - this is cracker soul.txt"
         }
       ]
     },
     {
       text: "Cranberries",
-      id: "38",
+      id: "39",
       items: [
         {
           text: "Zombie",
-          id: "38_1",
+          id: "39_1",
           url: "tab/other/cranberries - zombie.txt"
         }
       ]
     },
     {
       text: "Crash Test Dummies",
-      id: "39",
+      id: "40",
       items: [
         {
           text: "Superman's Song",
-          id: "39_1",
+          id: "40_1",
           url: "tab/other/crash test dummies - supermans song.txt"
         }
       ]
     },
     {
       text: "Crowded House",
-      id: "40",
+      id: "41",
       items: [
         {
           text: "Don't Dream its Over",
-          id: "40_1",
+          id: "41_1",
           url: "tab/other/crowded house - dont dream its over.txt"
         }
       ]
     },
     {
       text: "Daft Punk",
-      id: "41",
+      id: "42",
       items: [
         {
           text: "Get Lucky",
-          id: "41_1",
+          id: "42_1",
           url: "tab/other/daft punk - get lucky.txt"
         }
       ]
     },
     {
       text: "Dave Rawlings Machine",
-      id: "42",
+      id: "43",
       items: [
         {
           text: "Ruby",
-          id: "42_1",
+          id: "43_1",
           url: "tab/other/Dave Rawlings Machine - Ruby.txt"
         }
       ]
     },
     {
       text: "David Bowie",
-      id: "43",
+      id: "44",
       items: [
         {
           text: "Space Oddity",
-          id: "43_1",
+          id: "44_1",
           url: "tab/other/david bowie - space oddity.txt"
         }
       ]
     },
     {
       text: "David Gray",
-      id: "44",
+      id: "45",
       items: [
         {
           text: "Sail Away",
-          id: "44_1",
+          id: "45_1",
           url: "tab/other/david gray - sail away.txt"
         }
       ]
     },
     {
       text: "Dawes",
-      id: "45",
+      id: "46",
       items: [
         {
           text: "Bedside Manner",
-          id: "45_1",
+          id: "46_1",
           url: "tab/dawes/Dawes - Bedside Manner.txt"
         },
         {
           text: "God Will Rest My Soul",
-          id: "45_2",
+          id: "46_2",
           url: "tab/dawes/Dawes - God Will Rest My Soul.txt"
         },
         {
           text: "If You Let Me Be Your Anchor",
-          id: "45_3",
+          id: "46_3",
           url: "tab/dawes/Dawes - If You Let Me Be Your Anchor.txt"
         },
         {
           text: "My Girl to Me",
-          id: "45_4",
+          id: "46_4",
           url: "tab/dawes/Dawes - My Girl to Me.txt"
         },
         {
           text: "Peace in the Valley",
-          id: "45_5",
+          id: "46_5",
           url: "tab/dawes/Dawes - Peace In the Valley.txt"
         },
         {
           text: "That Western Skyline",
-          id: "45_6",
+          id: "46_6",
           url: "tab/dawes/Dawes - That Western Skyline.txt"
         },
         {
           text: "When My Time Comes",
-          id: "45_7",
+          id: "46_7",
           url: "tab/dawes/Dawes - When My Time Comes.txt"
         },
         {
           text: "When You Call My Name",
-          id: "45_8",
+          id: "46_8",
           url: "tab/dawes/Dawes - When You Call My Name.txt"
         }
       ]
     },
     {
       text: "Dealbreakers",
-      id: "46",
+      id: "47",
       items: [
         {
           text: "Same Good Questions",
-          id: "46_1",
+          id: "47_1",
           url: "tab/dealbreakers/The Dealbreakers - Same Good Questions.txt"
         },
         {
           text: "Wrong Arms",
-          id: "46_2",
+          id: "47_2",
           url: "tab/dealbreakers/The Dealbreakers - Wrong Arms.txt"
         }
       ]
     },
     {
       text: "Def Leppard",
-      id: "47",
+      id: "48",
       items: [
         {
           text: "Love Bites",
-          id: "47_1",
+          id: "48_1",
           url: "tab/defleppard/def leppard - love bites.txt"
         },
         {
           text: "Pour Some Sugar on Me",
-          id: "47_2",
+          id: "48_2",
           url: "tab/defleppard/def leppard - pour some sugar on me.txt"
         }
       ]
     },
     {
       text: "Del Amitri",
-      id: "48",
+      id: "49",
       items: [
         {
           text: "Driving With the Brakes On",
-          id: "48_1",
+          id: "49_1",
           url: "tab/other/Del Amitri - Driving with the Brakes On.txt"
         }
       ]
     },
     {
       text: "Derek and the Dominos",
-      id: "49",
+      id: "50",
       items: [
         {
           text: "Keep on Growing",
-          id: "49_1",
+          id: "50_1",
           url: "tab/other/derek and the dominos - keep on growing.txt"
         }
       ]
     },
     {
       text: "Dido",
-      id: "50",
+      id: "51",
       items: [
         {
           text: "White Flag",
-          id: "50_1",
+          id: "51_1",
           url: "tab/other/dido - white flag.txt"
         }
       ]
     },
     {
       text: "Dire Straits",
-      id: "51",
+      id: "52",
       items: [
         {
           text: "Sultans of Swing",
-          id: "51_1",
+          id: "52_1",
           url: "tab/other/dire straits - sultans of swing.txt"
         }
       ]
     },
     {
       text: "Don Henley",
-      id: "52",
+      id: "53",
       items: [
         {
           text: "The Last Worthless Evening",
-          id: "52_1",
+          id: "53_1",
           url: "tab/other/don henley - the last worthless evening.txt"
         }
       ]
     },
     {
       text: "Donnas",
-      id: "53",
+      id: "54",
       items: [
         {
           text: "Don't Want to Know",
-          id: "53_1",
+          id: "54_1",
           url: "tab/other/Donnas - Don't Want to Know.txt"
         }
       ]
     },
     {
       text: "Doobie Brothers",
-      id: "54",
+      id: "55",
       items: [
         {
           text: "Listen to the Music",
-          id: "54_1",
+          id: "55_1",
           url: "tab/other/doobie brothers - listen to the music.txt"
         }
       ]
     },
     {
       text: "Duran Duran",
-      id: "55",
+      id: "56",
       items: [
         {
           text: "Ordinary World",
-          id: "55_1",
+          id: "56_1",
           url: "tab/other/duran duran - ordinary world.txt"
         }
       ]
     },
     {
       text: "Eagles",
-      id: "56",
+      id: "57",
       items: [
         {
           text: "Hotel California",
-          id: "56_1",
+          id: "57_1",
           url: "tab/eagles/eagles - hotel california.txt"
         },
         {
           text: "Peaceful Easy Feeling",
-          id: "56_2",
+          id: "57_2",
           url: "tab/eagles/eagles - peaceful easy feeling.txt"
         },
         {
           text: "Take it Easy",
-          id: "56_3",
+          id: "57_3",
           url: "tab/eagles/eagles - take it easy.txt"
         }
       ]
     },
     {
       text: "Eddie Rabbit",
-      id: "57",
+      id: "58",
       items: [
         {
           text: "Every Which way but Loose",
-          id: "57_1",
+          id: "58_1",
           url: "tab/other/eddie rabbit - every which way but loose.txt"
         }
       ]
     },
     {
       text: "Elliott Smith",
-      id: "58",
+      id: "59",
       items: [
         {
           text: "Between the Bars",
-          id: "58_1",
+          id: "59_1",
           url: "tab/other/elliott smith - between the bars.txt"
         }
       ]
     },
     {
       text: "Eric Herman and the Invisible Band",
-      id: "59",
+      id: "60",
       items: [
         {
           text: "Cowboy Bergaleoukaleopaleous",
-          id: "59_1",
+          id: "60_1",
           url: "tab/other/eric herman and the invisible band - cowboy bergaleoukaleopaleous.txt"
         }
       ]
     },
     {
       text: "Everclear",
-      id: "60",
+      id: "61",
       items: [
         {
           text: "Santa Monica",
-          id: "60_1",
+          id: "61_1",
           url: "tab/other/Everclear - Santa Monica.txt"
         }
       ]
     },
     {
       text: "The Faces",
-      id: "61",
+      id: "62",
       items: [
         {
           text: "Ooh La La",
-          id: "61_1",
+          id: "62_1",
           url: "tab/other/the faces - ooh la la.txt"
         }
       ]
     },
     {
       text: "Fastball",
-      id: "62",
+      id: "63",
       items: [
         {
           text: "The Way",
-          id: "62_1",
+          id: "63_1",
           url: "tab/other/fastball - the way.txt"
         }
       ]
     },
     {
       text: "Five Man Electrical Band",
-      id: "63",
+      id: "64",
       items: [
         {
           text: "Signs",
-          id: "63_1",
+          id: "64_1",
           url: "tab/other/five man electrical band - signs.txt"
         }
       ]
     },
     {
       text: "Flaming Lips",
-      id: "64",
+      id: "65",
       items: [
         {
           text: "Yoshimi Battles the Pink Robots",
-          id: "64_1",
+          id: "65_1",
           url: "tab/other/flaming lips - yoshimi battles the pink robots.txt"
         }
       ]
     },
     {
       text: "Fleetwood Mac",
-      id: "65",
+      id: "66",
       items: [
         {
           text: "Go Your own Way",
-          id: "65_1",
+          id: "66_1",
           url: "tab/other/fleetwood mac - go your own way.txt"
         }
       ]
     },
     {
       text: "The Fold",
-      id: "66",
+      id: "67",
       items: [
         {
           text: "Weekend Whip",
-          id: "66_1",
+          id: "67_1",
           url: "tab/other/the fold - weekend whip.txt"
         }
       ]
     },
     {
       text: "Foo Fighters",
-      id: "67",
+      id: "68",
       items: [
         {
           text: "Everlong",
-          id: "67_1",
+          id: "68_1",
           url: "tab/other/foo fighters - everlong.txt"
         }
       ]
     },
     {
       text: "Foreigner",
-      id: "68",
+      id: "69",
       items: [
         {
           text: "Hot Blooded",
-          id: "68_1",
+          id: "69_1",
           url: "tab/other/foreigner - hot blooded.txt"
         }
       ]
     },
     {
       text: "Four Horsemen",
-      id: "69",
+      id: "70",
       items: [
         {
           text: "Tired Wings",
-          id: "69_1",
+          id: "70_1",
           url: "tab/other/four horsemen - tired wings.txt"
         }
       ]
     },
     {
       text: "Francis Dunnery",
-      id: "70",
+      id: "71",
       items: [
         {
           text: "Too Much Saturn",
-          id: "70_1",
+          id: "71_1",
           url: "tab/other/Francis Dunnery - Too Much Saturn.txt"
         }
       ]
     },
     {
       text: "Francois Couperin",
-      id: "71",
+      id: "72",
       items: [
         {
           text: "Lepineuse",
-          id: "71_1",
+          id: "72_1",
           url: "tab/other/francois couperin - lepineuse.txt"
         }
       ]
     },
     {
       text: "Franz Ferdinand",
-      id: "72",
+      id: "73",
       items: [
         {
           text: "Take Me Out",
-          id: "72_1",
+          id: "73_1",
           url: "tab/other/franz ferdinand - take me out.txt"
         },
         {
           text: "Take Me out (bass)",
-          id: "72_2",
+          id: "73_2",
           url: "tab/other/franz ferdinand - take me out bass.txt"
         }
       ]
     },
     {
       text: "Freedy Johnston",
-      id: "73",
+      id: "74",
       items: [
         {
           text: "Bad Reputation",
-          id: "73_1",
+          id: "74_1",
           url: "tab/other/freedy johnston - bad reputation.txt"
         }
       ]
     },
     {
       text: "Fugees",
-      id: "74",
+      id: "75",
       items: [
         {
           text: "Killing Me Softly With his Song",
-          id: "74_1",
+          id: "75_1",
           url: "tab/other/fugees - killing me softly with his song.txt"
         }
       ]
     },
     {
       text: "Garbage",
-      id: "75",
+      id: "76",
       items: [
         {
           text: "When I Grow Up",
-          id: "75_1",
+          id: "76_1",
           url: "tab/other/garbage - when i grow up.txt"
         }
       ]
     },
     {
       text: "George Michael",
-      id: "76",
+      id: "77",
       items: [
         {
           text: "Faith",
-          id: "76_1",
+          id: "77_1",
           url: "tab/other/george michael - faith.txt"
         }
       ]
     },
     {
       text: "Gillian Welch",
-      id: "77",
+      id: "78",
       items: [
         {
           text: "Look at Miss Ohio",
-          id: "77_1",
+          id: "78_1",
           url: "tab/gillianwelch/Gillian Welch - Look at Miss Ohio.txt"
         },
         {
           text: "Orphan Girl",
-          id: "77_2",
+          id: "78_2",
           url: "tab/gillianwelch/Gillian Welch - Orphan Girl.txt"
         },
         {
           text: "Wayside-back in Time",
-          id: "77_3",
+          id: "78_3",
           url: "tab/gillianwelch/Gillian Welch - Wayside-Back in Time.txt"
         },
         {
           text: "Wrecking Ball",
-          id: "77_4",
+          id: "78_4",
           url: "tab/gillianwelch/Gillian Welch - Wrecking Ball.txt"
         }
       ]
     },
     {
       text: "Gin Blossoms",
-      id: "78",
+      id: "79",
       items: [
         {
           text: "Hey Jealousy",
-          id: "78_1",
+          id: "79_1",
           url: "tab/other/gin blossoms - hey jealousy.txt"
         }
       ]
     },
     {
       text: "Golden Smog",
-      id: "79",
+      id: "80",
       items: [
         {
           text: "I Can't Keep from Talking",
-          id: "79_1",
+          id: "80_1",
           url: "tab/other/golden smog - I Can't Keep From Talking.txt"
         }
       ]
     },
     {
       text: "Grateful Dead",
-      id: "80",
+      id: "81",
       items: [
         {
           text: "Uncle John's Band",
-          id: "80_1",
+          id: "81_1",
           url: "tab/other/grateful dead - uncle johns band.txt"
         }
       ]
     },
     {
       text: "Great White",
-      id: "81",
+      id: "82",
       items: [
         {
           text: "Once Bitten Twice Shy",
-          id: "81_1",
+          id: "82_1",
           url: "tab/other/great white - once bitten twice shy.txt"
         }
       ]
     },
     {
       text: "Green Day",
-      id: "82",
+      id: "83",
       items: [
         {
           text: "Basket Case",
-          id: "82_1",
+          id: "83_1",
           url: "tab/greenday/green day - basket case.txt"
         },
         {
           text: "Basket Case (acoustic)",
-          id: "82_2",
+          id: "83_2",
           url: "tab/greenday/green day - basket case (acoustic).txt"
         },
         {
           text: "Brain Stew",
-          id: "82_3",
+          id: "83_3",
           url: "tab/greenday/green day - brain stew.txt"
         },
         {
           text: "Good Riddance (Time of Your Life)",
-          id: "82_4",
+          id: "83_4",
           url: "tab/greenday/green day - good riddance (time of your life).txt"
         },
         {
           text: "Longview",
-          id: "82_5",
+          id: "83_5",
           url: "tab/greenday/green day - longview.txt"
         },
         {
           text: "Welcome to Paradise",
-          id: "82_6",
+          id: "83_6",
           url: "tab/greenday/green day - welcome to paradise.txt"
         },
         {
           text: "When I Come Around",
-          id: "82_7",
+          id: "83_7",
           url: "tab/greenday/green day - when i come around.txt"
         }
       ]
     },
     {
       text: "Greg Kihn Band",
-      id: "83",
+      id: "84",
       items: [
         {
           text: "Break Up Song",
-          id: "83_1",
+          id: "84_1",
           url: "tab/other/greg kihn band - break up song.txt"
         }
       ]
     },
     {
       text: "Guess Who",
-      id: "84",
+      id: "85",
       items: [
         {
           text: "No Sugar Tonight / New Mother Nature",
-          id: "84_1",
+          id: "85_1",
           url: "tab/other/guess who - no sugar tonight new mother nature.txt"
         }
       ]
     },
     {
       text: "Guns n' Roses",
-      id: "85",
+      id: "86",
       items: [
         {
           text: "Don't Cry",
-          id: "85_1",
+          id: "86_1",
           url: "tab/gunsnroses/guns n roses - dont cry.txt"
         },
         {
           text: "Patience",
-          id: "85_2",
+          id: "86_2",
           url: "tab/gunsnroses/guns n roses - patience.txt"
         }
       ]
     },
     {
       text: "Harry Styles",
-      id: "86",
+      id: "87",
       items: [
         {
           text: "Two Ghosts",
-          id: "86_1",
+          id: "87_1",
           url: "tab/other/harry styles - two ghosts.txt"
         }
       ]
     },
     {
       text: "Harvey Danger",
-      id: "87",
+      id: "88",
       items: [
         {
           text: "Flagpole Sitta",
-          id: "87_1",
+          id: "88_1",
           url: "tab/other/harvey danger - flagpole sitta.txt"
         }
       ]
     },
     {
       text: "Head and the Heart",
-      id: "88",
+      id: "89",
       items: [
         {
           text: "Let's be Still",
-          id: "88_1",
+          id: "89_1",
           url: "tab/other/head and the heart - lets be still.txt"
         }
       ]
     },
     {
       text: "Head East",
-      id: "89",
+      id: "90",
       items: [
         {
           text: "Never Been Any Reason",
-          id: "89_1",
+          id: "90_1",
           url: "tab/other/head east - never been any reason.txt"
         }
       ]
     },
     {
       text: "Hold Steady",
-      id: "90",
+      id: "91",
       items: [
         {
           text: "Hot Soft Light",
-          id: "90_1",
+          id: "91_1",
           url: "tab/holdsteady/the hold steady - hot soft light.txt"
         },
         {
           text: "Massive Nights",
-          id: "90_2",
+          id: "91_2",
           url: "tab/holdsteady/the hold steady - massive nights.txt"
         },
         {
           text: "Party Pit",
-          id: "90_3",
+          id: "91_3",
           url: "tab/holdsteady/the hold steady - party pit.txt"
         },
         {
           text: "The Swish",
-          id: "90_4",
+          id: "91_4",
           url: "tab/holdsteady/the hold steady - the swish.txt"
         }
       ]
     },
     {
       text: "Hole",
-      id: "91",
+      id: "92",
       items: [
         {
           text: "Malibu",
-          id: "91_1",
+          id: "92_1",
           url: "tab/other/Hole - Malibu.txt"
         }
       ]
     },
     {
       text: "Hollies",
-      id: "92",
+      id: "93",
       items: [
         {
           text: "Long Cool Woman",
-          id: "92_1",
+          id: "93_1",
           url: "tab/other/hollies - long cool woman.txt"
         }
       ]
     },
     {
       text: "Humor in Uniform",
-      id: "93",
+      id: "94",
       items: [
         {
           text: "Leave Anybody",
-          id: "93_1",
+          id: "94_1",
           url: "tab/humorinuniform/HIU - Leave Anybody.txt"
         },
         {
           text: "Loud Song",
-          id: "93_2",
+          id: "94_2",
           url: "tab/humorinuniform/HIU - Loud Song.txt"
         },
         {
           text: "Middle West",
-          id: "93_3",
+          id: "94_3",
           url: "tab/humorinuniform/HIU - Middle West.txt"
         },
         {
           text: "Soft Girl",
-          id: "93_4",
+          id: "94_4",
           url: "tab/humorinuniform/HIU - Soft Girl.txt"
         },
         {
           text: "Whole Towns",
-          id: "93_5",
+          id: "94_5",
           url: "tab/humorinuniform/HIU - Whole Towns.txt"
         }
       ]
     },
     {
       text: "Imagine Dragons",
-      id: "94",
+      id: "95",
       items: [
         {
           text: "Believer",
-          id: "94_1",
+          id: "95_1",
           url: "tab/imaginedragons/imagine dragons - believer.txt"
         },
         {
           text: "Whatever it Takes",
-          id: "94_2",
+          id: "95_2",
           url: "tab/imaginedragons/imagine dragons - whatever it takes.txt"
         }
       ]
     },
     {
       text: "Jackson Browne",
-      id: "95",
+      id: "96",
       items: [
         {
           text: "Somebody's Baby",
-          id: "95_1",
+          id: "96_1",
           url: "tab/other/jackson browne - somebodys baby.txt"
         }
       ]
     },
     {
       text: "Janes Addiction",
-      id: "96",
+      id: "97",
       items: [
         {
           text: "Jane Says",
-          id: "96_1",
+          id: "97_1",
           url: "tab/other/janes addiction - jane says.txt"
         }
       ]
     },
     {
       text: "Jeffrey Gaines",
-      id: "97",
+      id: "98",
       items: [
         {
           text: "Nursery Rhyme",
-          id: "97_1",
+          id: "98_1",
           url: "tab/other/jeffrey gaines - nursery rhyme.txt"
         }
       ]
     },
     {
       text: "Jerry Reed",
-      id: "98",
+      id: "99",
       items: [
         {
           text: "Eastbound and Down",
-          id: "98_1",
+          id: "99_1",
           url: "tab/other/jerry reed - eastbound and down.txt"
         }
       ]
     },
     {
       text: "Jet",
-      id: "99",
+      id: "100",
       items: [
         {
           text: "Are You Gonna be my Girl?",
-          id: "99_1",
+          id: "100_1",
           url: "tab/other/jet - are you gonna be my girl.txt"
         }
       ]
     },
     {
       text: "Joel Plaskett",
-      id: "100",
+      id: "101",
       items: [
         {
           text: "True Patriot Love",
-          id: "100_1",
+          id: "101_1",
           url: "tab/other/joel plaskett - true patriot love.txt"
         }
       ]
     },
     {
       text: "Kasey Chambers",
-      id: "101",
+      id: "102",
       items: [
         {
           text: "Don't Talk Back",
-          id: "101_1",
+          id: "102_1",
           url: "tab/other/Kasey Chambers - Dont Talk Back.txt"
         }
       ]
     },
     {
       text: "Kasey Chambers and Shane Nicholson",
-      id: "102",
+      id: "103",
       items: [
         {
           text: "Wildflower",
-          id: "102_1",
+          id: "103_1",
           url: "tab/other/kasey chambers and shane nicholson - wildflower.txt"
         }
       ]
     },
     {
       text: "Kenny Rogers",
-      id: "103",
+      id: "104",
       items: [
         {
           text: "Islands in the Stream",
-          id: "103_1",
+          id: "104_1",
           url: "tab/other/kenny rogers - islands in the stream.txt"
         }
       ]
     },
     {
       text: "Killers",
-      id: "104",
+      id: "105",
       items: [
         {
           text: "All These Things That I've Done",
-          id: "104_1",
+          id: "105_1",
           url: "tab/killers/Killers - All These Things That Ive Done.txt"
         },
         {
           text: "Mr. Brightside",
-          id: "104_2",
+          id: "105_2",
           url: "tab/killers/killers - mr brightside.txt"
         }
       ]
     },
     {
       text: "Kings of Leon",
-      id: "105",
+      id: "106",
       items: [
         {
           text: "Notion",
-          id: "105_1",
+          id: "106_1",
           url: "tab/other/kings of leon - notion.txt"
         }
       ]
     },
     {
       text: "Kinks",
-      id: "106",
+      id: "107",
       items: [
         {
           text: "Lola",
-          id: "106_1",
+          id: "107_1",
           url: "tab/other/kinks - lola.txt"
         }
       ]
     },
     {
       text: "The Kooks",
-      id: "107",
+      id: "108",
       items: [
         {
           text: "She Moves in Her Own Way",
-          id: "107_1",
+          id: "108_1",
           url: "tab/other/the kooks - she moves in her own way.txt"
         }
       ]
     },
     {
       text: "L.A. Guns",
-      id: "108",
+      id: "109",
       items: [
         {
           text: "It's over Now",
-          id: "108_1",
+          id: "109_1",
           url: "tab/other/la guns - its over now.txt"
         }
       ]
     },
     {
       text: "Lee Majors",
-      id: "109",
+      id: "110",
       items: [
         {
           text: "Unknown Stuntman",
-          id: "109_1",
+          id: "110_1",
           url: "tab/other/lee majors - Unknown Stuntman.txt"
         }
       ]
     },
     {
       text: "The Lemonheads",
-      id: "110",
+      id: "111",
       items: [
         {
           text: "Into Your Arms",
-          id: "110_1",
+          id: "111_1",
           url: "tab/other/lemonheads - into your arms.txt"
         }
       ]
     },
     {
       text: "Lisa Loeb",
-      id: "111",
+      id: "112",
       items: [
         {
           text: "Stay (I Missed You)",
-          id: "111_1",
+          id: "112_1",
           url: "tab/other/lisa loeb - stay (i missed you).txt"
         }
       ]
     },
     {
       text: "Lit",
-      id: "112",
+      id: "113",
       items: [
         {
           text: "My Own Worst Enemy",
-          id: "112_1",
+          id: "113_1",
           url: "tab/other/lit - my own worst enemy.txt"
         }
       ]
     },
     {
       text: "Live",
-      id: "113",
+      id: "114",
       items: [
         {
           text: "I Alone",
-          id: "113_1",
+          id: "114_1",
           url: "tab/other/live - i alone.txt"
         }
       ]
     },
     {
       text: "Liz Phair",
-      id: "114",
+      id: "115",
       items: [
         {
           text: "6'1\"",
-          id: "114_1",
+          id: "115_1",
           url: "tab/lizphair/liz phair - 6'1\".txt"
         },
         {
           text: "Divorce Song",
-          id: "114_2",
+          id: "115_2",
           url: "tab/lizphair/Liz Phair - Divorce Song.txt"
         },
         {
           text: "Fuck and Run",
-          id: "114_3",
+          id: "115_3",
           url: "tab/lizphair/liz phair - fuck and run.txt"
         },
         {
           text: "Help Me Mary",
-          id: "114_4",
+          id: "115_4",
           url: "tab/lizphair/liz phair - help me mary.txt"
         },
         {
           text: "Mesmerizing",
-          id: "114_5",
+          id: "115_5",
           url: "tab/lizphair/liz phair - mesmerizing.txt"
         },
         {
           text: "Polyester Bride",
-          id: "114_6",
+          id: "115_6",
           url: "tab/lizphair/liz phair - polyester bride.txt"
-        }
-      ]
-    },
-    {
-      text: "Lump",
-      id: "115",
-      items: [
-        {
-          text: "Presidents of the United States of America",
-          id: "115_1",
-          url: "tab/other/lump - presidents of the united states of america.txt"
         }
       ]
     },
@@ -1623,9 +1628,14 @@
       id: "119",
       items: [
         {
-          text: "Sick of Myself",
+          text: "Girlfriend",
           id: "119_1",
-          url: "tab/other/Matthew Sweet - Sick of Myself.txt"
+          url: "tab/matthewsweet/matthew sweet - girlfriend.txt"
+        },
+        {
+          text: "Sick of Myself",
+          id: "119_2",
+          url: "tab/matthewsweet/Matthew Sweet - Sick of Myself.txt"
         }
       ]
     },
