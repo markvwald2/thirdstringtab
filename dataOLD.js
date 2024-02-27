@@ -366,6 +366,11 @@
           text: "Cannonball",
           id: "24_1",
           url: "tab/brandicarlile/brandi carlile - cannonball.txt"
+        },
+        {
+          text: "The Story",
+          id: "24_2",
+          url: "tab/brandicarlile/brandi carlile - the story.txt"
         }
       ]
     },
