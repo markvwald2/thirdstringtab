@@ -368,9 +368,19 @@
           url: "tab/brandicarlile/brandi carlile - cannonball.txt"
         },
         {
-          text: "The Story",
+          text: "The Eye",
           id: "24_2",
+          url: "tab/brandicarlile/brandi carlile - the eye.txt"
+        },
+        {
+          text: "The Story",
+          id: "24_3",
           url: "tab/brandicarlile/brandi carlile - the story.txt"
+        },
+        {
+          text: "Right On Time",
+          id: "24_4",
+          url: "tab/brandicarlile/brandi carlile - right on time.txt"
         }
       ]
     },
@@ -3534,28 +3544,6 @@
           text: "My Heros have Always Been Cowboys",
           id: "207_3",
           url: "tab/willienelson/willie nelson - my heros have always been cowboys.txt"
-        }
-      ]
-    },
-    {
-      text: "The Wonders",
-      id: "208",
-      items: [
-        {
-          text: "That Thing You Do",
-          id: "208_1",
-          url: "tab/other/the wonders - that thing you do.txt"
-        }
-      ]
-    },
-    {
-      text: "World Party",
-      id: "209",
-      items: [
-        {
-          text: "Is it Like Today?",
-          id: "209_1",
-          url: "tab/other/world party - is it like today.txt"
         }
       ]
     }
