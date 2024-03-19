@@ -381,6 +381,11 @@
           text: "Right On Time",
           id: "24_4",
           url: "tab/brandicarlile/brandi carlile - right on time.txt"
+        },
+        {
+          text: "This Time Tomorrow",
+          id: "24_5",
+          url: "tab/brandicarlile/brandi carlile - this time tomorrow.txt"
         }
       ]
     },
@@ -3539,11 +3544,6 @@
           text: "Mammas, Don't Let Your Babies Grow Up to be Cowboys",
           id: "207_2",
           url: "tab/willienelson/willie nelson - mammas dont let your babies grow up to be cowboys.txt"
-        },
-        {
-          text: "My Heros have Always Been Cowboys",
-          id: "207_3",
-          url: "tab/willienelson/willie nelson - my heros have always been cowboys.txt"
         }
       ]
     }
