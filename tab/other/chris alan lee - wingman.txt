@@ -1,3 +1,6 @@
+Dsus2  x00120
+
+
 Dsus2
   This chick's rockin' your bro on the dance floor
 Dsus2                 G
@@ -6,7 +9,7 @@ D            G
   A junior investment banker
 Bm                       A                 F#
   Who's talking about herself and not much more, ooh
-D             G                             A
+G              D                            A
   So buy her a beer, it's the reason you're here, mighty wingman
 Bm              D           A            Bm        A        G
   You're taking one for the team so your buddy can live the dream
