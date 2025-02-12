@@ -1,48 +1,160 @@
 <!DOCTYPE html>
-<html lang="en" >
+<html lang="en">
 <head>
-	<meta charset="UTF-8">
-	<title>Zero Bureau Guitar Tablature</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guitar Tablature Viewer</title>
+    <style>
+        body {
+            display: flex;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            height: 100vh;
+            position: relative;
+        }
 
-	<!-- Enabling Rich Previews Of Shared Links -->
-	<meta property="og:image" content="img/tab-preview.png" />
-	<meta property="og:image:type" content="image/png">
-	<meta property="og:image:width" content="465" />
-	<meta property="og:image:height" content="466" />
-	<meta name="description" content="Zero Bureau Guitar Tablature" />
-	<meta property="og:description" content="Zero Bureau Guitar Tablature" />
+        #sidebar {
+            width: 250px;
+            border-right: 1px solid #ddd;
+            padding: 10px;
+            max-height: 100vh;
+            overflow-y: auto;
+            background: #f9f9f9;
+            position: relative;
+            transition: width 0.3s ease-in-out;
+        }
 
-	<link rel="apple-touch-icon" href="favicon/favicon-114.png" />
-	<link rel="apple-touch-icon" href="favicon/favicon-144.png" />
-	<link rel="apple-touch-icon" href="favicon/favicon-512.png" />
-	<link rel="apple-touch-icon" href="favicon/favicon-1024.png" />
-	<meta name="apple-mobile-web-app-capable" content="yes" /><!-- hide top bar in mobile safari-->
-	<meta name="apple-mobile-web-app-status-bar-style" content="black" /><!-- translucent top bar -->
-	<link rel="shortcut icon" href="/favicon.ico">
-	
-    <link rel="stylesheet" type="text/css" href="https://cdn3.devexpress.com/jslib/19.2.5/css/dx.common.css" />
-    <link rel="stylesheet" type="text/css" href="https://cdn3.devexpress.com/jslib/19.2.5/css/dx.light.css" />
-	<link rel="stylesheet" href="style.css">
-	
+        #sidebar.hidden {
+            width: 0;
+            padding: 0;
+            overflow: hidden;
+            border-right: none;
+        }
+
+        #toggleSidebar {
+            position: absolute;
+            left: 10px;
+            top: 10px;
+            background: #ddd;
+            border: none;
+            padding: 5px 10px;
+            cursor: pointer;
+            font-size: 18px;
+            border-radius: 5px;
+            z-index: 10;
+        }
+
+        #searchContainer {
+            display: flex;
+            align-items: center;
+            position: relative;
+        }
+
+        #searchBar {
+            flex-grow: 1;
+            padding: 10px;
+            width: 80%;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            text-align: center;
+        }
+
+        #clearSearch {
+            position: absolute;
+            right: 10px;
+            cursor: pointer;
+            font-size: 18px;
+            background: none;
+            border: none;
+            color: #888;
+        }
+
+        .band {
+            cursor: pointer;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            margin-top: 10px;
+            font-weight: normal;
+        }
+
+        .band .arrow {
+            transition: transform 0.2s;
+            font-size: 12px;
+        }
+
+        .songList {
+            display: none;
+            margin-left: 20px;
+            flex-direction: column;
+        }
+
+        .song {
+            cursor: pointer;
+            font-size: 13px;
+            color: #555;
+            margin-top: 3px;
+            font-weight: normal;
+            display: block;
+        }
+
+        .song:hover {
+            text-decoration: underline;
+        }
+
+        #content {
+            flex-grow: 1;
+            padding: 20px;
+            transition: margin-left 0.3s ease-in-out;
+        }
+
+        .expanded {
+            margin-left: -250px;
+        }
+
+        #tabDisplay {
+            white-space: pre-wrap;
+            background: #eee;
+            padding: 15px;
+            border-radius: 5px;
+            min-height: 80vh;
+            overflow: auto;
+        }
+    </style>
 </head>
-
 <body>
 
-    <div class="dx-viewport demo-container">
-        <div class="form">
-            <div id="simple-treeview"></div>
-			<div id="random">Random!</div>
-            <div id="band-details" class="hidden">
-                <div class="name"></div>
-				<object id="tab" type="text/html" data=""></object>
-            </div>
+    <button id="toggleSidebar">☰</button> <!-- Always visible button -->
+
+    <div id="sidebar">
+        <div id="searchContainer">
+            <input type="text" id="searchBar" placeholder="Search bands or songs...">
+            <button id="clearSearch" onclick="clearSearch()">&times;</button>
         </div>
+        <div id="bandList"></div>
     </div>
 
-<script src='https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
-<script src='https://cdn3.devexpress.com/jslib/19.2.5/js/dx.all.js'></script>
-<script  src="script.js"></script>
-<script  src="data.js"></script>
+    <div id="content">
+        <h2>Guitar Tablature</h2>
+        <pre id="tabDisplay">Select a song to view its tablature.</pre>
+    </div>
 
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+    <script>
+        function clearSearch() {
+            document.getElementById('searchBar').value = '';
+            searchData(); // Reset the band list
+        }
+
+        document.getElementById('toggleSidebar').addEventListener('click', function() {
+            let sidebar = document.getElementById('sidebar');
+            let content = document.getElementById('content');
+
+            sidebar.classList.toggle('hidden');
+            content.classList.toggle('expanded');
+        });
+    </script>
 </body>
 </html>

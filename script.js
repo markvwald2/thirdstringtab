@@ -1,103 +1,93 @@
-$(function() {
-    const treeView = $("#simple-treeview").dxTreeView({
-        items: bands,
-        width: 300,
-        searchEnabled: true,
-        searchMode: "contains",  // Enable partial matching
-        searchExpr: "text",      // Search within 'text' (band names and song titles)
-        onItemClick: function(data) {
-            var item = data.node;
-            if (data.itemData.url) {
-                $("#band-details").removeClass("hidden");
-                $("#band-details > .name").text(item.parent.text + " - " + item.text);
-                $("#band-details > object").attr("data", data.itemData.url);
-            } else {
-                $("#band-details").addClass("hidden");
-            }
-        },
-        onSearchChanged: function(e) {
-            var searchValue = e.searchValue.toLowerCase();
-            var nodes = treeView.getNodes();
+document.addEventListener("DOMContentLoaded", function () {
+    console.log("DOM loaded!");
 
-            nodes.forEach(function(node) {
-                let nodeText = node.text.toLowerCase();
-                
-                // If artist node matches search term, expand artist and all song nodes under it
-                if (nodeText.includes(searchValue) && node.items) {
-                    if (!node.isExpanded) {
-                        treeView.expandItem(node);  // Ensure the artist node is expanded
-                    }
-                    // Expand all song nodes under the artist node
-                    node.items.forEach(songNode => {
-                        if (!songNode.isExpanded) {
-                            treeView.expandItem(songNode);  // Ensure each song node is expanded
-                        }
+document.getElementById('toggleSidebar').addEventListener('click', function() {
+	document.getElementById('sidebar').classList.toggle('hidden');
+});
+
+    const searchBar = document.getElementById("searchBar");
+    const bandListDiv = document.getElementById("bandList");
+    const tabDisplay = document.getElementById("tabDisplay");
+
+    function searchData() {
+        console.log("searchData triggered!");
+        const query = searchBar.value.toLowerCase();
+        bandListDiv.innerHTML = ""; // Clear current list
+
+        data.forEach((band) => {
+            const bandNameMatches = band.text.toLowerCase().includes(query);
+            const matchingSongs = band.items.filter(song => song.text.toLowerCase().includes(query));
+
+            if (bandNameMatches || matchingSongs.length > 0) {
+                const bandDiv = document.createElement("div");
+                bandDiv.classList.add("band");
+
+                const arrow = document.createElement("span");
+                arrow.classList.add("arrow");
+                arrow.textContent = "▶"; // Right-pointing arrow
+
+                const bandText = document.createElement("span");
+                bandText.textContent = band.text;
+
+                bandDiv.appendChild(arrow);
+                bandDiv.appendChild(bandText);
+
+                const songListDiv = document.createElement("div");
+                songListDiv.classList.add("songList");
+                songListDiv.style.display = "none"; // Songs hidden by default
+
+                if (bandNameMatches) {
+                    band.items.forEach((song) => {
+                        const songDiv = document.createElement("div");
+                        songDiv.classList.add("song");
+                        songDiv.textContent = song.text;
+                        songDiv.onclick = () => displayTab(song.url, band.text, song.text);
+                        songListDiv.appendChild(songDiv);
+                    });
+                } else {
+                    // If searching by song, only show matching songs under the band
+                    songListDiv.style.display = "block";
+                    matchingSongs.forEach((song) => {
+                        const songDiv = document.createElement("div");
+                        songDiv.classList.add("song");
+                        songDiv.textContent = song.text;
+                        songDiv.onclick = () => displayTab(song.url, band.text, song.text);
+                        songListDiv.appendChild(songDiv);
                     });
                 }
-                
-                // If a song matches, expand both the artist node and the song node
-                else if (nodeText.includes(searchValue) && node.parent) {
-                    if (!node.parent.isExpanded) {
-                        treeView.expandItem(node.parent); // Expand the parent artist node
+
+                // Toggle song visibility when clicking the band
+                bandDiv.onclick = function () {
+                    if (bandNameMatches) { // Only toggle when searching by band
+                        const isExpanded = songListDiv.style.display === "block";
+                        songListDiv.style.display = isExpanded ? "none" : "block";
+                        arrow.textContent = isExpanded ? "▶" : "▼"; // Change arrow direction
                     }
-                    if (!node.isExpanded) {
-                        treeView.expandItem(node); // Expand the song node
-                    }
-                }
-            });
-        }
-    }).dxTreeView("instance");
+                };
 
-    // Add random song functionality
-    $(document).on('click', '#random', function() {
-        console.log("Random button clicked!");
-
-        // Collect all songs from all bands
-        let allSongs = [];
-
-        bands.forEach(band => {
-            band.items.forEach(song => {
-                allSongs.push({
-                    song: song,
-                    bandName: band.text
-                });
-            });
+                bandListDiv.appendChild(bandDiv);
+                bandListDiv.appendChild(songListDiv); // Ensure songs appear **under** band
+            }
         });
+    }
 
-        if (allSongs.length === 0) {
-            console.warn("No songs available.");
-            return;
-        }
+    function displayTab(url, bandName, songName) {
+        console.log(`Fetching tab for: ${bandName} - ${songName}`);
+        fetch(url)
+            .then(response => {
+                if (!response.ok) throw new Error("Failed to load tab file.");
+                return response.text();
+            })
+            .then(text => {
+                tabDisplay.textContent = text;
+                document.querySelector("h2").textContent = `${bandName} - ${songName}`;
+            })
+            .catch(error => {
+                tabDisplay.textContent = "Error loading tab file.";
+                console.error("Error:", error);
+            });
+    }
 
-        // Select a random song
-        const randomEntry = allSongs[Math.floor(Math.random() * allSongs.length)];
-
-        // Force reload by appending a timestamp to the URL (Solution 2)
-        let newUrl = randomEntry.song.url + "?t=" + new Date().getTime();
-        console.log("Selected song:", randomEntry.song.text, "URL:", newUrl);
-
-        // Update the display with the random song
-        $("#band-details").removeClass("hidden");
-        $("#band-details > .name").text(randomEntry.bandName + " - " + randomEntry.song.text);
-        $("#band-details > object").attr("data", newUrl);
-    });
-
-    // Style the random button
-    $('#random').css({
-        'cursor': 'pointer',
-        'padding': '4px 20px',
-        'background-color': '#4CAF50',
-        'color': 'white',
-        'border-radius': '4px',
-        'margin-top': '10px',
-        'display': 'inline-block',
-        'user-select': 'none'
-    }).hover(
-        function() {
-            $(this).css('background-color', '#45a049');
-        },
-        function() {
-            $(this).css('background-color', '#4CAF50');
-        }
-    );
+    searchBar.addEventListener("input", searchData);
+    searchData(); // Load all bands initially
 });
