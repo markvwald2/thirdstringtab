@@ -18,15 +18,31 @@ $(function() {
         onSearchChanged: function(e) {
             var searchValue = e.searchValue.toLowerCase();
             var nodes = treeView.getNodes();
-            
-            // Iterate through the nodes and show/hide based on search term
+
             nodes.forEach(function(node) {
-                // Expand matching bands or songs
-                if (node.text.toLowerCase().includes(searchValue)) {
-                    treeView.expandItem(node); // Expand the matched node
-                    treeView.expandItem(node.parent); // Expand the parent band if a song matches
-                } else {
-                    treeView.collapseItem(node); // Collapse the node if it doesn't match
+                let nodeText = node.text.toLowerCase();
+                
+                // If artist node matches search term, expand artist and all song nodes under it
+                if (nodeText.includes(searchValue) && node.items) {
+                    if (!node.isExpanded) {
+                        treeView.expandItem(node);  // Ensure the artist node is expanded
+                    }
+                    // Expand all song nodes under the artist node
+                    node.items.forEach(songNode => {
+                        if (!songNode.isExpanded) {
+                            treeView.expandItem(songNode);  // Ensure each song node is expanded
+                        }
+                    });
+                }
+                
+                // If a song matches, expand both the artist node and the song node
+                else if (nodeText.includes(searchValue) && node.parent) {
+                    if (!node.parent.isExpanded) {
+                        treeView.expandItem(node.parent); // Expand the parent artist node
+                    }
+                    if (!node.isExpanded) {
+                        treeView.expandItem(node); // Expand the song node
+                    }
                 }
             });
         }
@@ -73,7 +89,7 @@ $(function() {
         'background-color': '#4CAF50',
         'color': 'white',
         'border-radius': '4px',
-        'margin': '2px 0',
+        'margin-top': '10px',
         'display': 'inline-block',
         'user-select': 'none'
     }).hover(
