@@ -1,5 +1,4 @@
 $(function(){
-    // Store the treeview instance for later use
     const treeView = $("#simple-treeview").dxTreeView({ 
         items: bands,
         width: 300,
@@ -18,33 +17,35 @@ $(function(){
 
     // Add random song functionality
     $('#random').on('click', function() {
-        // Get all items from the treeview
-        const allItems = treeView.getItems();
+        // Collect all songs from all bands
+        let allSongs = [];
         
-        // Filter to get only songs (items with URLs)
-        const songs = allItems.filter(item => item.url);
-        
-        if (songs.length === 0) return;
+        bands.forEach(band => {
+            band.items.forEach(song => {
+                allSongs.push({
+                    song: song,
+                    bandName: band.text
+                });
+            });
+        });
         
         // Select a random song
-        const randomSong = songs[Math.floor(Math.random() * songs.length)];
+        const randomEntry = allSongs[Math.floor(Math.random() * allSongs.length)];
         
         // Update the display
         $("#band-details").removeClass("hidden");
-        $("#band-details > .name").text(
-            (randomSong.parent ? randomSong.parent.text + " - " : "") + randomSong.text
-        );
-        $("#band-details > object").attr("data", randomSong.url);
+        $("#band-details > .name").text(randomEntry.bandName + " - " + randomEntry.song.text);
+        $("#band-details > object").attr("data", randomEntry.song.url);
     });
     
     // Style the random button
     $('#random').css({
         'cursor': 'pointer',
-        'padding': '10px 20px',
+        'padding': '4px 20px',
         'background-color': '#4CAF50',
         'color': 'white',
         'border-radius': '4px',
-        'margin': '10px 0',
+        'margin': '2px 0',
         'display': 'inline-block',
         'user-select': 'none'
     }).hover(
