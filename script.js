@@ -91,3 +91,6 @@ document.getElementById('toggleSidebar').addEventListener('click', function() {
     searchBar.addEventListener("input", searchData);
     searchData(); // Load all bands initially
 });
+
+
+

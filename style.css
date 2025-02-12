@@ -1,43 +1,117 @@
-/* left sidebar */
-#simple-treeview {
-    display: inline-block;
-    position: fixed;
-    background-color: #eee;
-	overflow:auto;
+
+body {
+	display: flex;
+	font-family: Arial, sans-serif;
+	margin: 0;
+	height: 100vh;
+	position: relative;
 }
 
-/* search box */
-.dx-texteditor-input {
-	background: #fff;
-	border-radius: 0px;
+#sidebar {
+	width: 250px;
+	border-right: 1px solid #ddd;
+	padding: 10px;
+	max-height: 100vh;
+	overflow-y: auto;
+	background: #f9f9f9;
+	position: relative;
+	transition: width 0.3s ease-in-out;
 }
 
-/* right panel */
-#band-details {
-    display: inline-block;
-    position: fixed;
-    margin-left: 320px;
+#sidebar.hidden {
+	width: 0;
+	padding: 0;
+	overflow: hidden;
+	border-right: none;
 }
 
-/* band and song name */
-#band-details > .name {
-    text-align: left;
-    font-size: 20px;
+#toggleSidebar {
+	position: absolute;
+	left: 10px;
+	top: 10px;
+	background: #ddd;
+	border: none;
+	padding: 5px 10px;
+	cursor: pointer;
+	font-size: 18px;
+	border-radius: 5px;
+	z-index: 10;
 }
 
-/* random button */
-#random {
-	float: right;
+#searchContainer {
+	display: flex;
+	align-items: center;
+	position: relative;
 }
 
-/* tab window */
-object {
-	width:1000px;
-    height:95vh;
-    margin-top: 15px;
+#searchBar {
+	flex-grow: 1;
+	padding: 10px;
+	width: 80%;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	text-align: center;
 }
 
-/* hides right pane when nothing is selected */
-.hidden {
-    visibility: hidden;
+#clearSearch {
+	position: absolute;
+	right: 10px;
+	cursor: pointer;
+	font-size: 18px;
+	background: none;
+	border: none;
+	color: #888;
+}
+
+.band {
+	cursor: pointer;
+	font-size: 14px;
+	display: flex;
+	align-items: center;
+	gap: 5px;
+	margin-top: 10px;
+	font-weight: normal;
+}
+
+.band .arrow {
+	transition: transform 0.2s;
+	font-size: 12px;
+}
+
+.songList {
+	display: none;
+	margin-left: 20px;
+	flex-direction: column;
+}
+
+.song {
+	cursor: pointer;
+	font-size: 13px;
+	color: #555;
+	margin-top: 3px;
+	font-weight: normal;
+	display: block;
+}
+
+.song:hover {
+	text-decoration: underline;
+}
+
+#content {
+	flex-grow: 1;
+	padding: 20px;
+	transition: margin-left 0.3s ease-in-out;
+}
+
+.expanded {
+	margin-left: -250px;
+}
+
+#tabDisplay {
+	white-space: pre-wrap;
+	background: #eee;
+	padding: 15px;
+	border-radius: 5px;
+	min-height: 80vh;
+	overflow: auto;
 }
