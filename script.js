@@ -3,6 +3,8 @@ $(function() {
         items: bands,
         width: 300,
         searchEnabled: true,
+        searchMode: "contains",  // Enable partial matching
+        searchExpr: "text",      // Search within 'text' (band names and song titles)
         onItemClick: function(data) {
             var item = data.node;
             if (data.itemData.url) {
@@ -12,6 +14,21 @@ $(function() {
             } else {
                 $("#band-details").addClass("hidden");
             }
+        },
+        onSearchChanged: function(e) {
+            var searchValue = e.searchValue.toLowerCase();
+            var nodes = treeView.getNodes();
+            
+            // Iterate through the nodes and show/hide based on search term
+            nodes.forEach(function(node) {
+                // Expand matching bands or songs
+                if (node.text.toLowerCase().includes(searchValue)) {
+                    treeView.expandItem(node); // Expand the matched node
+                    treeView.expandItem(node.parent); // Expand the parent band if a song matches
+                } else {
+                    treeView.collapseItem(node); // Collapse the node if it doesn't match
+                }
+            });
         }
     }).dxTreeView("instance");
 
