@@ -48,20 +48,22 @@ $(function() {
             });
         });
 
+        if (allSongs.length === 0) {
+            console.warn("No songs available.");
+            return;
+        }
+
         // Select a random song
         const randomEntry = allSongs[Math.floor(Math.random() * allSongs.length)];
 
-        // Reset the object data before updating (Solution 1)
-        let objectElement = $("#band-details > object");
-        objectElement.attr("data", ""); // Temporarily clear
-        setTimeout(() => {
-            objectElement.attr("data", randomEntry.song.url); // Update after short delay
-        }, 50); // Small delay to force reload
+        // Force reload by appending a timestamp to the URL (Solution 2)
+        let newUrl = randomEntry.song.url + "?t=" + new Date().getTime();
+        console.log("Selected song:", randomEntry.song.text, "URL:", newUrl);
 
         // Update the display with the random song
-        console.log("Random song:", randomEntry.song.text);
         $("#band-details").removeClass("hidden");
         $("#band-details > .name").text(randomEntry.bandName + " - " + randomEntry.song.text);
+        $("#band-details > object").attr("data", newUrl);
     });
 
     // Style the random button
