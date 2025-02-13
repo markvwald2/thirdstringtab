@@ -2,7 +2,7 @@ body {
     display: flex;
     font-family: Arial, sans-serif;
     margin: 0;
-    height: 100vh;
+    min-height: 100vh;
     position: relative;
 }
 
@@ -10,10 +10,9 @@ body {
     width: 250px;
     border-right: 1px solid #ddd;
     padding: 10px;
-    max-height: 100vh;
-    overflow-y: hidden; /* Prevent double scrolling */
+    overflow-y: auto;
     background: #f9f9f9;
-    position: absolute;
+    position: fixed;
     left: 0;
     top: 0;
     bottom: 0;
@@ -31,13 +30,14 @@ body {
     z-index: 15; /* Ensure it stays on top */
     padding-bottom: 10px;
     border-bottom: 1px solid #ddd;
+    align-items: center;  /* Was incomplete before */
 }
 
 /* Make band list scrollable */
 #bandList {
     flex-grow: 1; /* Takes up remaining space */
     overflow-y: auto;
-    max-height: calc(100vh - 50px); /* Adjust to fit below the search bar */
+    height: calc(100vh - 50px); /* Adjust to fit below the search bar */
 }
 
 #sidebar.hidden {
@@ -57,7 +57,7 @@ body {
     cursor: pointer;
     font-size: 14px;
     color: #bbbbbb;
-    border-radius: 5px;
+    border-radius: 0 5px 5px 0;
     z-index: 20;
     transition: left 0.3s ease-in-out;
 }
@@ -72,6 +72,7 @@ body {
     padding: 0 20px;
     transition: margin-left 0.3s ease-in-out;
     width: 100%;
+    min-height: 100vh;  /* Added this */
 }
 
 /* When sidebar is hidden, expand the content */
@@ -118,6 +119,7 @@ body {
     gap: 5px;
     margin-top: 10px;
     font-weight: normal;
+    align-items: center;  /* Was incomplete before */
 }
 
 .band .arrow {
@@ -157,7 +159,7 @@ body {
 #randomSong {
     position: absolute;
     top: 10px;
-    right: 10px;
+    right: 30px;
     background: #007bff;
     color: white;
     border: none;
