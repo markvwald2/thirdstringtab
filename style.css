@@ -7,11 +7,11 @@ body {
 }
 
 #sidebar {
-    width: 250px; /* Sidebar width */
+    width: 250px;
     border-right: 1px solid #ddd;
     padding: 10px;
     max-height: 100vh;
-    overflow-y: auto;
+    overflow-y: hidden; /* Prevent double scrolling */
     background: #f9f9f9;
     position: absolute;
     left: 0;
@@ -19,6 +19,25 @@ body {
     bottom: 0;
     transition: transform 0.3s ease-in-out;
     z-index: 10;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Make search bar sticky */
+#searchContainer {
+    position: sticky;
+    top: 0;
+    background: #f9f9f9; /* Match sidebar color */
+    z-index: 15; /* Ensure it stays on top */
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Make band list scrollable */
+#bandList {
+    flex-grow: 1; /* Takes up remaining space */
+    overflow-y: auto;
+    max-height: calc(100vh - 50px); /* Adjust to fit below the search bar */
 }
 
 #sidebar.hidden {
@@ -37,6 +56,7 @@ body {
     border: 1px solid #ddd;
     cursor: pointer;
     font-size: 14px;
+    color: #bbbbbb;
     border-radius: 5px;
     z-index: 20;
     transition: left 0.3s ease-in-out;
