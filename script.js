@@ -116,3 +116,21 @@ document.addEventListener("DOMContentLoaded", function () {
 
     searchData(); // Load all bands initially
 });
+
+// Store all songs when the page loads
+let allSongs = [];
+
+document.addEventListener("DOMContentLoaded", function () {
+    allSongs = Array.from(document.querySelectorAll(".song"));
+});
+
+document.getElementById("randomSong").addEventListener("click", function () {
+    if (allSongs.length === 0) return;
+
+    const randomIndex = Math.floor(Math.random() * allSongs.length);
+    const randomSong = allSongs[randomIndex];
+
+    // Simulate clicking the song to load its tab
+    randomSong.click();
+});
+
