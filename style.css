@@ -1,117 +1,135 @@
-
 body {
-	display: flex;
-	font-family: Arial, sans-serif;
-	margin: 0;
-	height: 100vh;
-	position: relative;
+    display: flex;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    height: 100vh;
+    position: relative;
 }
 
 #sidebar {
-	width: 250px;
-	border-right: 1px solid #ddd;
-	padding: 10px;
-	max-height: 100vh;
-	overflow-y: auto;
-	background: #f9f9f9;
-	position: relative;
-	transition: width 0.3s ease-in-out;
+    width: 250px; /* Sidebar width */
+    border-right: 1px solid #ddd;
+    padding: 10px;
+    max-height: 100vh;
+    overflow-y: auto;
+    background: #f9f9f9;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    transition: transform 0.3s ease-in-out;
+    z-index: 10;
 }
 
 #sidebar.hidden {
-	width: 0;
-	padding: 0;
-	overflow: hidden;
-	border-right: none;
+    transform: translateX(-270px);
 }
 
+/* Toggle Button */
 #toggleSidebar {
-	position: absolute;
-	left: 10px;
-	top: 10px;
-	background: #ddd;
-	border: none;
-	padding: 5px 10px;
-	cursor: pointer;
-	font-size: 18px;
-	border-radius: 5px;
-	z-index: 10;
+    position: absolute;
+    width: 10px; /* Set a fixed width */
+    height: 40px; /* Set a fixed height */
+    left: 270px; /* Align with the sidebar’s right edge */
+    top: 50%;
+    transform: translateY(-50%);
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    font-size: 14px;
+    border-radius: 5px;
+    z-index: 20;
+    transition: left 0.3s ease-in-out;
 }
 
+#sidebar.hidden + #toggleSidebar {
+    left: 0px; /* Button stays visible when sidebar is hidden */
+}
+
+/* Content Section */
+#content {
+    flex-grow: 1;
+    padding: 0 20px;
+    transition: margin-left 0.3s ease-in-out;
+    width: 100%;
+}
+
+/* When sidebar is hidden, expand the content */
+#content.expanded {
+    margin-left: 0px; /* Content expands when sidebar is hidden */
+}
+
+/* When sidebar is visible, push content to the right */
+#content:not(.expanded) {
+    margin-left: 270px; /* Content is pushed when sidebar is visible */
+}
+
+/* Search Bar Styling */
 #searchContainer {
-	display: flex;
-	align-items: center;
-	position: relative;
+    display: flex;
+    align-items: ;
+    position: relative;
 }
 
 #searchBar {
-	flex-grow: 1;
-	padding: 10px;
-	width: 80%;
-	border: 1px solid #ddd;
-	border-radius: 5px;
-	text-align: center;
+    flex-grow: 1;
+    padding: 10px;
+    width: 80%;
+    border: 1px solid #ddd;
+    border-radius: 5px;
 }
 
 #clearSearch {
-	position: absolute;
-	right: 10px;
-	cursor: pointer;
-	font-size: 18px;
-	background: none;
-	border: none;
-	color: #888;
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+    font-size: 18px;
+    background: none;
+    border: none;
+    color: #888;
 }
 
+/* Band and Song List Styling */
 .band {
-	cursor: pointer;
-	font-size: 14px;
-	display: flex;
-	align-items: center;
-	gap: 5px;
-	margin-top: 10px;
-	font-weight: normal;
+    cursor: pointer;
+    font-size: 14px;
+    display: flex;
+    align-items: ;
+    gap: 5px;
+    margin-top: 10px;
+    font-weight: normal;
 }
 
 .band .arrow {
-	transition: transform 0.2s;
-	font-size: 12px;
+    transition: transform 0.2s;
+    font-size: 9px;
 }
 
 .songList {
-	display: none;
-	margin-left: 20px;
-	flex-direction: column;
+    display: none;
+    margin-left: 20px;
+    flex-direction: column;
 }
 
 .song {
-	cursor: pointer;
-	font-size: 13px;
-	color: #555;
-	margin-top: 3px;
-	font-weight: normal;
-	display: block;
+    cursor: pointer;
+    font-size: 13px;
+    color: #555;
+    margin-top: 3px;
+    font-weight: normal;
+    display: block;
 }
 
 .song:hover {
-	text-decoration: underline;
+    text-decoration: underline;
 }
 
-#content {
-	flex-grow: 1;
-	padding: 20px;
-	transition: margin-left 0.3s ease-in-out;
-}
-
-.expanded {
-	margin-left: -250px;
-}
-
+/* Tab Display */
 #tabDisplay {
-	white-space: pre-wrap;
-	background: #eee;
-	padding: 15px;
-	border-radius: 5px;
-	min-height: 80vh;
-	overflow: auto;
+    white-space: pre-wrap;
+    background: #eee;
+    padding: 15px;
+    border-radius: 5px;
+    min-height: 80vh;
+    overflow: auto;
 }

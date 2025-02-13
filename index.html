@@ -3,15 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Guitar Tablature Viewer</title>
-	<link rel="stylesheet" href="style.css">
-	
+    <title>Zero Bureau Tab</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-    <button id="toggleSidebar">☰</button> <!-- Always visible button -->
-
+    <!-- Sidebar -->
     <div id="sidebar">
+        
         <div id="searchContainer">
             <input type="text" id="searchBar" placeholder="Search bands or songs...">
             <button id="clearSearch" onclick="clearSearch()">&times;</button>
@@ -19,26 +18,17 @@
         <div id="bandList"></div>
     </div>
 
+    <!-- Toggle button is placed AFTER sidebar -->
+    <button id="toggleSidebar">|</button>
+
+    <!-- Content Section -->
     <div id="content">
-        <h2>Guitar Tablature</h2>
-        <pre id="tabDisplay">Select a song to view its tablature.</pre>
+        <h2>Zero Bureau Tab</h2>
+        <pre id="tabDisplay">Select a song to view its tablature dummy.</pre>
     </div>
 
+    <!-- Scripts -->
     <script src="data.js"></script>
     <script src="script.js"></script>
-    <script>
-        function clearSearch() {
-            document.getElementById('searchBar').value = '';
-            searchData(); // Reset the band list
-        }
-
-        document.getElementById('toggleSidebar').addEventListener('click', function() {
-            let sidebar = document.getElementById('sidebar');
-            let content = document.getElementById('content');
-
-            sidebar.classList.toggle('hidden');
-            content.classList.toggle('expanded');
-        });
-    </script>
 </body>
 </html>

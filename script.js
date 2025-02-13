@@ -1,9 +1,23 @@
 document.addEventListener("DOMContentLoaded", function () {
-    console.log("DOM loaded!");
-
-document.getElementById('toggleSidebar').addEventListener('click', function() {
-	document.getElementById('sidebar').classList.toggle('hidden');
-});
+    const sidebar = document.getElementById('sidebar');
+    const toggleSidebarButton = document.getElementById('toggleSidebar');
+    const content = document.getElementById('content');
+    
+    // Function to toggle the sidebar visibility
+    toggleSidebarButton.addEventListener('click', function() {
+        // Toggle the hidden class on the sidebar
+        sidebar.classList.toggle('hidden');
+        
+        // Toggle the content margin and expanded class
+        content.classList.toggle('expanded');
+        
+        // Toggle the button position based on sidebar visibility
+        if (sidebar.classList.contains('hidden')) {
+            toggleSidebarButton.style.right = '-40px'; // Button is aligned outside when sidebar is hidden
+        } else {
+            toggleSidebarButton.style.right = '0'; // Button is aligned right when sidebar is visible
+        }
+    });
 
     const searchBar = document.getElementById("searchBar");
     const bandListDiv = document.getElementById("bandList");
@@ -88,9 +102,17 @@ document.getElementById('toggleSidebar').addEventListener('click', function() {
             });
     }
 
+    // Updated clearSearch function
+    function clearSearch() {
+        document.getElementById('searchBar').value = ''; // Clear search box
+        searchData(); // Reset the band list to show all bands
+    }
+
+    // Event listener for the search bar input
     searchBar.addEventListener("input", searchData);
+    
+    // Event listener for the clear search button
+    document.getElementById('clearSearch').addEventListener("click", clearSearch);
+
     searchData(); // Load all bands initially
 });
-
-
-
