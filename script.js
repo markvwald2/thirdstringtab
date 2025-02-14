@@ -1,3 +1,9 @@
+// Global state for scroll status
+let isScrolling = false;
+let isPaused = false;
+let startDelay = null;
+let currentActiveSong = null;
+
 document.addEventListener("DOMContentLoaded", function () {
     const sidebar = document.getElementById('sidebar');
     const toggleSidebarButton = document.getElementById('toggleSidebar');
@@ -5,17 +11,13 @@ document.addEventListener("DOMContentLoaded", function () {
     
     // Function to toggle the sidebar visibility
     toggleSidebarButton.addEventListener('click', function() {
-        // Toggle the hidden class on the sidebar
         sidebar.classList.toggle('hidden');
-        
-        // Toggle the content margin and expanded class
         content.classList.toggle('expanded');
         
-        // Toggle the button position based on sidebar visibility
         if (sidebar.classList.contains('hidden')) {
-            toggleSidebarButton.style.right = '-40px'; // Button is aligned outside when sidebar is hidden
+            toggleSidebarButton.style.right = '-40px';
         } else {
-            toggleSidebarButton.style.right = '0'; // Button is aligned right when sidebar is visible
+            toggleSidebarButton.style.right = '0';
         }
     });
 
@@ -23,10 +25,42 @@ document.addEventListener("DOMContentLoaded", function () {
     const bandListDiv = document.getElementById("bandList");
     const tabDisplay = document.getElementById("tabDisplay");
 
+    // Function to update scroll status icon
+    function updateScrollIcon() {
+        if (!currentActiveSong) return;
+        
+        const scrollStatus = currentActiveSong.querySelector('.songScrollStatus');
+        if (!scrollStatus) return;
+        
+        if (!isScrolling) {
+            scrollStatus.style.visibility = 'hidden';
+            return;
+        }
+        
+        scrollStatus.style.visibility = 'visible';
+        
+        if (!isPaused) {
+            scrollStatus.innerHTML = '⏵︎';
+            scrollStatus.title = 'Auto-scrolling (Press Space to Pause)';
+        } else {
+            scrollStatus.innerHTML = '⏸︎';
+            scrollStatus.title = 'Paused (Press Space to Resume)';
+        }
+    }
+
+    // Function to set active song
+    function setActiveSong(songElement) {
+        if (currentActiveSong) {
+            currentActiveSong.classList.remove('active');
+        }
+        currentActiveSong = songElement;
+        songElement.classList.add('active');
+    }
+
     function searchData() {
         console.log("searchData triggered!");
         const query = searchBar.value.toLowerCase();
-        bandListDiv.innerHTML = ""; // Clear current list
+        bandListDiv.innerHTML = "";
 
         data.forEach((band) => {
             const bandNameMatches = band.text.toLowerCase().includes(query);
@@ -38,7 +72,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
                 const arrow = document.createElement("span");
                 arrow.classList.add("arrow");
-                arrow.textContent = "▶"; // Right-pointing arrow
+                arrow.textContent = "▶";
 
                 const bandText = document.createElement("span");
                 bandText.textContent = band.text;
@@ -48,41 +82,68 @@ document.addEventListener("DOMContentLoaded", function () {
 
                 const songListDiv = document.createElement("div");
                 songListDiv.classList.add("songList");
-                songListDiv.style.display = "none"; // Songs hidden by default
+                songListDiv.style.display = "none";
 
                 if (bandNameMatches) {
                     band.items.forEach((song) => {
                         const songDiv = document.createElement("div");
-                        songDiv.classList.add("song");
-                        songDiv.textContent = song.text;
-                        songDiv.onclick = () => displayTab(song.url, band.text, song.text);
+                        songDiv.className = 'song';
+                        
+                        const songText = document.createElement("span");
+                        songText.textContent = song.text;
+                        
+                        const scrollStatus = document.createElement("span");
+                        scrollStatus.className = 'songScrollStatus';
+                        scrollStatus.innerHTML = '⏸︎';
+                        
+                        songDiv.appendChild(songText);
+                        songDiv.appendChild(scrollStatus);
+                        
+                        songDiv.onclick = () => {
+                            setActiveSong(songDiv);
+                            displayTab(song.url, band.text, song.text);
+                        };
                         songListDiv.appendChild(songDiv);
                     });
                 } else {
-                    // If searching by song, only show matching songs under the band
                     songListDiv.style.display = "block";
                     matchingSongs.forEach((song) => {
                         const songDiv = document.createElement("div");
-                        songDiv.classList.add("song");
-                        songDiv.textContent = song.text;
-                        songDiv.onclick = () => displayTab(song.url, band.text, song.text);
+                        songDiv.className = 'song';
+                        
+                        const songText = document.createElement("span");
+                        songText.textContent = song.text;
+                        
+                        const scrollStatus = document.createElement("span");
+                        scrollStatus.className = 'songScrollStatus';
+                        scrollStatus.innerHTML = '⏸︎';
+                        
+                        songDiv.appendChild(songText);
+                        songDiv.appendChild(scrollStatus);
+                        
+                        songDiv.onclick = () => {
+                            setActiveSong(songDiv);
+                            displayTab(song.url, band.text, song.text);
+                        };
                         songListDiv.appendChild(songDiv);
                     });
                 }
 
-                // Toggle song visibility when clicking the band
                 bandDiv.onclick = function () {
-                    if (bandNameMatches) { // Only toggle when searching by band
+                    if (bandNameMatches) {
                         const isExpanded = songListDiv.style.display === "block";
                         songListDiv.style.display = isExpanded ? "none" : "block";
-                        arrow.textContent = isExpanded ? "▶" : "▼"; // Change arrow direction
+                        arrow.textContent = isExpanded ? "▶" : "▼";
                     }
                 };
 
                 bandListDiv.appendChild(bandDiv);
-                bandListDiv.appendChild(songListDiv); // Ensure songs appear **under** band
+                bandListDiv.appendChild(songListDiv);
             }
         });
+        
+        // Update allSongs after rebuilding the list
+        allSongs = Array.from(document.querySelectorAll(".song"));
     }
 
     function displayTab(url, bandName, songName) {
@@ -95,6 +156,29 @@ document.addEventListener("DOMContentLoaded", function () {
             .then(text => {
                 tabDisplay.textContent = text;
                 document.querySelector("h2").textContent = `${bandName} - ${songName}`;
+                
+                // Wait for the content to be rendered
+                setTimeout(() => {
+                    // Check if scrolling is needed
+                    const contentHeight = content.scrollHeight;
+                    const viewportHeight = window.innerHeight;
+                    
+                    if (contentHeight > viewportHeight) {
+                        // Content is taller than viewport, enable scrolling
+                        initAutoScroll();
+                    } else {
+                        // Content fits in viewport, don't enable scrolling
+                        if (window.scrollInterval) {
+                            clearInterval(window.scrollInterval);
+                        }
+                        if (startDelay) {
+                            clearTimeout(startDelay);
+                        }
+                        isScrolling = false;
+                        isPaused = false;
+                        updateScrollIcon();
+                    }
+                }, 100); // Small delay to ensure content is rendered
             })
             .catch(error => {
                 tabDisplay.textContent = "Error loading tab file.";
@@ -102,35 +186,99 @@ document.addEventListener("DOMContentLoaded", function () {
             });
     }
 
-    // Updated clearSearch function
     function clearSearch() {
-        document.getElementById('searchBar').value = ''; // Clear search box
-        searchData(); // Reset the band list to show all bands
+        document.getElementById('searchBar').value = '';
+        searchData();
     }
 
-    // Event listener for the search bar input
-    searchBar.addEventListener("input", searchData);
-    
-    // Event listener for the clear search button
-    document.getElementById('clearSearch').addEventListener("click", clearSearch);
+    function initAutoScroll(delay = 10000, scrollSpeed = 0.5) {
+        if (window.scrollInterval) {
+            clearInterval(window.scrollInterval);
+        }
+        if (startDelay) {
+            clearTimeout(startDelay);
+        }
 
-    searchData(); // Load all bands initially
+        window.scrollTo(0, 0);
+        isScrolling = true;
+        isPaused = false;
+        updateScrollIcon();
+
+        // Start the delay timer
+        startDelay = setTimeout(() => {
+            // Check again if scrolling is needed (content might have changed)
+            const contentHeight = content.scrollHeight;
+            const viewportHeight = window.innerHeight;
+            
+            if (contentHeight > viewportHeight) {
+                startScrolling(scrollSpeed);
+            } else {
+                isScrolling = false;
+                updateScrollIcon();
+            }
+        }, delay);
+    }
+
+    function startScrolling(scrollSpeed) {
+        const maxScroll = content.scrollHeight - window.innerHeight;
+        let currentPosition = window.pageYOffset || document.documentElement.scrollTop;
+
+        window.scrollInterval = setInterval(() => {
+            if (!isPaused) {
+                if (currentPosition >= maxScroll) {
+                    clearInterval(window.scrollInterval);
+                    isScrolling = false;
+                    updateScrollIcon();
+                    return;
+                }
+                
+                currentPosition += scrollSpeed;
+                window.scrollTo(0, currentPosition);
+            }
+        }, 50);
+    }
+
+    // Event listeners
+    searchBar.addEventListener("input", searchData);
+    document.getElementById('clearSearch').addEventListener("click", clearSearch);
+    
+    document.addEventListener('keydown', (e) => {
+        if (e.code === 'Space' && isScrolling) {
+            e.preventDefault();
+            isPaused = !isPaused;
+            updateScrollIcon();
+        }
+    });
+
+    document.addEventListener('wheel', () => {
+        if (window.scrollInterval) {
+            clearInterval(window.scrollInterval);
+            isScrolling = false;
+            updateScrollIcon();
+        }
+    });
+
+    document.addEventListener('touchstart', () => {
+        if (window.scrollInterval) {
+            clearInterval(window.scrollInterval);
+            isScrolling = false;
+            updateScrollIcon();
+        }
+    });
+
+    // Initialize
+    searchData();
 });
 
 // Store all songs when the page loads
 let allSongs = [];
 
-document.addEventListener("DOMContentLoaded", function () {
-    allSongs = Array.from(document.querySelectorAll(".song"));
-});
-
+// Random song functionality
 document.getElementById("randomSong").addEventListener("click", function () {
     if (allSongs.length === 0) return;
 
     const randomIndex = Math.floor(Math.random() * allSongs.length);
     const randomSong = allSongs[randomIndex];
 
-    // Simulate clicking the song to load its tab
     randomSong.click();
 });
-

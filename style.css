@@ -139,7 +139,21 @@ body {
     color: #555;
     margin-top: 3px;
     font-weight: normal;
-    display: block;
+    display: flex;  /* Changed from block to flex */
+    align-items: center;
+    gap: 5px;
+}
+
+.songScrollStatus {
+    font-size: 16px;
+    color: #007bff;
+    visibility: hidden;  /* Hidden by default */
+    margin: 3px 0 0 0;
+}
+
+/* Only show scroll status for active song */
+.song.active .songScrollStatus {
+    visibility: visible;
 }
 
 .song:hover {
@@ -171,4 +185,12 @@ body {
 
 #randomSong:hover {
     background: #0056b3;
+}
+
+#scrollStatus {
+    transition: color 0.3s ease;
+}
+
+#scrollStatus:hover {
+    color: #0056b3;
 }
