@@ -14,7 +14,7 @@ sed -i '.bak' 's/"url"/url/g' data.js
 sed -i '.bak' 's/"text"/text/g' data.js
 
 #reformat first line
-sed -i '.bak' 's/"bands": /var bands = /g' data.js
+sed -i '.bak' 's/"bands": /const data = /g' data.js
 
 #remove left bracket from first line
 sed -i '.bak' '1s/{//g' data.js
