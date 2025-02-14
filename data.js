@@ -1,5 +1,4 @@
-
-  var bands = [
+const data = [
     {
       text: "4 Non Blondes",
       id: "1",
