@@ -1,5 +1,4 @@
-
-  var bands = [
+const data = [
     {
       text: "4 Non Blondes",
       id: "1",
@@ -1532,11 +1531,6 @@
           text: "Going to California",
           id: "110_1",
           url: "tab/ledzeppelin/Led Zeppelin - Going to California.txt"
-        },
-        {
-          text: "Going to California (mandolin)",
-          id: "110_2",
-          url: "tab/ledzeppelin/ledzeppelin/led zeppelin - going to california (mandolin).txt"
         }
       ]
     },
@@ -3561,59 +3555,6 @@
           text: "What Light",
           id: "209_68",
           url: "tab/wilco/Wilco - What Light.txt"
-        },
-        {
-          text: "Wilco (The Song)",
-          id: "209_69",
-          url: "tab/wilco/wilco - Wilco the Song.txt"
-        },
-        {
-          text: "You Never Know",
-          id: "209_70",
-          url: "tab/wilco/wilco - you never know.txt"
-        }
-      ]
-    },
-    {
-      text: "Willie Nelson",
-      id: "210",
-      items: [
-        {
-          text: "Whiskey River",
-          id: "210_1",
-          url: "tab/willienelson/willie nelson - whiskey river.txt"
-        },
-        {
-          text: "Mammas, Don't Let Your Babies Grow Up to be Cowboys",
-          id: "210_2",
-          url: "tab/willienelson/willie nelson - mammas dont let your babies grow up to be cowboys.txt"
-        },
-        {
-          text: "My Heros have Always Been Cowboys",
-          id: "210_3",
-          url: "tab/willienelson/willie nelson - my heros have always been cowboys.txt"
-        }
-      ]
-    },
-    {
-      text: "The Wonders",
-      id: "211",
-      items: [
-        {
-          text: "That Thing You Do",
-          id: "211_1",
-          url: "tab/other/the wonders - that thing you do.txt"
-        }
-      ]
-    },
-    {
-      text: "World Party",
-      id: "212",
-      items: [
-        {
-          text: "Is it Like Today?",
-          id: "212_1",
-          url: "tab/other/world party - is it like today.txt"
         }
       ]
     }
