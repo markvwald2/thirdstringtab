@@ -1,4 +1,4 @@
-This tab is based on <a href="https://www.youtube.com/watch?v=fvbXkeyWRmI" target="_blank" style="color: blue">this YouTube video</a>
+This tab is based on: https://www.youtube.com/watch?v=fvbXkeyWRmI
 
 Tuning: CGCGCD
 

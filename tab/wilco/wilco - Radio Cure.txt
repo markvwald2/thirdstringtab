@@ -1,4 +1,4 @@
-This tab is based on <a href="https://www.youtube.com/watch?v=3aMdRFXZsqA" target="_blank" style="color: blue">this YouTube video</a>
+This tab is based on: https://www.youtube.com/watch?v=3aMdRFXZsqA
 
 The strumming pattern alternates between strumming the low strings
 with the thumb and picking the high strings with the index finger

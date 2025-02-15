@@ -1,4 +1,4 @@
-This tab is based on <a href="http://www.youtube.com/watch?v=UmKoNHnWeLY" target="_blank" style="color: blue">this YouTube video</a>
+This tab is based on: http://www.youtube.com/watch?v=UmKoNHnWeLY
 
 F#7no3/E 07x67x
 E7no3 05x45x
