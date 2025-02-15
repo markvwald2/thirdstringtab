@@ -7,11 +7,9 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<button id="randomSong">Random!</button>
 
     <!-- Sidebar -->
     <div id="sidebar">
-        
         <div id="searchContainer">
             <input type="text" id="searchBar" placeholder="Search bands or songs...">
             <button id="clearSearch" onclick="clearSearch()">&times;</button>
@@ -23,10 +21,16 @@
     <button id="toggleSidebar">|</button>
 
     <!-- Content Section -->
-    <div id="content">
-        <h2>Zero Bureau Tab</h2>
-        <pre id="tabDisplay">Select a song to view its tablature, dummy.</pre>
+<div id="content">
+    <div class="header-container">
+        <div class="title-section">
+            <h2>Zero Bureau Tab</h2>
+            <span id="headerScrollStatus" class="songScrollStatus"></span>
+        </div>
+        <button id="randomSong">Random!</button>
     </div>
+    <pre id="tabDisplay">Select a song to view its tablature, dummy.</pre>
+</div>
 
     <!-- Scripts -->
     <script src="data.js"></script>

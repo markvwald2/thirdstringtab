@@ -1,15 +1,16 @@
-// Global state for scroll status
+// Global state
 let isScrolling = false;
 let isPaused = false;
 let startDelay = null;
 let currentActiveSong = null;
+let allSongs = []; // Will store all songs
+let displayedSongs = []; // Will store currently displayed/filtered songs
 
 document.addEventListener("DOMContentLoaded", function () {
     const sidebar = document.getElementById('sidebar');
     const toggleSidebarButton = document.getElementById('toggleSidebar');
     const content = document.getElementById('content');
     
-    // Function to toggle the sidebar visibility
     toggleSidebarButton.addEventListener('click', function() {
         sidebar.classList.toggle('hidden');
         content.classList.toggle('expanded');
@@ -25,11 +26,24 @@ document.addEventListener("DOMContentLoaded", function () {
     const bandListDiv = document.getElementById("bandList");
     const tabDisplay = document.getElementById("tabDisplay");
 
-    // Function to update scroll status icon
+    // Function to initialize all songs
+    function initializeAllSongs() {
+        allSongs = [];
+        data.forEach(band => {
+            band.items.forEach(song => {
+                allSongs.push({
+                    bandName: band.text,
+                    songName: song.text,
+                    url: song.url
+                });
+            });
+        });
+    }
+
     function updateScrollIcon() {
         if (!currentActiveSong) return;
         
-        const scrollStatus = currentActiveSong.querySelector('.songScrollStatus');
+        const scrollStatus = document.getElementById('headerScrollStatus');
         if (!scrollStatus) return;
         
         if (!isScrolling) {
@@ -48,7 +62,6 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     }
 
-    // Function to set active song
     function setActiveSong(songElement) {
         if (currentActiveSong) {
             currentActiveSong.classList.remove('active');
@@ -57,10 +70,22 @@ document.addEventListener("DOMContentLoaded", function () {
         songElement.classList.add('active');
     }
 
+    function createSongDiv(bandName, song) {
+        const songDiv = document.createElement("div");
+        songDiv.className = 'song';
+        songDiv.textContent = song.text;
+        
+        songDiv.onclick = () => {
+            setActiveSong(songDiv);
+            displayTab(song.url, bandName, song.text);
+        };
+        return songDiv;
+    }
+
     function searchData() {
-        console.log("searchData triggered!");
         const query = searchBar.value.toLowerCase();
         bandListDiv.innerHTML = "";
+        displayedSongs = [];
 
         data.forEach((band) => {
             const bandNameMatches = band.text.toLowerCase().includes(query);
@@ -86,46 +111,16 @@ document.addEventListener("DOMContentLoaded", function () {
 
                 if (bandNameMatches) {
                     band.items.forEach((song) => {
-                        const songDiv = document.createElement("div");
-                        songDiv.className = 'song';
-                        
-                        const songText = document.createElement("span");
-                        songText.textContent = song.text;
-                        
-                        const scrollStatus = document.createElement("span");
-                        scrollStatus.className = 'songScrollStatus';
-                        scrollStatus.innerHTML = '⏸︎';
-                        
-                        songDiv.appendChild(songText);
-                        songDiv.appendChild(scrollStatus);
-                        
-                        songDiv.onclick = () => {
-                            setActiveSong(songDiv);
-                            displayTab(song.url, band.text, song.text);
-                        };
+                        const songDiv = createSongDiv(band.text, song);
                         songListDiv.appendChild(songDiv);
+                        displayedSongs.push(songDiv);
                     });
                 } else {
                     songListDiv.style.display = "block";
                     matchingSongs.forEach((song) => {
-                        const songDiv = document.createElement("div");
-                        songDiv.className = 'song';
-                        
-                        const songText = document.createElement("span");
-                        songText.textContent = song.text;
-                        
-                        const scrollStatus = document.createElement("span");
-                        scrollStatus.className = 'songScrollStatus';
-                        scrollStatus.innerHTML = '⏸︎';
-                        
-                        songDiv.appendChild(songText);
-                        songDiv.appendChild(scrollStatus);
-                        
-                        songDiv.onclick = () => {
-                            setActiveSong(songDiv);
-                            displayTab(song.url, band.text, song.text);
-                        };
+                        const songDiv = createSongDiv(band.text, song);
                         songListDiv.appendChild(songDiv);
+                        displayedSongs.push(songDiv);
                     });
                 }
 
@@ -141,13 +136,9 @@ document.addEventListener("DOMContentLoaded", function () {
                 bandListDiv.appendChild(songListDiv);
             }
         });
-        
-        // Update allSongs after rebuilding the list
-        allSongs = Array.from(document.querySelectorAll(".song"));
     }
 
     function displayTab(url, bandName, songName) {
-        console.log(`Fetching tab for: ${bandName} - ${songName}`);
         fetch(url)
             .then(response => {
                 if (!response.ok) throw new Error("Failed to load tab file.");
@@ -157,17 +148,13 @@ document.addEventListener("DOMContentLoaded", function () {
                 tabDisplay.textContent = text;
                 document.querySelector("h2").textContent = `${bandName} - ${songName}`;
                 
-                // Wait for the content to be rendered
                 setTimeout(() => {
-                    // Check if scrolling is needed
-                    const contentHeight = content.scrollHeight;
-                    const viewportHeight = window.innerHeight;
+                    const contentHeight = tabDisplay.scrollHeight;
+                    const viewportHeight = tabDisplay.clientHeight;
                     
                     if (contentHeight > viewportHeight) {
-                        // Content is taller than viewport, enable scrolling
                         initAutoScroll();
                     } else {
-                        // Content fits in viewport, don't enable scrolling
                         if (window.scrollInterval) {
                             clearInterval(window.scrollInterval);
                         }
@@ -178,7 +165,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         isPaused = false;
                         updateScrollIcon();
                     }
-                }, 100); // Small delay to ensure content is rendered
+                }, 100);
             })
             .catch(error => {
                 tabDisplay.textContent = "Error loading tab file.";
@@ -199,16 +186,14 @@ document.addEventListener("DOMContentLoaded", function () {
             clearTimeout(startDelay);
         }
 
-        window.scrollTo(0, 0);
+        tabDisplay.scrollTop = 0;
         isScrolling = true;
         isPaused = false;
         updateScrollIcon();
 
-        // Start the delay timer
         startDelay = setTimeout(() => {
-            // Check again if scrolling is needed (content might have changed)
-            const contentHeight = content.scrollHeight;
-            const viewportHeight = window.innerHeight;
+            const contentHeight = tabDisplay.scrollHeight;
+            const viewportHeight = tabDisplay.clientHeight;
             
             if (contentHeight > viewportHeight) {
                 startScrolling(scrollSpeed);
@@ -220,8 +205,8 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     function startScrolling(scrollSpeed) {
-        const maxScroll = content.scrollHeight - window.innerHeight;
-        let currentPosition = window.pageYOffset || document.documentElement.scrollTop;
+        const maxScroll = tabDisplay.scrollHeight - tabDisplay.clientHeight;
+        let currentPosition = tabDisplay.scrollTop;
 
         window.scrollInterval = setInterval(() => {
             if (!isPaused) {
@@ -233,7 +218,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 }
                 
                 currentPosition += scrollSpeed;
-                window.scrollTo(0, currentPosition);
+                tabDisplay.scrollTop = currentPosition;
             }
         }, 50);
     }
@@ -266,19 +251,15 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     });
 
+    // Random song handler
+    document.getElementById("randomSong").addEventListener("click", function () {
+        if (allSongs.length === 0) return;
+
+        const randomSong = allSongs[Math.floor(Math.random() * allSongs.length)];
+        displayTab(randomSong.url, randomSong.bandName, randomSong.songName);
+    });
+
     // Initialize
+    initializeAllSongs();
     searchData();
-});
-
-// Store all songs when the page loads
-let allSongs = [];
-
-// Random song functionality
-document.getElementById("randomSong").addEventListener("click", function () {
-    if (allSongs.length === 0) return;
-
-    const randomIndex = Math.floor(Math.random() * allSongs.length);
-    const randomSong = allSongs[randomIndex];
-
-    randomSong.click();
 });

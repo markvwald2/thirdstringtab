@@ -22,34 +22,32 @@ body {
     flex-direction: column;
 }
 
-/* Make search bar sticky */
 #searchContainer {
     position: sticky;
     top: 0;
-    background: #f9f9f9; /* Match sidebar color */
-    z-index: 15; /* Ensure it stays on top */
+    background: #f9f9f9;
+    z-index: 15;
     padding-bottom: 10px;
     border-bottom: 1px solid #ddd;
-    align-items: center;  /* Was incomplete before */
+    align-items: center;
+    display: flex;
 }
 
-/* Make band list scrollable */
 #bandList {
-    flex-grow: 1; /* Takes up remaining space */
+    flex-grow: 1;
     overflow-y: auto;
-    height: calc(100vh - 50px); /* Adjust to fit below the search bar */
+    height: calc(100vh - 50px);
 }
 
 #sidebar.hidden {
     transform: translateX(-270px);
 }
 
-/* Toggle Button */
 #toggleSidebar {
     position: absolute;
-    width: 10px; /* Set a fixed width */
-    height: 40px; /* Set a fixed height */
-    left: 270px; /* Align with the sidebar’s right edge */
+    width: 10px;
+    height: 40px;
+    left: 270px;
     top: 50%;
     transform: translateY(-50%);
     background: #f9f9f9;
@@ -63,33 +61,26 @@ body {
 }
 
 #sidebar.hidden + #toggleSidebar {
-    left: 0px; /* Button stays visible when sidebar is hidden */
+    left: 0px;
 }
 
-/* Content Section */
 #content {
     flex-grow: 1;
     padding: 0 20px;
     transition: margin-left 0.3s ease-in-out;
     width: 100%;
-    min-height: 100vh;  /* Added this */
-}
-
-/* When sidebar is hidden, expand the content */
-#content.expanded {
-    margin-left: 0px; /* Content expands when sidebar is hidden */
-}
-
-/* When sidebar is visible, push content to the right */
-#content:not(.expanded) {
-    margin-left: 270px; /* Content is pushed when sidebar is visible */
-}
-
-/* Search Bar Styling */
-#searchContainer {
+    min-height: 100vh;
     display: flex;
-    align-items: ;
-    position: relative;
+    flex-direction: column;
+    position: relative;  /* Add this */
+}
+
+#content.expanded {
+    margin-left: 0px;
+}
+
+#content:not(.expanded) {
+    margin-left: 270px;
 }
 
 #searchBar {
@@ -110,16 +101,14 @@ body {
     color: #888;
 }
 
-/* Band and Song List Styling */
 .band {
     cursor: pointer;
     font-size: 14px;
     display: flex;
-    align-items: ;
     gap: 5px;
     margin-top: 10px;
     font-weight: normal;
-    align-items: center;  /* Was incomplete before */
+    align-items: center;
 }
 
 .band .arrow {
@@ -139,41 +128,51 @@ body {
     color: #555;
     margin-top: 3px;
     font-weight: normal;
-    display: flex;  /* Changed from block to flex */
-    align-items: center;
-    gap: 5px;
-}
-
-.songScrollStatus {
-    font-size: 16px;
-    color: #007bff;
-    visibility: hidden;  /* Hidden by default */
-    margin: 3px 0 0 0;
-}
-
-/* Only show scroll status for active song */
-.song.active .songScrollStatus {
-    visibility: visible;
 }
 
 .song:hover {
     text-decoration: underline;
 }
 
-/* Tab Display */
+.header-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    position: sticky;
+    top: 0;
+    padding: 5px 0 0 5px;
+    z-index: 15;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.header-container h2 {
+    margin: 10px 0;  /* Reduced margin on the heading */
+}
+
+.title-section {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.header-container .songScrollStatus {
+    font-size: 20px;
+    visibility: hidden;
+    color: #007bff;
+}
+
 #tabDisplay {
     white-space: pre-wrap;
     background: #eee;
     padding: 15px;
     border-radius: 5px;
-    min-height: 80vh;
+    height: calc(100vh - 110px);  /* Reduced from 100px to 60px */
     overflow: auto;
+    margin-top: 5px;  /* Small margin to maintain some spacing */
 }
 
 #randomSong {
-    position: absolute;
-    top: 20px;
-    right: 20px;
     background: #007bff;
     color: white;
     border: none;
@@ -181,6 +180,9 @@ body {
     font-size: 14px;
     border-radius: 5px;
     cursor: pointer;
+    position: relative;
+    z-index: 16;
+    margin-right: 10px;  /* Add right margin instead of margin-left: auto */
 }
 
 #randomSong:hover {
