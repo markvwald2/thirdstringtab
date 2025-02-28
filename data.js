@@ -333,12 +333,12 @@
         {
           text: "Burnin' for You",
           id: "22_1",
-          url: "tab/other/Blue Oyster Cult - Burnin for You.txt"
+          url: "tab/blueoystercult/Blue Oyster Cult - Burnin for You.txt"
         },
         {
           text: "Don't Fear the Reaper",
           id: "22_2",
-          url: "tab/other/blue oyster cult - dont fear the reaper.txt"
+          url: "tab/blueoystercult/blue oyster cult - dont fear the reaper.txt"
         }
       ]
     },
