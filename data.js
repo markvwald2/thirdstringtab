@@ -96,7 +96,7 @@
       id: "7",
       items: [
         {
-          text: "other",
+          text: "Mess Me Around",
           id: "7_1",
           url: "tab/other/the babies - mess me around.txt"
         }
