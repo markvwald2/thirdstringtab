@@ -1,7 +1,7 @@
 // Global state
 let isScrolling = false;
 let isPaused = false;
-let startDelay = null;
+let startDelay = true;
 let currentActiveSong = null;
 let allSongs = []; // Will store all songs
 let displayedSongs = []; // Will store currently displayed/filtered songs
@@ -178,7 +178,7 @@ document.addEventListener("DOMContentLoaded", function () {
         searchData();
     }
 
-    function initAutoScroll(delay = 10000, scrollSpeed = 0.5) {
+    function initAutoScroll(delay = 20000, scrollSpeed = 0.4) {
         if (window.scrollInterval) {
             clearInterval(window.scrollInterval);
         }
