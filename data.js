@@ -3165,6 +3165,11 @@
           url: "tab/u2/u2 - desire.txt"
         },
         {
+          text: "Running to Stand Still",
+          id: "u2-running_to_stand_still",
+          url: "tab/u2/u2 - running to stand still.txt"
+        },
+        {
           text: "With or Without You",
           id: "u2-with_or_without_you",
           url: "tab/u2/u2 - with or without you.txt"
