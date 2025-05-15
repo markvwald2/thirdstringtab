@@ -3695,4 +3695,8 @@
         {
           text: "Whiskey River",
           id: "willie_nelson-whiskey_river",
+          url: "tab/other/willie nelson - whiskey river.txt"
+        }
+      ]
+    },
  ;
