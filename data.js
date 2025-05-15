@@ -3695,8 +3695,41 @@
         {
           text: "Whiskey River",
           id: "willie_nelson-whiskey_river",
-          url: "tab/other/willie nelson - whiskey river.txt"
+          url: "tab/willienelson/willie nelson - whiskey river.txt"
+        },
+        {
+          text: "Mammas, Don't Let Your Babies Grow Up to be Cowboys",
+          id: "willie_nelson-mammas_dont_let_your_babies_grow_up_to_be_cowboys",
+          url: "tab/willienelson/willie nelson - mammas dont let your babies grow up to be cowboys.txt"
+        },
+        {
+          text: "My Heros have Always Been Cowboys",
+          id: "willie_nelson-my_heros_have_always_been_cowboys",
+          url: "tab/willienelson/willie nelson - my heros have always been cowboys.txt"
         }
       ]
     },
- ;
+    {
+      text: "The Wonders",
+      id: "the_wonders",
+      items: [
+        {
+          text: "That Thing You Do",
+          id: "the_wonders-that_thing_you_do",
+          url: "tab/other/the wonders - that thing you do.txt"
+        }
+      ]
+    },
+    {
+      text: "World Party",
+      id: "world_party",
+      items: [
+        {
+          text: "Is it Like Today?",
+          id: "world_party-is_it_like_today",
+          url: "tab/other/world party - is it like today.txt"
+        }
+      ]
+    }
+  ]
+;
