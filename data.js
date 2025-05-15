@@ -1078,6 +1078,17 @@
       ]
     },
     {
+      text: "Frank Sinatra",
+      id: "frank_sinatra",
+      items: [
+        {
+          text: "Something Stupid",
+          id: "frank_sinatra-something_stupid",
+          url: "tab/other/frank sinatra - something stupid.txt"
+        }
+      ]
+    },
+    {
       text: "Franz Ferdinand",
       id: "franz_ferdinand",
       items: [
@@ -1327,6 +1338,17 @@
           text: "Never Been Any Reason",
           id: "head_east-never_been_any_reason",
           url: "tab/other/head east - never been any reason.txt"
+        }
+      ]
+    },
+    {
+      text: "High School Musical",
+      id: "high_school_musical",
+      items: [
+        {
+          text: "Start of Something New",
+          id: "high_school_musical-start_of_something_new",
+          url: "tab/other/high school musical - start of something new.txt"
         }
       ]
     },
@@ -2512,6 +2534,11 @@
           text: "I Want to Break Free",
           id: "queen-i_want_to_break_free",
           url: "tab/queen/queen - i want to break free.txt"
+        },
+        {
+          text: "Under Pressure",
+          id: "queen-under_pressure",
+          url: "tab/queen/queen - under pressure.txt"
         }
       ]
     },
@@ -3668,41 +3695,4 @@
         {
           text: "Whiskey River",
           id: "willie_nelson-whiskey_river",
-          url: "tab/willienelson/willie nelson - whiskey river.txt"
-        },
-        {
-          text: "Mammas, Don't Let Your Babies Grow Up to be Cowboys",
-          id: "willie_nelson-mammas_dont_let_your_babies_grow_up_to_be_cowboys",
-          url: "tab/willienelson/willie nelson - mammas dont let your babies grow up to be cowboys.txt"
-        },
-        {
-          text: "My Heros have Always Been Cowboys",
-          id: "willie_nelson-my_heros_have_always_been_cowboys",
-          url: "tab/willienelson/willie nelson - my heros have always been cowboys.txt"
-        }
-      ]
-    },
-    {
-      text: "The Wonders",
-      id: "the_wonders",
-      items: [
-        {
-          text: "That Thing You Do",
-          id: "the_wonders-that_thing_you_do",
-          url: "tab/other/the wonders - that thing you do.txt"
-        }
-      ]
-    },
-    {
-      text: "World Party",
-      id: "world_party",
-      items: [
-        {
-          text: "Is it Like Today?",
-          id: "world_party-is_it_like_today",
-          url: "tab/other/world party - is it like today.txt"
-        }
-      ]
-    }
-  ]
-;
+ ;
