@@ -218,6 +218,11 @@
           text: "Girl",
           id: "beck-girl",
           url: "tab/other/beck - girl.txt"
+        },
+        {
+          text: "Lost Cause",
+          id: "beck-lost_cause",
+          url: "tab/other/beck - lost cause.txt"
         }
       ]
     },
@@ -450,6 +455,17 @@
       ]
     },
     {
+      text: "Built to Spill",
+      id: "built_to_spill",
+      items: [
+        {
+          text: "Carry the Zero",
+          id: "built_to_spill-carry_the_zero",
+          url: "tab/other/built to spill - carry the zero.txt"
+        }
+      ]
+    },
+    {
       text: "Cake",
       id: "cake",
       items: [
@@ -568,6 +584,17 @@
           text: "Wires",
           id: "coconut_records-wires",
           url: "tab/other/Coconut Records - Wires.txt"
+        }
+      ]
+    },
+    {
+      text: "Cold War Kids",
+      id: "cold_war_kids",
+      items: [
+        {
+          text: "First",
+          id: "cold_war_kids-first",
+          url: "tab/other/cold war kids - first.txt"
         }
       ]
     },
@@ -804,6 +831,17 @@
       ]
     },
     {
+      text: "Destiny's Child",
+      id: "destinys_child",
+      items: [
+        {
+          text: "Say My Name",
+          id: "destinys_child-say_my_name",
+          url: "tab/other/destinys child - say my name.txt"
+        }
+      ]
+    },
+    {
       text: "Dido",
       id: "dido",
       items: [
@@ -942,6 +980,17 @@
           text: "Cowboy Bergaleoukaleopaleous",
           id: "eric_herman_and_the_invisible_band-cowboy_bergaleoukaleopaleous",
           url: "tab/other/eric herman and the invisible band - cowboy bergaleoukaleopaleous.txt"
+        }
+      ]
+    },
+    {
+      text: "Eve 6",
+      id: "eve_6",
+      items: [
+        {
+          text: "Inside Out",
+          id: "eve_6-inside_out",
+          url: "tab/other/eve 6 - inside out.txt"
         }
       ]
     },
@@ -1448,6 +1497,17 @@
       ]
     },
     {
+      text: "Incubus",
+      id: "incubus",
+      items: [
+        {
+          text: "Wish You Were Here",
+          id: "incubus-wish_you_were_here",
+          url: "tab/other/incubus - wish you were here.txt"
+        }
+      ]
+    },
+    {
       text: "Jackson Browne",
       id: "jackson_browne",
       items: [
@@ -1543,6 +1603,17 @@
           text: "Wildflower",
           id: "kasey_chambers_and_shane_nicholson-wildflower",
           url: "tab/other/kasey chambers and shane nicholson - wildflower.txt"
+        }
+      ]
+    },
+    {
+      text: "Kelly Clarkson",
+      id: "kelly_clarkson",
+      items: [
+        {
+          text: "Since U Been Gone",
+          id: "kelly_clarkson-since_u_been_gone",
+          url: "tab/other/kelly clarkson - since u been gone.txt"
         }
       ]
     },
@@ -1896,6 +1967,17 @@
           text: "Thrice All American",
           id: "neko_case-thrice_all_american",
           url: "tab/other/neko case - thrice all american.txt"
+        }
+      ]
+    },
+    {
+      text: "Neutral Milk Hotel",
+      id: "neutral_milk_hotel",
+      items: [
+        {
+          text: "Naomi",
+          id: "neutral_milk_hotel-naomi",
+          url: "tab/other/neutral milk hotel - naomi.txt"
         }
       ]
     },
@@ -2483,6 +2565,17 @@
       ]
     },
     {
+      text: "Plumtree",
+      id: "plumtree",
+      items: [
+        {
+          text: "Scott Pilgrim",
+          id: "plumtree-scott_pilgrim",
+          url: "tab/other/plumtree - scott pilgrim.txt"
+        }
+      ]
+    },
+    {
       text: "Poison",
       id: "poison",
       items: [
@@ -3027,6 +3120,17 @@
           text: "Plush",
           id: "stone_temple_pilots-plush",
           url: "tab/stonetemplepilots/stone temple pilots - plush.txt"
+        }
+      ]
+    },
+    {
+      text: "The Strokes",
+      id: "the_strokes",
+      items: [
+        {
+          text: "Hard to Explain",
+          id: "the_strokes-hard_to_explain",
+          url: "tab/other/the strokes - hard to explain.txt"
         }
       ]
     },
