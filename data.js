@@ -3262,6 +3262,16 @@
           text: "I Won't Back Down",
           id: "tom_petty-i_wont_back_down",
           url: "tab/tompetty/tom petty - i wont back down.txt"
+        },
+        {
+          text: "Wildflowers",
+          id: "tom_petty-wildflowers",
+          url: "tab/tompetty/tom petty - wildflowers.txt"
+        },
+        {
+          text: "You Wreck Me",
+          id: "tom_petty-you_wreck_me",
+          url: "tab/tompetty/tom petty - you wreck me.txt"
         }
       ]
     },
