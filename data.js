@@ -897,6 +897,17 @@
       ]
     },
     {
+      text: "Drive-by Truckers",
+      id: "driveby_truckers",
+      items: [
+        {
+          text: "Outfit",
+          id: "driveby_truckers-outfit",
+          url: "tab/other/drive by truckers - outfit.txt"
+        }
+      ]
+    },
+    {
       text: "Duran Duran",
       id: "duran_duran",
       items: [
@@ -2792,6 +2803,11 @@
           text: "To be Young (Is to be Sad, is to be High)",
           id: "ryan_adams-to_be_young_is_to_be_sad_is_to_be_high",
           url: "tab/ryanadams/Ryan Adams - To Be Young (Is to Be sad, Is to Be High).txt"
+        },
+        {
+          text: "Two",
+          id: "ryan_adams-two",
+          url: "tab/ryanadams/ryan adams - two.txt"
         },
         {
           text: "When Stars Go Blue",
