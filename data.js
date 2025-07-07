@@ -687,6 +687,17 @@
       ]
     },
     {
+      text: "The Cure",
+      id: "the_cure",
+      items: [
+        {
+          text: "Just Like Heaven",
+          id: "the_cure-just_like_heaven",
+          url: "tab/other/the cure - just like heaven.txt"
+        }
+      ]
+    },
+    {
       text: "Daft Punk",
       id: "daft_punk",
       items: [
@@ -1519,6 +1530,17 @@
       ]
     },
     {
+      text: "INXS",
+      id: "inxs",
+      items: [
+        {
+          text: "Don't Change",
+          id: "inxs-dont_change",
+          url: "tab/other/inxs - dont change.txt"
+        }
+      ]
+    },
+    {
       text: "Jackson Browne",
       id: "jackson_browne",
       items: [
@@ -1570,6 +1592,17 @@
           text: "Are You Gonna be my Girl?",
           id: "jet-are_you_gonna_be_my_girl",
           url: "tab/other/jet - are you gonna be my girl.txt"
+        }
+      ]
+    },
+    {
+      text: "Jimmy Eat World",
+      id: "jimmy_eat_world",
+      items: [
+        {
+          text: "A Praise Chorus",
+          id: "jimmy_eat_world-a_praise_chorus",
+          url: "tab/other/jimmy eat world - a praise chorus.txt"
         }
       ]
     },
@@ -1874,6 +1907,17 @@
           text: "Overkill",
           id: "men_at_work-overkill",
           url: "tab/other/men at work - overkill.txt"
+        }
+      ]
+    },
+    {
+      text: "Metric",
+      id: "metric",
+      items: [
+        {
+          text: "Help I'm Alive",
+          id: "metric-help_im_alive",
+          url: "tab/other/metric - help im alive.txt"
         }
       ]
     },
@@ -2729,6 +2773,17 @@
           text: "Can't Hardly Wait",
           id: "replacements-cant_hardly_wait",
           url: "tab/other/replacements - can't hardly wait.txt"
+        }
+      ]
+    },
+    {
+      text: "Rilo Kiley",
+      id: "rilo_kiley",
+      items: [
+        {
+          text: "Always",
+          id: "rilo_kiley-always",
+          url: "tab/other/rilo kiley - always.txt"
         }
       ]
     },
