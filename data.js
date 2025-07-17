@@ -1563,6 +1563,17 @@
       ]
     },
     {
+      text: "Jason Isbell and the 400 Unit",
+      id: "jason_isbell_and_the_400_unit",
+      items: [
+        {
+          text: "Tupelo",
+          id: "jason_isbell_and_the_400_unit-tupelo",
+          url: "tab/other/jason isbell and the 400 unit - tupelo.txt"
+        }
+      ]
+    },
+    {
       text: "Jeffrey Gaines",
       id: "jeffrey_gaines",
       items: [
