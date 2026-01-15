@@ -3738,4 +3738,203 @@
         },
         {
           text: "Monday",
-          id;
+            id: "wilco-monday",
+            url: "tab/wilco/wilco - monday.txt"
+          },
+          {
+            text: "Muzzle of Bees",
+            id: "wilco-muzzle_of_bees",
+            url: "tab/wilco/wilco - Muzzle of Bees.txt"
+          },
+          {
+            text: "My Darling",
+            id: "wilco-my_darling",
+            url: "tab/wilco/wilco - My Darling.txt"
+          },
+          {
+            text: "One Sunday Morning",
+            id: "wilco-one_sunday_morning",
+            url: "tab/wilco/wilco - One Sunday Morning.txt"
+          },
+          {
+            text: "One Wing",
+            id: "wilco-one_wing",
+            url: "tab/wilco/wilco - One Wing.txt"
+          },
+          {
+            text: "Open Mind",
+            id: "wilco-open_mind",
+            url: "tab/wilco/wilco - Open Mind.txt"
+          },
+          {
+            text: "Outta Mind (Outta Site)",
+            id: "wilco-outta_mind_outta_site",
+            url: "tab/wilco/wilco - Outta Mind (Outta Site).txt"
+          },
+          {
+            text: "Pieholden Suite",
+            id: "wilco-pieholden_suite",
+            url: "tab/wilco/wilco - Pieholden Suite.txt"
+          },
+          {
+            text: "Please Be Patient With Me",
+            id: "wilco-please_be_patient_with_me",
+            url: "tab/wilco/wilco - Please Be Patient With Me.txt"
+          },
+          {
+            text: "Poor Places",
+            id: "wilco-poor_places",
+            url: "tab/wilco/wilco - Poor Places.txt"
+          },
+          {
+            text: "Radio Cure",
+            id: "wilco-radio_cure",
+            url: "tab/wilco/wilco - Radio Cure.txt"
+          },
+          {
+            text: "Red-Eyed and Blue",
+            id: "wilco-redeyed_and_blue",
+            url: "tab/wilco/wilco - Red-Eyed and Blue.txt"
+          },
+          {
+            text: "Reservations",
+            id: "wilco-reservations",
+            url: "tab/wilco/wilco - Reservations.txt"
+          },
+          {
+            text: "Rising Red Lung",
+            id: "wilco-rising_red_lung",
+            url: "tab/wilco/wilco - Rising Red Lung.txt"
+          },
+          {
+            text: "Shake It Off",
+            id: "wilco-shake_it_off",
+            url: "tab/wilco/wilco - Shake it Off.txt"
+          },
+          {
+            text: "Should've Been in Love",
+            id: "wilco-shouldve_been_in_love",
+            url: "tab/wilco/wilco - Shouldve Been in Love.txt"
+          },
+          {
+            text: "Side With the Seeds",
+            id: "wilco-side_with_the_seeds",
+            url: "tab/wilco/wilco - Side with the Seeds.txt"
+          },
+          {
+            text: "Sonny Feeling",
+            id: "wilco-sonny_feeling",
+            url: "tab/wilco/wilco - Sonny Feeling.txt"
+          },
+          {
+            text: "Spiders Kidsmoke",
+            id: "wilco-spiders_kidsmoke",
+            url: "tab/wilco/wilco - spiders kidsmoke.txt"
+          },
+          {
+            text: "Standing O",
+            id: "wilco-standing_o",
+            url: "tab/wilco/wilco - Standing O.txt"
+          },
+          {
+            text: "Summerteeth",
+            id: "wilco-summerteeth",
+            url: "tab/wilco/wilco - Summerteeth.txt"
+          },
+          {
+            text: "Sunken Treasure",
+            id: "wilco-sunken_treasure",
+            url: "tab/wilco/wilco - Sunken Treasure.txt"
+          },
+          {
+            text: "The Thanks I Get",
+            id: "wilco-the_thanks_i_get",
+            url: "tab/wilco/wilco - the thanks i get.txt"
+          },
+          {
+            text: "Theologians",
+            id: "wilco-theologians",
+            url: "tab/wilco/wilco - theologians.txt"
+          },
+          {
+            text: "Too Far Apart",
+            id: "wilco-too_far_apart",
+            url: "tab/wilco/wilco - too far apart.txt"
+          },
+          {
+            text: "Via Chicago",
+            id: "wilco-via_chicago",
+            url: "tab/wilco/wilco - via chicago.txt"
+          },
+          {
+            text: "Walken",
+            id: "wilco-walken",
+            url: "tab/wilco/wilco - Walken.txt"
+          },
+          {
+            text: "War on War",
+            id: "wilco-war_on_war",
+            url: "tab/wilco/Wilco - War on War.txt"
+          },
+          {
+            text: "What Light",
+            id: "wilco-what_light",
+            url: "tab/wilco/Wilco - What Light.txt"
+          },
+          {
+            text: "Wilco (The Song)",
+            id: "wilco-wilco_the_song",
+            url: "tab/wilco/wilco - Wilco the Song.txt"
+          },
+          {
+            text: "You Never Know",
+            id: "wilco-you_never_know",
+            url: "tab/wilco/wilco - you never know.txt"
+          }
+        ]
+      },
+      {
+        text: "Willie Nelson",
+        id: "willie_nelson",
+        items: [
+          {
+            text: "Whiskey River",
+            id: "willie_nelson-whiskey_river",
+            url: "tab/willienelson/willie nelson - whiskey river.txt"
+          },
+          {
+            text: "Mammas, Don't Let Your Babies Grow Up to be Cowboys",
+            id: "willie_nelson-mammas_dont_let_your_babies_grow_up_to_be_cowboys",
+            url: "tab/willienelson/willie nelson - mammas dont let your babies grow up to be cowboys.txt"
+          },
+          {
+            text: "My Heros have Always Been Cowboys",
+            id: "willie_nelson-my_heros_have_always_been_cowboys",
+            url: "tab/willienelson/willie nelson - my heros have always been cowboys.txt"
+          }
+        ]
+      },
+      {
+        text: "The Wonders",
+        id: "the_wonders",
+        items: [
+          {
+            text: "That Thing You Do",
+            id: "the_wonders-that_thing_you_do",
+            url: "tab/other/the wonders - that thing you do.txt"
+          }
+        ]
+      },
+      {
+        text: "World Party",
+        id: "world_party",
+        items: [
+          {
+            text: "Is it Like Today?",
+            id: "world_party-is_it_like_today",
+            url: "tab/other/world party - is it like today.txt"
+          }
+        ]
+      }
+    ]
+  ;
