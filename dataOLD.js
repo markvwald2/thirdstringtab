@@ -218,6 +218,11 @@
           text: "Girl",
           id: "beck-girl",
           url: "tab/other/beck - girl.txt"
+        },
+        {
+          text: "Lost Cause",
+          id: "beck-lost_cause",
+          url: "tab/other/beck - lost cause.txt"
         }
       ]
     },
@@ -450,6 +455,17 @@
       ]
     },
     {
+      text: "Built to Spill",
+      id: "built_to_spill",
+      items: [
+        {
+          text: "Carry the Zero",
+          id: "built_to_spill-carry_the_zero",
+          url: "tab/other/built to spill - carry the zero.txt"
+        }
+      ]
+    },
+    {
       text: "Cake",
       id: "cake",
       items: [
@@ -572,6 +588,17 @@
       ]
     },
     {
+      text: "Cold War Kids",
+      id: "cold_war_kids",
+      items: [
+        {
+          text: "First",
+          id: "cold_war_kids-first",
+          url: "tab/other/cold war kids - first.txt"
+        }
+      ]
+    },
+    {
       text: "Collective Soul",
       id: "collective_soul",
       items: [
@@ -656,6 +683,17 @@
           text: "Don't Dream its Over",
           id: "crowded_house-dont_dream_its_over",
           url: "tab/other/crowded house - dont dream its over.txt"
+        }
+      ]
+    },
+    {
+      text: "The Cure",
+      id: "the_cure",
+      items: [
+        {
+          text: "Just Like Heaven",
+          id: "the_cure-just_like_heaven",
+          url: "tab/other/the cure - just like heaven.txt"
         }
       ]
     },
@@ -804,6 +842,17 @@
       ]
     },
     {
+      text: "Destiny's Child",
+      id: "destinys_child",
+      items: [
+        {
+          text: "Say My Name",
+          id: "destinys_child-say_my_name",
+          url: "tab/other/destinys child - say my name.txt"
+        }
+      ]
+    },
+    {
       text: "Dido",
       id: "dido",
       items: [
@@ -855,6 +904,17 @@
           text: "Listen to the Music",
           id: "doobie_brothers-listen_to_the_music",
           url: "tab/other/doobie brothers - listen to the music.txt"
+        }
+      ]
+    },
+    {
+      text: "Drive-by Truckers",
+      id: "driveby_truckers",
+      items: [
+        {
+          text: "Outfit",
+          id: "driveby_truckers-outfit",
+          url: "tab/other/drive by truckers - outfit.txt"
         }
       ]
     },
@@ -942,6 +1002,17 @@
           text: "Cowboy Bergaleoukaleopaleous",
           id: "eric_herman_and_the_invisible_band-cowboy_bergaleoukaleopaleous",
           url: "tab/other/eric herman and the invisible band - cowboy bergaleoukaleopaleous.txt"
+        }
+      ]
+    },
+    {
+      text: "Eve 6",
+      id: "eve_6",
+      items: [
+        {
+          text: "Inside Out",
+          id: "eve_6-inside_out",
+          url: "tab/other/eve 6 - inside out.txt"
         }
       ]
     },
@@ -1074,6 +1145,17 @@
           text: "Lepineuse",
           id: "francois_couperin-lepineuse",
           url: "tab/other/francois couperin - lepineuse.txt"
+        }
+      ]
+    },
+    {
+      text: "Frank Sinatra",
+      id: "frank_sinatra",
+      items: [
+        {
+          text: "Something Stupid",
+          id: "frank_sinatra-something_stupid",
+          url: "tab/other/frank sinatra - something stupid.txt"
         }
       ]
     },
@@ -1331,6 +1413,17 @@
       ]
     },
     {
+      text: "High School Musical",
+      id: "high_school_musical",
+      items: [
+        {
+          text: "Start of Something New",
+          id: "high_school_musical-start_of_something_new",
+          url: "tab/other/high school musical - start of something new.txt"
+        }
+      ]
+    },
+    {
       text: "Hold Steady",
       id: "hold_steady",
       items: [
@@ -1426,6 +1519,28 @@
       ]
     },
     {
+      text: "Incubus",
+      id: "incubus",
+      items: [
+        {
+          text: "Wish You Were Here",
+          id: "incubus-wish_you_were_here",
+          url: "tab/other/incubus - wish you were here.txt"
+        }
+      ]
+    },
+    {
+      text: "INXS",
+      id: "inxs",
+      items: [
+        {
+          text: "Don't Change",
+          id: "inxs-dont_change",
+          url: "tab/other/inxs - dont change.txt"
+        }
+      ]
+    },
+    {
       text: "Jackson Browne",
       id: "jackson_browne",
       items: [
@@ -1444,6 +1559,17 @@
           text: "Jane Says",
           id: "janes_addiction-jane_says",
           url: "tab/other/janes addiction - jane says.txt"
+        }
+      ]
+    },
+    {
+      text: "Jason Isbell and the 400 Unit",
+      id: "jason_isbell_and_the_400_unit",
+      items: [
+        {
+          text: "Tupelo",
+          id: "jason_isbell_and_the_400_unit-tupelo",
+          url: "tab/other/jason isbell and the 400 unit - tupelo.txt"
         }
       ]
     },
@@ -1477,6 +1603,17 @@
           text: "Are You Gonna be my Girl?",
           id: "jet-are_you_gonna_be_my_girl",
           url: "tab/other/jet - are you gonna be my girl.txt"
+        }
+      ]
+    },
+    {
+      text: "Jimmy Eat World",
+      id: "jimmy_eat_world",
+      items: [
+        {
+          text: "A Praise Chorus",
+          id: "jimmy_eat_world-a_praise_chorus",
+          url: "tab/other/jimmy eat world - a praise chorus.txt"
         }
       ]
     },
@@ -1521,6 +1658,17 @@
           text: "Wildflower",
           id: "kasey_chambers_and_shane_nicholson-wildflower",
           url: "tab/other/kasey chambers and shane nicholson - wildflower.txt"
+        }
+      ]
+    },
+    {
+      text: "Kelly Clarkson",
+      id: "kelly_clarkson",
+      items: [
+        {
+          text: "Since U Been Gone",
+          id: "kelly_clarkson-since_u_been_gone",
+          url: "tab/other/kelly clarkson - since u been gone.txt"
         }
       ]
     },
@@ -1774,6 +1922,17 @@
       ]
     },
     {
+      text: "Metric",
+      id: "metric",
+      items: [
+        {
+          text: "Help I'm Alive",
+          id: "metric-help_im_alive",
+          url: "tab/other/metric - help im alive.txt"
+        }
+      ]
+    },
+    {
       text: "Michael Bolton",
       id: "michael_bolton",
       items: [
@@ -1878,6 +2037,17 @@
       ]
     },
     {
+      text: "Neutral Milk Hotel",
+      id: "neutral_milk_hotel",
+      items: [
+        {
+          text: "Naomi",
+          id: "neutral_milk_hotel-naomi",
+          url: "tab/other/neutral milk hotel - naomi.txt"
+        }
+      ]
+    },
+    {
       text: "New Pornographers",
       id: "new_pornographers",
       items: [
@@ -1928,6 +2098,9 @@
           text: "Here It Goes Again",
           id: "ok_go-here_it_goes_again",
           url: "tab/other/ok go - here it goes again.txt"
+        },
+        {
+          text: "Needing/Getting"
         }
       ]
     },
@@ -2461,6 +2634,17 @@
       ]
     },
     {
+      text: "Plumtree",
+      id: "plumtree",
+      items: [
+        {
+          text: "Scott Pilgrim",
+          id: "plumtree-scott_pilgrim",
+          url: "tab/other/plumtree - scott pilgrim.txt"
+        }
+      ]
+    },
+    {
       text: "Poison",
       id: "poison",
       items: [
@@ -2512,6 +2696,11 @@
           text: "I Want to Break Free",
           id: "queen-i_want_to_break_free",
           url: "tab/queen/queen - i want to break free.txt"
+        },
+        {
+          text: "Under Pressure",
+          id: "queen-under_pressure",
+          url: "tab/queen/queen - under pressure.txt"
         }
       ]
     },
@@ -2598,6 +2787,20 @@
           text: "Can't Hardly Wait",
           id: "replacements-cant_hardly_wait",
           url: "tab/other/replacements - can't hardly wait.txt"
+        },
+        {
+          text: "Alex Chilton"
+        }
+      ]
+    },
+    {
+      text: "Rilo Kiley",
+      id: "rilo_kiley",
+      items: [
+        {
+          text: "Always",
+          id: "rilo_kiley-always",
+          url: "tab/other/rilo kiley - always.txt"
         }
       ]
     },
@@ -2672,6 +2875,11 @@
           text: "To be Young (Is to be Sad, is to be High)",
           id: "ryan_adams-to_be_young_is_to_be_sad_is_to_be_high",
           url: "tab/ryanadams/Ryan Adams - To Be Young (Is to Be sad, Is to Be High).txt"
+        },
+        {
+          text: "Two",
+          id: "ryan_adams-two",
+          url: "tab/ryanadams/ryan adams - two.txt"
         },
         {
           text: "When Stars Go Blue",
@@ -3004,6 +3212,17 @@
       ]
     },
     {
+      text: "The Strokes",
+      id: "the_strokes",
+      items: [
+        {
+          text: "Hard to Explain",
+          id: "the_strokes-hard_to_explain",
+          url: "tab/other/the strokes - hard to explain.txt"
+        }
+      ]
+    },
+    {
       text: "Strumbellas",
       id: "strumbellas",
       items: [
@@ -3093,6 +3312,9 @@
           text: "The Boys are Back in Town (acoustic)",
           id: "thin_lizzy-the_boys_are_back_in_town_acoustic",
           url: "tab/other/thin lizzy - the boys are back in town acoustic.txt"
+        },
+        {
+          text: "The Boys Are Back in Town"
         }
       ]
     },
@@ -3131,6 +3353,16 @@
           text: "I Won't Back Down",
           id: "tom_petty-i_wont_back_down",
           url: "tab/tompetty/tom petty - i wont back down.txt"
+        },
+        {
+          text: "Wildflowers",
+          id: "tom_petty-wildflowers",
+          url: "tab/tompetty/tom petty - wildflowers.txt"
+        },
+        {
+          text: "You Wreck Me",
+          id: "tom_petty-you_wreck_me",
+          url: "tab/tompetty/tom petty - you wreck me.txt"
         }
       ]
     },
@@ -3163,6 +3395,11 @@
           text: "Desire",
           id: "u2-desire",
           url: "tab/u2/u2 - desire.txt"
+        },
+        {
+          text: "Running to Stand Still",
+          id: "u2-running_to_stand_still",
+          url: "tab/u2/u2 - running to stand still.txt"
         },
         {
           text: "With or Without You",
@@ -3501,203 +3738,203 @@
         },
         {
           text: "Monday",
-          id: "wilco-monday",
-          url: "tab/wilco/wilco - monday.txt"
-        },
-        {
-          text: "Muzzle of Bees",
-          id: "wilco-muzzle_of_bees",
-          url: "tab/wilco/wilco - Muzzle of Bees.txt"
-        },
-        {
-          text: "My Darling",
-          id: "wilco-my_darling",
-          url: "tab/wilco/wilco - My Darling.txt"
-        },
-        {
-          text: "One Sunday Morning",
-          id: "wilco-one_sunday_morning",
-          url: "tab/wilco/wilco - One Sunday Morning.txt"
-        },
-        {
-          text: "One Wing",
-          id: "wilco-one_wing",
-          url: "tab/wilco/wilco - One Wing.txt"
-        },
-        {
-          text: "Open Mind",
-          id: "wilco-open_mind",
-          url: "tab/wilco/wilco - Open Mind.txt"
-        },
-        {
-          text: "Outta Mind (Outta Site)",
-          id: "wilco-outta_mind_outta_site",
-          url: "tab/wilco/wilco - Outta Mind (Outta Site).txt"
-        },
-        {
-          text: "Pieholden Suite",
-          id: "wilco-pieholden_suite",
-          url: "tab/wilco/wilco - Pieholden Suite.txt"
-        },
-        {
-          text: "Please Be Patient With Me",
-          id: "wilco-please_be_patient_with_me",
-          url: "tab/wilco/wilco - Please Be Patient With Me.txt"
-        },
-        {
-          text: "Poor Places",
-          id: "wilco-poor_places",
-          url: "tab/wilco/wilco - Poor Places.txt"
-        },
-        {
-          text: "Radio Cure",
-          id: "wilco-radio_cure",
-          url: "tab/wilco/wilco - Radio Cure.txt"
-        },
-        {
-          text: "Red-Eyed and Blue",
-          id: "wilco-redeyed_and_blue",
-          url: "tab/wilco/wilco - Red-Eyed and Blue.txt"
-        },
-        {
-          text: "Reservations",
-          id: "wilco-reservations",
-          url: "tab/wilco/wilco - Reservations.txt"
-        },
-        {
-          text: "Rising Red Lung",
-          id: "wilco-rising_red_lung",
-          url: "tab/wilco/wilco - Rising Red Lung.txt"
-        },
-        {
-          text: "Shake It Off",
-          id: "wilco-shake_it_off",
-          url: "tab/wilco/wilco - Shake it Off.txt"
-        },
-        {
-          text: "Should've Been in Love",
-          id: "wilco-shouldve_been_in_love",
-          url: "tab/wilco/wilco - Shouldve Been in Love.txt"
-        },
-        {
-          text: "Side With the Seeds",
-          id: "wilco-side_with_the_seeds",
-          url: "tab/wilco/wilco - Side with the Seeds.txt"
-        },
-        {
-          text: "Sonny Feeling",
-          id: "wilco-sonny_feeling",
-          url: "tab/wilco/wilco - Sonny Feeling.txt"
-        },
-        {
-          text: "Spiders Kidsmoke",
-          id: "wilco-spiders_kidsmoke",
-          url: "tab/wilco/wilco - spiders kidsmoke.txt"
-        },
-        {
-          text: "Standing O",
-          id: "wilco-standing_o",
-          url: "tab/wilco/wilco - Standing O.txt"
-        },
-        {
-          text: "Summerteeth",
-          id: "wilco-summerteeth",
-          url: "tab/wilco/wilco - Summerteeth.txt"
-        },
-        {
-          text: "Sunken Treasure",
-          id: "wilco-sunken_treasure",
-          url: "tab/wilco/wilco - Sunken Treasure.txt"
-        },
-        {
-          text: "The Thanks I Get",
-          id: "wilco-the_thanks_i_get",
-          url: "tab/wilco/wilco - the thanks i get.txt"
-        },
-        {
-          text: "Theologians",
-          id: "wilco-theologians",
-          url: "tab/wilco/wilco - theologians.txt"
-        },
-        {
-          text: "Too Far Apart",
-          id: "wilco-too_far_apart",
-          url: "tab/wilco/wilco - too far apart.txt"
-        },
-        {
-          text: "Via Chicago",
-          id: "wilco-via_chicago",
-          url: "tab/wilco/wilco - via chicago.txt"
-        },
-        {
-          text: "Walken",
-          id: "wilco-walken",
-          url: "tab/wilco/wilco - Walken.txt"
-        },
-        {
-          text: "War on War",
-          id: "wilco-war_on_war",
-          url: "tab/wilco/Wilco - War on War.txt"
-        },
-        {
-          text: "What Light",
-          id: "wilco-what_light",
-          url: "tab/wilco/Wilco - What Light.txt"
-        },
-        {
-          text: "Wilco (The Song)",
-          id: "wilco-wilco_the_song",
-          url: "tab/wilco/wilco - Wilco the Song.txt"
-        },
-        {
-          text: "You Never Know",
-          id: "wilco-you_never_know",
-          url: "tab/wilco/wilco - you never know.txt"
-        }
-      ]
-    },
-    {
-      text: "Willie Nelson",
-      id: "willie_nelson",
-      items: [
-        {
-          text: "Whiskey River",
-          id: "willie_nelson-whiskey_river",
-          url: "tab/willienelson/willie nelson - whiskey river.txt"
-        },
-        {
-          text: "Mammas, Don't Let Your Babies Grow Up to be Cowboys",
-          id: "willie_nelson-mammas_dont_let_your_babies_grow_up_to_be_cowboys",
-          url: "tab/willienelson/willie nelson - mammas dont let your babies grow up to be cowboys.txt"
-        },
-        {
-          text: "My Heros have Always Been Cowboys",
-          id: "willie_nelson-my_heros_have_always_been_cowboys",
-          url: "tab/willienelson/willie nelson - my heros have always been cowboys.txt"
-        }
-      ]
-    },
-    {
-      text: "The Wonders",
-      id: "the_wonders",
-      items: [
-        {
-          text: "That Thing You Do",
-          id: "the_wonders-that_thing_you_do",
-          url: "tab/other/the wonders - that thing you do.txt"
-        }
-      ]
-    },
-    {
-      text: "World Party",
-      id: "world_party",
-      items: [
-        {
-          text: "Is it Like Today?",
-          id: "world_party-is_it_like_today",
-          url: "tab/other/world party - is it like today.txt"
-        }
-      ]
-    }
-  ]
-;
+            id: "wilco-monday",
+            url: "tab/wilco/wilco - monday.txt"
+          },
+          {
+            text: "Muzzle of Bees",
+            id: "wilco-muzzle_of_bees",
+            url: "tab/wilco/wilco - Muzzle of Bees.txt"
+          },
+          {
+            text: "My Darling",
+            id: "wilco-my_darling",
+            url: "tab/wilco/wilco - My Darling.txt"
+          },
+          {
+            text: "One Sunday Morning",
+            id: "wilco-one_sunday_morning",
+            url: "tab/wilco/wilco - One Sunday Morning.txt"
+          },
+          {
+            text: "One Wing",
+            id: "wilco-one_wing",
+            url: "tab/wilco/wilco - One Wing.txt"
+          },
+          {
+            text: "Open Mind",
+            id: "wilco-open_mind",
+            url: "tab/wilco/wilco - Open Mind.txt"
+          },
+          {
+            text: "Outta Mind (Outta Site)",
+            id: "wilco-outta_mind_outta_site",
+            url: "tab/wilco/wilco - Outta Mind (Outta Site).txt"
+          },
+          {
+            text: "Pieholden Suite",
+            id: "wilco-pieholden_suite",
+            url: "tab/wilco/wilco - Pieholden Suite.txt"
+          },
+          {
+            text: "Please Be Patient With Me",
+            id: "wilco-please_be_patient_with_me",
+            url: "tab/wilco/wilco - Please Be Patient With Me.txt"
+          },
+          {
+            text: "Poor Places",
+            id: "wilco-poor_places",
+            url: "tab/wilco/wilco - Poor Places.txt"
+          },
+          {
+            text: "Radio Cure",
+            id: "wilco-radio_cure",
+            url: "tab/wilco/wilco - Radio Cure.txt"
+          },
+          {
+            text: "Red-Eyed and Blue",
+            id: "wilco-redeyed_and_blue",
+            url: "tab/wilco/wilco - Red-Eyed and Blue.txt"
+          },
+          {
+            text: "Reservations",
+            id: "wilco-reservations",
+            url: "tab/wilco/wilco - Reservations.txt"
+          },
+          {
+            text: "Rising Red Lung",
+            id: "wilco-rising_red_lung",
+            url: "tab/wilco/wilco - Rising Red Lung.txt"
+          },
+          {
+            text: "Shake It Off",
+            id: "wilco-shake_it_off",
+            url: "tab/wilco/wilco - Shake it Off.txt"
+          },
+          {
+            text: "Should've Been in Love",
+            id: "wilco-shouldve_been_in_love",
+            url: "tab/wilco/wilco - Shouldve Been in Love.txt"
+          },
+          {
+            text: "Side With the Seeds",
+            id: "wilco-side_with_the_seeds",
+            url: "tab/wilco/wilco - Side with the Seeds.txt"
+          },
+          {
+            text: "Sonny Feeling",
+            id: "wilco-sonny_feeling",
+            url: "tab/wilco/wilco - Sonny Feeling.txt"
+          },
+          {
+            text: "Spiders Kidsmoke",
+            id: "wilco-spiders_kidsmoke",
+            url: "tab/wilco/wilco - spiders kidsmoke.txt"
+          },
+          {
+            text: "Standing O",
+            id: "wilco-standing_o",
+            url: "tab/wilco/wilco - Standing O.txt"
+          },
+          {
+            text: "Summerteeth",
+            id: "wilco-summerteeth",
+            url: "tab/wilco/wilco - Summerteeth.txt"
+          },
+          {
+            text: "Sunken Treasure",
+            id: "wilco-sunken_treasure",
+            url: "tab/wilco/wilco - Sunken Treasure.txt"
+          },
+          {
+            text: "The Thanks I Get",
+            id: "wilco-the_thanks_i_get",
+            url: "tab/wilco/wilco - the thanks i get.txt"
+          },
+          {
+            text: "Theologians",
+            id: "wilco-theologians",
+            url: "tab/wilco/wilco - theologians.txt"
+          },
+          {
+            text: "Too Far Apart",
+            id: "wilco-too_far_apart",
+            url: "tab/wilco/wilco - too far apart.txt"
+          },
+          {
+            text: "Via Chicago",
+            id: "wilco-via_chicago",
+            url: "tab/wilco/wilco - via chicago.txt"
+          },
+          {
+            text: "Walken",
+            id: "wilco-walken",
+            url: "tab/wilco/wilco - Walken.txt"
+          },
+          {
+            text: "War on War",
+            id: "wilco-war_on_war",
+            url: "tab/wilco/Wilco - War on War.txt"
+          },
+          {
+            text: "What Light",
+            id: "wilco-what_light",
+            url: "tab/wilco/Wilco - What Light.txt"
+          },
+          {
+            text: "Wilco (The Song)",
+            id: "wilco-wilco_the_song",
+            url: "tab/wilco/wilco - Wilco the Song.txt"
+          },
+          {
+            text: "You Never Know",
+            id: "wilco-you_never_know",
+            url: "tab/wilco/wilco - you never know.txt"
+          }
+        ]
+      },
+      {
+        text: "Willie Nelson",
+        id: "willie_nelson",
+        items: [
+          {
+            text: "Whiskey River",
+            id: "willie_nelson-whiskey_river",
+            url: "tab/willienelson/willie nelson - whiskey river.txt"
+          },
+          {
+            text: "Mammas, Don't Let Your Babies Grow Up to be Cowboys",
+            id: "willie_nelson-mammas_dont_let_your_babies_grow_up_to_be_cowboys",
+            url: "tab/willienelson/willie nelson - mammas dont let your babies grow up to be cowboys.txt"
+          },
+          {
+            text: "My Heros have Always Been Cowboys",
+            id: "willie_nelson-my_heros_have_always_been_cowboys",
+            url: "tab/willienelson/willie nelson - my heros have always been cowboys.txt"
+          }
+        ]
+      },
+      {
+        text: "The Wonders",
+        id: "the_wonders",
+        items: [
+          {
+            text: "That Thing You Do",
+            id: "the_wonders-that_thing_you_do",
+            url: "tab/other/the wonders - that thing you do.txt"
+          }
+        ]
+      },
+      {
+        text: "World Party",
+        id: "world_party",
+        items: [
+          {
+            text: "Is it Like Today?",
+            id: "world_party-is_it_like_today",
+            url: "tab/other/world party - is it like today.txt"
+          }
+        ]
+      }
+    ]
+  ;
