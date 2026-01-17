@@ -3271,7 +3271,7 @@
         {
           text: "She Sells Sanctuary",
           id: "the_cult-she_sells_sanctuary",
-          url: "tab/other/cult - she sells sanctuary.txt"
+          url: "tab/other/the cult - she sells sanctuary.txt"
         }
       ]
     },
@@ -3348,7 +3348,7 @@
         {
           text: "This Charming Man",
           id: "the_smiths-this_charming_man",
-          url: "tab/other/smiths - this charming man.txt"
+          url: "tab/other/the smiths - this charming man.txt"
         }
       ]
     },
