@@ -2380,6 +2380,17 @@
       ]
     },
     {
+      text: "Pat Benetar",
+      id: "pat_benetar",
+      items: [
+        {
+          text: "We Belong",
+          id: "pat_benetar-we_belong",
+          url: "tab/other/pat benetar - we belong.txt"
+        }
+      ]
+    },
+    {
       text: "Patrick Swayze",
       id: "patrick_swayze",
       items: [
