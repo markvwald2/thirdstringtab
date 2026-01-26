@@ -2783,7 +2783,12 @@
         {
           text: "The Look",
           id: "roxette-the_look",
-          url: "tab/other/roxette - the look.txt"
+          url: "tab/roxette/roxette - the look.txt"
+        },
+        {
+          text: "It Must Have Been Love",
+          id: "roxette-it_must_have_been_love",
+          url: "tab/roxette/roxette - it must have been love.txt"
         }
       ]
     },
