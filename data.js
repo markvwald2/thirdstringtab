@@ -1044,20 +1044,22 @@
         }
       ]
     },
+{
+  text: "Foo Fighters",
+  id: "foo_fighters",
+  items: [
     {
-      text: "Foo Fighters",
-      id: "foo_fighters",
-      items: [
-        {
-          text: "Everlong",
-          id: "foo_fighters-everlong",
-          url: "tab/other/foo fighters - everlong.txt"
-        },
-        {
-          text: "Times Like These"
-        }
-      ]
+      text: "Everlong",
+      id: "foo_fighters-everlong",
+      url: "tab/other/foo fighters - everlong.txt"
     },
+    {
+      text: "Times Like These",
+      id: "foo_fighters-times_like_these",
+      url: "tab/other/times like these - foo fighters.txt"
+    }
+  ]
+},
     {
       text: "Foreigner",
       id: "foreigner",
@@ -4139,10 +4141,6 @@
           text: "Thank You My Twilight",
           id: "the_pillows-thank_you_my_twilight",
           url: "tab/other/thank you my twilight - the pillows.txt"
-        },
-        {
-          id: "foo_fighters-times_like_these",
-          url: "tab/other/times like these - foo fighters.txt"
         }
       ]
     },
