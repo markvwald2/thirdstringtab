@@ -103,17 +103,6 @@
       ]
     },
     {
-      text: "The Babies",
-      id: "the_babies",
-      items: [
-        {
-          text: "Mess Me Around",
-          id: "the_babies-mess_me_around",
-          url: "tab/other/the babies - mess me around.txt"
-        }
-      ]
-    },
-    {
       text: "Backstreet Boys",
       id: "backstreet_boys",
       items: [
@@ -218,6 +207,11 @@
           text: "Girl",
           id: "beck-girl",
           url: "tab/other/beck - girl.txt"
+        },
+        {
+          text: "Lost Cause",
+          id: "beck-lost_cause",
+          url: "tab/other/beck - lost cause.txt"
         }
       ]
     },
@@ -450,6 +444,17 @@
       ]
     },
     {
+      text: "Built to Spill",
+      id: "built_to_spill",
+      items: [
+        {
+          text: "Carry the Zero",
+          id: "built_to_spill-carry_the_zero",
+          url: "tab/other/built to spill - carry the zero.txt"
+        }
+      ]
+    },
+    {
       text: "Cake",
       id: "cake",
       items: [
@@ -492,27 +497,6 @@
           text: "Walk on By",
           id: "cake-walk_on_by",
           url: "tab/cake/cake - walk on by.txt"
-        }
-      ]
-    },
-    {
-      text: "The Cars",
-      id: "the_cars",
-      items: [
-        {
-          text: "Just What I Needed",
-          id: "the_cars-just_what_i_needed",
-          url: "tab/cars/cars - just what i needed.txt"
-        },
-        {
-          text: "Magic",
-          id: "the_cars-magic",
-          url: "tab/cars/cars - magic.txt"
-        },
-        {
-          text: "You Might Think",
-          id: "the_cars-you_might_think",
-          url: "tab/cars/cars - you might think.txt"
         }
       ]
     },
@@ -568,6 +552,17 @@
           text: "Wires",
           id: "coconut_records-wires",
           url: "tab/other/Coconut Records - Wires.txt"
+        }
+      ]
+    },
+    {
+      text: "Cold War Kids",
+      id: "cold_war_kids",
+      items: [
+        {
+          text: "First",
+          id: "cold_war_kids-first",
+          url: "tab/other/cold war kids - first.txt"
         }
       ]
     },
@@ -804,6 +799,17 @@
       ]
     },
     {
+      text: "Destiny's Child",
+      id: "destinys_child",
+      items: [
+        {
+          text: "Say My Name",
+          id: "destinys_child-say_my_name",
+          url: "tab/other/destinys child - say my name.txt"
+        }
+      ]
+    },
+    {
       text: "Dido",
       id: "dido",
       items: [
@@ -855,6 +861,17 @@
           text: "Listen to the Music",
           id: "doobie_brothers-listen_to_the_music",
           url: "tab/other/doobie brothers - listen to the music.txt"
+        }
+      ]
+    },
+    {
+      text: "Drive-by Truckers",
+      id: "driveby_truckers",
+      items: [
+        {
+          text: "Outfit",
+          id: "driveby_truckers-outfit",
+          url: "tab/other/drive by truckers - outfit.txt"
         }
       ]
     },
@@ -946,6 +963,17 @@
       ]
     },
     {
+      text: "Eve 6",
+      id: "eve_6",
+      items: [
+        {
+          text: "Inside Out",
+          id: "eve_6-inside_out",
+          url: "tab/other/eve 6 - inside out.txt"
+        }
+      ]
+    },
+    {
       text: "Everclear",
       id: "everclear",
       items: [
@@ -953,17 +981,6 @@
           text: "Santa Monica",
           id: "everclear-santa_monica",
           url: "tab/other/Everclear - Santa Monica.txt"
-        }
-      ]
-    },
-    {
-      text: "The Faces",
-      id: "the_faces",
-      items: [
-        {
-          text: "Ooh La La",
-          id: "the_faces-ooh_la_la",
-          url: "tab/other/the faces - ooh la la.txt"
         }
       ]
     },
@@ -1001,6 +1018,17 @@
       ]
     },
     {
+      text: "Fleet Foxes",
+      id: "fleet_foxes",
+      items: [
+        {
+          text: "White Winter Hymnal",
+          id: "fleet_foxes-white_winter_hymnal",
+          url: "tab/other/fleet foxes - white winter hymnal.txt"
+        }
+      ]
+    },
+    {
       text: "Fleetwood Mac",
       id: "fleetwood_mac",
       items: [
@@ -1008,17 +1036,6 @@
           text: "Go Your own Way",
           id: "fleetwood_mac-go_your_own_way",
           url: "tab/other/fleetwood mac - go your own way.txt"
-        }
-      ]
-    },
-    {
-      text: "The Fold",
-      id: "the_fold",
-      items: [
-        {
-          text: "Weekend Whip",
-          id: "the_fold-weekend_whip",
-          url: "tab/other/the fold - weekend whip.txt"
         }
       ]
     },
@@ -1074,6 +1091,17 @@
           text: "Lepineuse",
           id: "francois_couperin-lepineuse",
           url: "tab/other/francois couperin - lepineuse.txt"
+        }
+      ]
+    },
+    {
+      text: "Frank Sinatra",
+      id: "frank_sinatra",
+      items: [
+        {
+          text: "Something Stupid",
+          id: "frank_sinatra-something_stupid",
+          url: "tab/other/frank sinatra - something stupid.txt"
         }
       ]
     },
@@ -1331,6 +1359,17 @@
       ]
     },
     {
+      text: "High School Musical",
+      id: "high_school_musical",
+      items: [
+        {
+          text: "Start of Something New",
+          id: "high_school_musical-start_of_something_new",
+          url: "tab/other/high school musical - start of something new.txt"
+        }
+      ]
+    },
+    {
       text: "Hold Steady",
       id: "hold_steady",
       items: [
@@ -1426,6 +1465,28 @@
       ]
     },
     {
+      text: "Incubus",
+      id: "incubus",
+      items: [
+        {
+          text: "Wish You Were Here",
+          id: "incubus-wish_you_were_here",
+          url: "tab/other/incubus - wish you were here.txt"
+        }
+      ]
+    },
+    {
+      text: "INXS",
+      id: "inxs",
+      items: [
+        {
+          text: "Don't Change",
+          id: "inxs-dont_change",
+          url: "tab/other/inxs - dont change.txt"
+        }
+      ]
+    },
+    {
       text: "Jackson Browne",
       id: "jackson_browne",
       items: [
@@ -1444,6 +1505,17 @@
           text: "Jane Says",
           id: "janes_addiction-jane_says",
           url: "tab/other/janes addiction - jane says.txt"
+        }
+      ]
+    },
+    {
+      text: "Jason Isbell and the 400 Unit",
+      id: "jason_isbell_and_the_400_unit",
+      items: [
+        {
+          text: "Tupelo",
+          id: "jason_isbell_and_the_400_unit-tupelo",
+          url: "tab/other/jason isbell and the 400 unit - tupelo.txt"
         }
       ]
     },
@@ -1477,6 +1549,17 @@
           text: "Are You Gonna be my Girl?",
           id: "jet-are_you_gonna_be_my_girl",
           url: "tab/other/jet - are you gonna be my girl.txt"
+        }
+      ]
+    },
+    {
+      text: "Jimmy Eat World",
+      id: "jimmy_eat_world",
+      items: [
+        {
+          text: "A Praise Chorus",
+          id: "jimmy_eat_world-a_praise_chorus",
+          url: "tab/other/jimmy eat world - a praise chorus.txt"
         }
       ]
     },
@@ -1521,6 +1604,17 @@
           text: "Wildflower",
           id: "kasey_chambers_and_shane_nicholson-wildflower",
           url: "tab/other/kasey chambers and shane nicholson - wildflower.txt"
+        }
+      ]
+    },
+    {
+      text: "Kelly Clarkson",
+      id: "kelly_clarkson",
+      items: [
+        {
+          text: "Since U Been Gone",
+          id: "kelly_clarkson-since_u_been_gone",
+          url: "tab/other/kelly clarkson - since u been gone.txt"
         }
       ]
     },
@@ -1574,17 +1668,6 @@
       ]
     },
     {
-      text: "The Kooks",
-      id: "the_kooks",
-      items: [
-        {
-          text: "She Moves in Her Own Way",
-          id: "the_kooks-she_moves_in_her_own_way",
-          url: "tab/other/the kooks - she moves in her own way.txt"
-        }
-      ]
-    },
-    {
       text: "L.A. Guns",
       id: "la_guns",
       items: [
@@ -1619,17 +1702,6 @@
           text: "Unknown Stuntman",
           id: "lee_majors-unknown_stuntman",
           url: "tab/other/lee majors - Unknown Stuntman.txt"
-        }
-      ]
-    },
-    {
-      text: "The Lemonheads",
-      id: "the_lemonheads",
-      items: [
-        {
-          text: "Into Your Arms",
-          id: "the_lemonheads-into_your_arms",
-          url: "tab/other/lemonheads - into your arms.txt"
         }
       ]
     },
@@ -1752,17 +1824,6 @@
       ]
     },
     {
-      text: "The Men",
-      id: "the_men",
-      items: [
-        {
-          text: "Dark Waltz",
-          id: "the_men-dark_waltz",
-          url: "tab/other/the men - dark waltz.txt"
-        }
-      ]
-    },
-    {
       text: "Men at Work",
       id: "men_at_work",
       items: [
@@ -1770,6 +1831,17 @@
           text: "Overkill",
           id: "men_at_work-overkill",
           url: "tab/other/men at work - overkill.txt"
+        }
+      ]
+    },
+    {
+      text: "Metric",
+      id: "metric",
+      items: [
+        {
+          text: "Help I'm Alive",
+          id: "metric-help_im_alive",
+          url: "tab/other/metric - help im alive.txt"
         }
       ]
     },
@@ -1878,6 +1950,17 @@
       ]
     },
     {
+      text: "Neutral Milk Hotel",
+      id: "neutral_milk_hotel",
+      items: [
+        {
+          text: "Naomi",
+          id: "neutral_milk_hotel-naomi",
+          url: "tab/other/neutral milk hotel - naomi.txt"
+        }
+      ]
+    },
+    {
       text: "New Pornographers",
       id: "new_pornographers",
       items: [
@@ -1928,6 +2011,11 @@
           text: "Here It Goes Again",
           id: "ok_go-here_it_goes_again",
           url: "tab/other/ok go - here it goes again.txt"
+        },
+        {
+          text: "Needing/Getting",
+          id: "ok_go-needinggetting",
+          url: "tab/other/ok go - needing getting.txt"
         }
       ]
     },
@@ -2292,6 +2380,17 @@
       ]
     },
     {
+      text: "Pat Benetar",
+      id: "pat_benetar",
+      items: [
+        {
+          text: "We Belong",
+          id: "pat_benetar-we_belong",
+          url: "tab/other/pat benetar - we belong.txt"
+        }
+      ]
+    },
+    {
       text: "Patrick Swayze",
       id: "patrick_swayze",
       items: [
@@ -2461,6 +2560,17 @@
       ]
     },
     {
+      text: "Plumtree",
+      id: "plumtree",
+      items: [
+        {
+          text: "Scott Pilgrim",
+          id: "plumtree-scott_pilgrim",
+          url: "tab/other/plumtree - scott pilgrim.txt"
+        }
+      ]
+    },
+    {
       text: "Poison",
       id: "poison",
       items: [
@@ -2479,6 +2589,17 @@
           text: "Torpedoes on Tuesday",
           id: "poison_control_center-torpedoes_on_tuesday",
           url: "tab/other/poison control center - torpedoes on tuesday.txt"
+        }
+      ]
+    },
+    {
+      text: "Polaris",
+      id: "polaris",
+      items: [
+        {
+          text: "Hey Sandy",
+          id: "polaris-hey_sandy",
+          url: "tab/other/polaris - hey sandy.txt"
         }
       ]
     },
@@ -2512,6 +2633,22 @@
           text: "I Want to Break Free",
           id: "queen-i_want_to_break_free",
           url: "tab/queen/queen - i want to break free.txt"
+        },
+        {
+          text: "Under Pressure",
+          id: "queen-under_pressure",
+          url: "tab/queen/queen - under pressure.txt"
+        }
+      ]
+    },
+    {
+      text: "R.E.M.",
+      id: "rem",
+      items: [
+        {
+          text: "Whats the Frequency Kenneth?",
+          id: "rem-whats_the_frequency_kenneth",
+          url: "tab/other/rem - whats the frequency kenneth.txt"
         }
       ]
     },
@@ -2558,6 +2695,17 @@
       ]
     },
     {
+      text: "Red Hot Chili Peppers",
+      id: "red_hot_chili_peppers",
+      items: [
+        {
+          text: "Under the Bridge",
+          id: "red_hot_chili_peppers-under_the_bridge",
+          url: "tab/other/red hot chili peppers - under the bridge.txt"
+        }
+      ]
+    },
+    {
       text: "Refreshments",
       id: "refreshments",
       items: [
@@ -2565,17 +2713,6 @@
           text: "Banditos",
           id: "refreshments-banditos",
           url: "tab/other/Refreshments - Banditos.txt"
-        }
-      ]
-    },
-    {
-      text: "R.E.M.",
-      id: "rem",
-      items: [
-        {
-          text: "Whats the Frequency Kenneth?",
-          id: "rem-whats_the_frequency_kenneth",
-          url: "tab/other/rem - whats the frequency kenneth.txt"
         }
       ]
     },
@@ -2598,6 +2735,22 @@
           text: "Can't Hardly Wait",
           id: "replacements-cant_hardly_wait",
           url: "tab/other/replacements - can't hardly wait.txt"
+        },
+        {
+          text: "Alex Chilton",
+          id: "replacements-alex_chilton",
+          url: "tab/other/replacements - alex chilton.txt"
+        }
+      ]
+    },
+    {
+      text: "Rilo Kiley",
+      id: "rilo_kiley",
+      items: [
+        {
+          text: "Always",
+          id: "rilo_kiley-always",
+          url: "tab/other/rilo kiley - always.txt"
         }
       ]
     },
@@ -2630,7 +2783,12 @@
         {
           text: "The Look",
           id: "roxette-the_look",
-          url: "tab/other/roxette - the look.txt"
+          url: "tab/roxette/roxette - the look.txt"
+        },
+        {
+          text: "It Must Have Been Love",
+          id: "roxette-it_must_have_been_love",
+          url: "tab/roxette/roxette - it must have been love.txt"
         }
       ]
     },
@@ -2672,6 +2830,11 @@
           text: "To be Young (Is to be Sad, is to be High)",
           id: "ryan_adams-to_be_young_is_to_be_sad_is_to_be_high",
           url: "tab/ryanadams/Ryan Adams - To Be Young (Is to Be sad, Is to Be High).txt"
+        },
+        {
+          text: "Two",
+          id: "ryan_adams-two",
+          url: "tab/ryanadams/ryan adams - two.txt"
         },
         {
           text: "When Stars Go Blue",
@@ -3075,6 +3238,148 @@
       ]
     },
     {
+      text: "The Babies",
+      id: "the_babies",
+      items: [
+        {
+          text: "Mess Me Around",
+          id: "the_babies-mess_me_around",
+          url: "tab/other/the babies - mess me around.txt"
+        }
+      ]
+    },
+    {
+      text: "The Cars",
+      id: "the_cars",
+      items: [
+        {
+          text: "Just What I Needed",
+          id: "the_cars-just_what_i_needed",
+          url: "tab/cars/cars - just what i needed.txt"
+        },
+        {
+          text: "Magic",
+          id: "the_cars-magic",
+          url: "tab/cars/cars - magic.txt"
+        },
+        {
+          text: "You Might Think",
+          id: "the_cars-you_might_think",
+          url: "tab/cars/cars - you might think.txt"
+        }
+      ]
+    },
+    {
+      text: "The Cranberries",
+      id: "the_cranberries",
+      items: [
+        {
+          text: "Dreams",
+          id: "the_cranberries-dreams",
+          url: "tab/other/the cranberries - dreams.txt"
+        }
+      ]
+    },
+    {
+      text: "The Cult",
+      id: "the_cult",
+      items: [
+        {
+          text: "She Sells Sanctuary",
+          id: "the_cult-she_sells_sanctuary",
+          url: "tab/other/the cult - she sells sanctuary.txt"
+        }
+      ]
+    },
+    {
+      text: "The Cure",
+      id: "the_cure",
+      items: [
+        {
+          text: "Just Like Heaven",
+          id: "the_cure-just_like_heaven",
+          url: "tab/other/the cure - just like heaven.txt"
+        }
+      ]
+    },
+    {
+      text: "The Faces",
+      id: "the_faces",
+      items: [
+        {
+          text: "Ooh La La",
+          id: "the_faces-ooh_la_la",
+          url: "tab/other/the faces - ooh la la.txt"
+        }
+      ]
+    },
+    {
+      text: "The Fold",
+      id: "the_fold",
+      items: [
+        {
+          text: "Weekend Whip",
+          id: "the_fold-weekend_whip",
+          url: "tab/other/the fold - weekend whip.txt"
+        }
+      ]
+    },
+    {
+      text: "The Kooks",
+      id: "the_kooks",
+      items: [
+        {
+          text: "She Moves in Her Own Way",
+          id: "the_kooks-she_moves_in_her_own_way",
+          url: "tab/other/the kooks - she moves in her own way.txt"
+        }
+      ]
+    },
+    {
+      text: "The Lemonheads",
+      id: "the_lemonheads",
+      items: [
+        {
+          text: "Into Your Arms",
+          id: "the_lemonheads-into_your_arms",
+          url: "tab/other/lemonheads - into your arms.txt"
+        }
+      ]
+    },
+    {
+      text: "The Men",
+      id: "the_men",
+      items: [
+        {
+          text: "Dark Waltz",
+          id: "the_men-dark_waltz",
+          url: "tab/other/the men - dark waltz.txt"
+        }
+      ]
+    },
+    {
+      text: "The Smiths",
+      id: "the_smiths",
+      items: [
+        {
+          text: "This Charming Man",
+          id: "the_smiths-this_charming_man",
+          url: "tab/other/the smiths - this charming man.txt"
+        }
+      ]
+    },
+    {
+      text: "The Strokes",
+      id: "the_strokes",
+      items: [
+        {
+          text: "Hard to Explain",
+          id: "the_strokes-hard_to_explain",
+          url: "tab/other/the strokes - hard to explain.txt"
+        }
+      ]
+    },
+    {
       text: "The Thermals",
       id: "the_thermals",
       items: [
@@ -3086,6 +3391,28 @@
       ]
     },
     {
+      text: "The Who",
+      id: "the_who",
+      items: [
+        {
+          text: "Pinball Wizard",
+          id: "the_who-pinball_wizard",
+          url: "tab/other/the who - pinball wizard.txt"
+        }
+      ]
+    },
+    {
+      text: "The Wonders",
+      id: "the_wonders",
+      items: [
+        {
+          text: "That Thing You Do",
+          id: "the_wonders-that_thing_you_do",
+          url: "tab/other/the wonders - that thing you do.txt"
+        }
+      ]
+    },
+    {
       text: "Thin Lizzy",
       id: "thin_lizzy",
       items: [
@@ -3093,6 +3420,11 @@
           text: "The Boys are Back in Town (acoustic)",
           id: "thin_lizzy-the_boys_are_back_in_town_acoustic",
           url: "tab/other/thin lizzy - the boys are back in town acoustic.txt"
+        },
+        {
+          text: "The Boys Are Back in Town",
+          id: "thin_lizzy-the_boys_are_back_in_town",
+          url: "tab/other/thin lizzy - boys are back in town.txt"
         }
       ]
     },
@@ -3119,6 +3451,17 @@
       ]
     },
     {
+      text: "Toad the Wet Sprocket",
+      id: "toad_the_wet_sprocket",
+      items: [
+        {
+          text: "All I Want",
+          id: "toad_the_wet_sprocket-all_i_want",
+          url: "tab/other/toad the wet sprocket - all i want.txt"
+        }
+      ]
+    },
+    {
       text: "Tom Petty",
       id: "tom_petty",
       items: [
@@ -3131,6 +3474,16 @@
           text: "I Won't Back Down",
           id: "tom_petty-i_wont_back_down",
           url: "tab/tompetty/tom petty - i wont back down.txt"
+        },
+        {
+          text: "Wildflowers",
+          id: "tom_petty-wildflowers",
+          url: "tab/tompetty/tom petty - wildflowers.txt"
+        },
+        {
+          text: "You Wreck Me",
+          id: "tom_petty-you_wreck_me",
+          url: "tab/tompetty/tom petty - you wreck me.txt"
         }
       ]
     },
@@ -3163,6 +3516,11 @@
           text: "Desire",
           id: "u2-desire",
           url: "tab/u2/u2 - desire.txt"
+        },
+        {
+          text: "Running to Stand Still",
+          id: "u2-running_to_stand_still",
+          url: "tab/u2/u2 - running to stand still.txt"
         },
         {
           text: "With or Without You",
@@ -3222,6 +3580,17 @@
           text: "That Wrecking Ball",
           id: "watchhouse-that_wrecking_ball",
           url: "tab/watchhouse/Watchhouse - That Wrecking Ball.txt"
+        }
+      ]
+    },
+    {
+      text: "Ween",
+      id: "ween",
+      items: [
+        {
+          text: "Voodoo Lady",
+          id: "ween-voodoo_lady",
+          url: "tab/other/ween - voodoo lady.txt"
         }
       ]
     },
@@ -3286,17 +3655,6 @@
           text: "Here I Go Again",
           id: "whitesnake-here_i_go_again",
           url: "tab/other/whitesnake - here i go again.txt"
-        }
-      ]
-    },
-    {
-      text: "The Who",
-      id: "the_who",
-      items: [
-        {
-          text: "Pinball Wizard",
-          id: "the_who-pinball_wizard",
-          url: "tab/other/the who - pinball wizard.txt"
         }
       ]
     },
@@ -3678,17 +4036,6 @@
       ]
     },
     {
-      text: "The Wonders",
-      id: "the_wonders",
-      items: [
-        {
-          text: "That Thing You Do",
-          id: "the_wonders-that_thing_you_do",
-          url: "tab/other/the wonders - that thing you do.txt"
-        }
-      ]
-    },
-    {
       text: "World Party",
       id: "world_party",
       items: [
@@ -3696,6 +4043,17 @@
           text: "Is it Like Today?",
           id: "world_party-is_it_like_today",
           url: "tab/other/world party - is it like today.txt"
+        }
+      ]
+    },
+    {
+      text: "Yeah Yeah Yeahs",
+      id: "yeah_yeah_yeahs",
+      items: [
+        {
+          text: "Y Control",
+          id: "yeah_yeah_yeahs-y_control",
+          url: "tab/other/yeah yeah yeahs - y control.txt"
         }
       ]
     }
