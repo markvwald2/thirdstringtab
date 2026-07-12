@@ -761,6 +761,17 @@
       ]
     },
     {
+      text: "Death Cab for Cutie",
+      id: "death_cab_for_cutie",
+      items: [
+        {
+          text: "Cath",
+          id: "death_cab_for_cutie-cath",
+          url: "tab/other/death cab for cutie - cath.txt"
+        }
+      ]
+    },
+    {
       text: "Def Leppard",
       id: "def_leppard",
       items: [
@@ -1044,22 +1055,20 @@
         }
       ]
     },
-{
-  text: "Foo Fighters",
-  id: "foo_fighters",
-  items: [
     {
-      text: "Everlong",
-      id: "foo_fighters-everlong",
-      url: "tab/other/foo fighters - everlong.txt"
+      text: "Foo Fighters",
+      id: "foo_fighters",
+      items: [
+        {
+          text: "Everlong",
+          id: "foo_fighters-everlong",
+          url: "tab/other/foo fighters - everlong.txt"
+        },
+        {
+          text: "Times Like These"
+        }
+      ]
     },
-    {
-      text: "Times Like These",
-      id: "foo_fighters-times_like_these",
-      url: "tab/other/times like these - foo fighters.txt"
-    }
-  ]
-},
     {
       text: "Foreigner",
       id: "foreigner",
@@ -2887,6 +2896,17 @@
       ]
     },
     {
+      text: "Semisonic",
+      id: "semisonic",
+      items: [
+        {
+          text: "Closing Time",
+          id: "semisonic-closing_time",
+          url: "tab/other/semisonic - closing time.txt"
+        }
+      ]
+    },
+    {
       text: "Sheryl Crow",
       id: "sheryl_crow",
       items: [
@@ -4141,6 +4161,10 @@
           text: "Thank You My Twilight",
           id: "the_pillows-thank_you_my_twilight",
           url: "tab/other/thank you my twilight - the pillows.txt"
+        },
+        {
+          id: "foo_fighters-times_like_these",
+          url: "tab/other/times like these - foo fighters.txt"
         }
       ]
     },
