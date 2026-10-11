@@ -23,6 +23,17 @@
       ]
     },
     {
+      text: "AAJ",
+      id: "aaj",
+      items: [
+        {
+          text: "I Wanna Be Your Dog 2",
+          id: "aaj-i_wanna_be_your_dog_2",
+          url: "tab/other/i wanna be your dog 2 - aaj.txt"
+        }
+      ]
+    },
+    {
       text: "Aerosmith",
       id: "aerosmith",
       items: [
@@ -69,14 +80,14 @@
           url: "tab/alanismorissette/alanis morissette - hand in my pocket.txt"
         },
         {
-          text: "Ironic",
-          id: "alanis_morissette-ironic",
-          url: "tab/alanismorissette/alanis morissette - ironic.txt"
-        },
-        {
           text: "Head Over Feet",
           id: "alanis_morissette-head_over_feet",
           url: "tab/alanismorissette/alanis morissette - head over feet.txt"
+        },
+        {
+          text: "Ironic",
+          id: "alanis_morissette-ironic",
+          url: "tab/alanismorissette/alanis morissette - ironic.txt"
         }
       ]
     },
@@ -88,6 +99,17 @@
           text: "Gives You Hell",
           id: "allamerican_rejects-gives_you_hell",
           url: "tab/other/all-american rejects - gives you hell.txt"
+        }
+      ]
+    },
+    {
+      text: "Angel Olsen",
+      id: "angel_olsen",
+      items: [
+        {
+          text: "Shut Up Kiss Me",
+          id: "angel_olsen-shut_up_kiss_me",
+          url: "tab/other/shut up kiss me - angel olsen.txt"
         }
       ]
     },
@@ -389,6 +411,11 @@
           url: "tab/brandicarlile/brandi carlile - cannonball.txt"
         },
         {
+          text: "Right On Time",
+          id: "brandi_carlile-right_on_time",
+          url: "tab/brandicarlile/brandi carlile - right on time.txt"
+        },
+        {
           text: "The Eye",
           id: "brandi_carlile-the_eye",
           url: "tab/brandicarlile/brandi carlile - the eye.txt"
@@ -397,11 +424,6 @@
           text: "The Story",
           id: "brandi_carlile-the_story",
           url: "tab/brandicarlile/brandi carlile - the story.txt"
-        },
-        {
-          text: "Right On Time",
-          id: "brandi_carlile-right_on_time",
-          url: "tab/brandicarlile/brandi carlile - right on time.txt"
         },
         {
           text: "This Time Tomorrow",
@@ -1023,17 +1045,6 @@
       ]
     },
     {
-      text: "Snow Patrol",
-      id: "snow_patrol",
-      items: [
-        {
-          text: "Chasing Cars",
-          id: "snow_patrol-chasing_cars",
-          url: "tab/other/chasing cars - snow patrol.txt"
-        }
-      ]
-    },
-    {
       text: "Flaming Lips",
       id: "flaming_lips",
       items: [
@@ -1041,17 +1052,6 @@
           text: "Yoshimi Battles the Pink Robots",
           id: "flaming_lips-yoshimi_battles_the_pink_robots",
           url: "tab/other/flaming lips - yoshimi battles the pink robots.txt"
-        }
-      ]
-    },
-    {
-      text: "Shakey Graves",
-      id: "shakey_graves",
-      items: [
-        {
-          text: "Dearly Departed",
-          id: "shakey_graves-dearly_departed",
-          url: "tab/other/shakey graves - dearly departed.txt"
         }
       ]
     },
@@ -1087,7 +1087,9 @@
           url: "tab/other/foo fighters - everlong.txt"
         },
         {
-          text: "Times Like These"
+          text: "Times Like These",
+          id: "foo_fighters-times_like_these",
+          url: "tab/other/times like these - foo fighters.txt"
         }
       ]
     },
@@ -1143,6 +1145,17 @@
           text: "Something Stupid",
           id: "frank_sinatra-something_stupid",
           url: "tab/other/frank sinatra - something stupid.txt"
+        }
+      ]
+    },
+    {
+      text: "Frank Turner",
+      id: "frank_turner",
+      items: [
+        {
+          text: "Recovery",
+          id: "frank_turner-recovery",
+          url: "tab/other/recovery - frank turner.txt"
         }
       ]
     },
@@ -2538,17 +2551,6 @@
       ]
     },
     {
-      text: "Supergrass",
-      id: "supergrass",
-      items: [
-        {
-          text: "Pumping on Your Stereo",
-          id: "supergrass-pumping_on_your_stereo",
-          url: "tab/other/supergrass - pumping on your stereo.txt"
-        }
-      ]
-    },
-    {
       text: "Phish",
       id: "phish",
       items: [
@@ -2687,37 +2689,9 @@
           url: "tab/queen/queen - i want to break free.txt"
         },
         {
-          text: "Under Pressure"
-        }
-      ]
-    },
-    {
-      text: "Radiohead",
-      id: "radiohead",
-      items: [
-        {
-          text: "Just",
-          id: "radiohead-just",
-          url: "tab/radiohead/radiohead - just.txt"
-        },
-        {
+          text: "Under Pressure",
           id: "queen-under_pressure",
           url: "tab/queen/queen - under pressure.txt"
-        },
-        {
-          text: "Black Star"
-        },
-        {
-          text: "Creep"
-        },
-        {
-          text: "Fake Plastic Trees"
-        },
-        {
-          text: "High and Dry"
-        },
-        {
-          text: "Karma Police"
         }
       ]
     },
@@ -2729,25 +2703,40 @@
           text: "Whats the Frequency Kenneth?",
           id: "rem-whats_the_frequency_kenneth",
           url: "tab/other/rem - whats the frequency kenneth.txt"
-        },
-        {},
+        }
+      ]
+    },
+    {
+      text: "Radiohead",
+      id: "radiohead",
+      items: [
         {
+          text: "Black Star",
           id: "radiohead-black_star",
           url: "tab/radiohead/radiohead - black star.txt"
         },
         {
+          text: "Creep",
           id: "radiohead-creep",
           url: "tab/radiohead/radiohead - creep.txt"
         },
         {
+          text: "Fake Plastic Trees",
           id: "radiohead-fake_plastic_trees",
           url: "tab/radiohead/radiohead - fake plastic trees.txt"
         },
         {
+          text: "High and Dry",
           id: "radiohead-high_and_dry",
           url: "tab/radiohead/Radiohead - High and Dry.txt"
         },
         {
+          text: "Just",
+          id: "radiohead-just",
+          url: "tab/radiohead/radiohead - just.txt"
+        },
+        {
+          text: "Karma Police",
           id: "radiohead-karma_police",
           url: "tab/radiohead/Radiohead - Karma Police.txt"
         }
@@ -2802,14 +2791,14 @@
       id: "replacements",
       items: [
         {
-          text: "Can't Hardly Wait",
-          id: "replacements-cant_hardly_wait",
-          url: "tab/other/replacements - can't hardly wait.txt"
-        },
-        {
           text: "Alex Chilton",
           id: "replacements-alex_chilton",
           url: "tab/other/replacements - alex chilton.txt"
+        },
+        {
+          text: "Can't Hardly Wait",
+          id: "replacements-cant_hardly_wait",
+          url: "tab/other/replacements - can't hardly wait.txt"
         }
       ]
     },
@@ -2851,14 +2840,14 @@
       id: "roxette",
       items: [
         {
-          text: "The Look",
-          id: "roxette-the_look",
-          url: "tab/roxette/roxette - the look.txt"
-        },
-        {
           text: "It Must Have Been Love",
           id: "roxette-it_must_have_been_love",
           url: "tab/roxette/roxette - it must have been love.txt"
+        },
+        {
+          text: "The Look",
+          id: "roxette-the_look",
+          url: "tab/roxette/roxette - the look.txt"
         }
       ]
     },
@@ -2914,6 +2903,17 @@
       ]
     },
     {
+      text: "Sarah McLachlan",
+      id: "sarah_mclachlan",
+      items: [
+        {
+          text: "Building A Mystery",
+          id: "sarah_mclachlan-building_a_mystery",
+          url: "tab/other/building a mystery - sarah mclachlan.txt"
+        }
+      ]
+    },
+    {
       text: "Scorpions",
       id: "scorpions",
       items: [
@@ -2954,6 +2954,17 @@
           text: "Closing Time",
           id: "semisonic-closing_time",
           url: "tab/other/semisonic - closing time.txt"
+        }
+      ]
+    },
+    {
+      text: "Shakey Graves",
+      id: "shakey_graves",
+      items: [
+        {
+          text: "Dearly Departed",
+          id: "shakey_graves-dearly_departed",
+          url: "tab/other/shakey graves - dearly departed.txt"
         }
       ]
     },
@@ -3046,6 +3057,17 @@
           text: "Disarm",
           id: "smashing_pumpkins-disarm",
           url: "tab/smashingpumpkins/smashing pumpkins - disarm.txt"
+        }
+      ]
+    },
+    {
+      text: "Snow Patrol",
+      id: "snow_patrol",
+      items: [
+        {
+          text: "Chasing Cars",
+          id: "snow_patrol-chasing_cars",
+          url: "tab/other/chasing cars - snow patrol.txt"
         }
       ]
     },
@@ -3270,6 +3292,17 @@
       ]
     },
     {
+      text: "Supergrass",
+      id: "supergrass",
+      items: [
+        {
+          text: "Pumping on Your Stereo",
+          id: "supergrass-pumping_on_your_stereo",
+          url: "tab/other/supergrass - pumping on your stereo.txt"
+        }
+      ]
+    },
+    {
       text: "T'Pau",
       id: "tpau",
       items: [
@@ -3308,6 +3341,17 @@
       ]
     },
     {
+      text: "Tegan and Sara",
+      id: "tegan_and_sara",
+      items: [
+        {
+          text: "Where Does the Good Go",
+          id: "tegan_and_sara-where_does_the_good_go",
+          url: "tab/other/where does the good go - tegan and sara.txt"
+        }
+      ]
+    },
+    {
       text: "Telekinesis",
       id: "telekinesis",
       items: [
@@ -3319,6 +3363,17 @@
       ]
     },
     {
+      text: "Tenacious D",
+      id: "tenacious_d",
+      items: [
+        {
+          text: "Tribute",
+          id: "tenacious_d-tribute",
+          url: "tab/other/tribute - tenacious d.txt"
+        }
+      ]
+    },
+    {
       text: "The Babies",
       id: "the_babies",
       items: [
@@ -3326,6 +3381,17 @@
           text: "Mess Me Around",
           id: "the_babies-mess_me_around",
           url: "tab/other/the babies - mess me around.txt"
+        }
+      ]
+    },
+    {
+      text: "The Cardigans",
+      id: "the_cardigans",
+      items: [
+        {
+          text: "My Favourite Game",
+          id: "the_cardigans-my_favourite_game",
+          url: "tab/other/my favourite game - the cardigans.txt"
         }
       ]
     },
@@ -3406,6 +3472,17 @@
       ]
     },
     {
+      text: "The Fratellis",
+      id: "the_fratellis",
+      items: [
+        {
+          text: "Chelsea Dagger",
+          id: "the_fratellis-chelsea_dagger",
+          url: "tab/other/chelsea dagger - the fratellis.txt"
+        }
+      ]
+    },
+    {
       text: "The Kooks",
       id: "the_kooks",
       items: [
@@ -3435,6 +3512,17 @@
           text: "Dark Waltz",
           id: "the_men-dark_waltz",
           url: "tab/other/the men - dark waltz.txt"
+        }
+      ]
+    },
+    {
+      text: "The Pillows",
+      id: "the_pillows",
+      items: [
+        {
+          text: "Thank You My Twilight",
+          id: "the_pillows-thank_you_my_twilight",
+          url: "tab/other/thank you my twilight - the pillows.txt"
         }
       ]
     },
@@ -3472,6 +3560,17 @@
       ]
     },
     {
+      text: "The Wannadies",
+      id: "the_wannadies",
+      items: [
+        {
+          text: "You And Me Song",
+          id: "the_wannadies-you_and_me_song",
+          url: "tab/other/you and me song - the wannadies.txt"
+        }
+      ]
+    },
+    {
       text: "The Who",
       id: "the_who",
       items: [
@@ -3498,14 +3597,14 @@
       id: "thin_lizzy",
       items: [
         {
-          text: "The Boys are Back in Town (acoustic)",
-          id: "thin_lizzy-the_boys_are_back_in_town_acoustic",
-          url: "tab/other/thin lizzy - the boys are back in town acoustic.txt"
-        },
-        {
           text: "The Boys Are Back in Town",
           id: "thin_lizzy-the_boys_are_back_in_town",
           url: "tab/other/thin lizzy - boys are back in town.txt"
+        },
+        {
+          text: "The Boys are Back in Town (acoustic)",
+          id: "thin_lizzy-the_boys_are_back_in_town_acoustic",
+          url: "tab/other/thin lizzy - the boys are back in town acoustic.txt"
         }
       ]
     },
@@ -4100,11 +4199,6 @@
       id: "willie_nelson",
       items: [
         {
-          text: "Whiskey River",
-          id: "willie_nelson-whiskey_river",
-          url: "tab/willienelson/willie nelson - whiskey river.txt"
-        },
-        {
           text: "Mammas, Don't Let Your Babies Grow Up to be Cowboys",
           id: "willie_nelson-mammas_dont_let_your_babies_grow_up_to_be_cowboys",
           url: "tab/willienelson/willie nelson - mammas dont let your babies grow up to be cowboys.txt"
@@ -4113,6 +4207,11 @@
           text: "My Heros have Always Been Cowboys",
           id: "willie_nelson-my_heros_have_always_been_cowboys",
           url: "tab/willienelson/willie nelson - my heros have always been cowboys.txt"
+        },
+        {
+          text: "Whiskey River",
+          id: "willie_nelson-whiskey_river",
+          url: "tab/willienelson/willie nelson - whiskey river.txt"
         }
       ]
     },
@@ -4135,120 +4234,6 @@
           text: "Y Control",
           id: "yeah_yeah_yeahs-y_control",
           url: "tab/other/yeah yeah yeahs - y control.txt"
-        }
-      ]
-    },
-    {
-      text: "Sarah McLachlan",
-      id: "sarah_mclachlan",
-      items: [
-        {
-          text: "Building A Mystery",
-          id: "sarah_mclachlan-building_a_mystery",
-          url: "tab/other/building a mystery - sarah mclachlan.txt"
-        }
-      ]
-    },
-    {
-      text: "The Fratellis",
-      id: "the_fratellis",
-      items: [
-        {
-          text: "Chelsea Dagger",
-          id: "the_fratellis-chelsea_dagger",
-          url: "tab/other/chelsea dagger - the fratellis.txt"
-        }
-      ]
-    },
-    {
-      text: "AAJ",
-      id: "aaj",
-      items: [
-        {
-          text: "I Wanna Be Your Dog 2",
-          id: "aaj-i_wanna_be_your_dog_2",
-          url: "tab/other/i wanna be your dog 2 - aaj.txt"
-        }
-      ]
-    },
-    {
-      text: "The Cardigans",
-      id: "the_cardigans",
-      items: [
-        {
-          text: "My Favourite Game",
-          id: "the_cardigans-my_favourite_game",
-          url: "tab/other/my favourite game - the cardigans.txt"
-        }
-      ]
-    },
-    {
-      text: "Frank Turner",
-      id: "frank_turner",
-      items: [
-        {
-          text: "Recovery",
-          id: "frank_turner-recovery",
-          url: "tab/other/recovery - frank turner.txt"
-        }
-      ]
-    },
-    {
-      text: "Angel Olsen",
-      id: "angel_olsen",
-      items: [
-        {
-          text: "Shut Up Kiss Me",
-          id: "angel_olsen-shut_up_kiss_me",
-          url: "tab/other/shut up kiss me - angel olsen.txt"
-        }
-      ]
-    },
-    {
-      text: "The Pillows",
-      id: "the_pillows",
-      items: [
-        {
-          text: "Thank You My Twilight",
-          id: "the_pillows-thank_you_my_twilight",
-          url: "tab/other/thank you my twilight - the pillows.txt"
-        },
-        {
-          id: "foo_fighters-times_like_these",
-          url: "tab/other/times like these - foo fighters.txt"
-        }
-      ]
-    },
-    {
-      text: "Tenacious D",
-      id: "tenacious_d",
-      items: [
-        {
-          text: "Tribute",
-          id: "tenacious_d-tribute",
-          url: "tab/other/tribute - tenacious d.txt"
-        }
-      ]
-    },
-    {
-      text: "Tegan and Sara",
-      id: "tegan_and_sara",
-      items: [
-        {
-          text: "Where Does the Good Go",
-          id: "tegan_and_sara-where_does_the_good_go",
-          url: "tab/other/where does the good go - tegan and sara.txt"
-        }
-      ]
-    },
-    {
-      text: "The Wannadies",
-      id: "the_wannadies",
-      items: [
-        {
-          text: "You And Me Song",
-          id: "the_wannadies-you_and_me_song",
-          url: "tab/other/you and me song - the wannadies.txt"
         }
       ]
     }
