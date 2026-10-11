@@ -1023,6 +1023,17 @@
       ]
     },
     {
+      text: "Snow Patrol",
+      id: "snow_patrol",
+      items: [
+        {
+          text: "Chasing Cars",
+          id: "snow_patrol-chasing_cars",
+          url: "tab/other/chasing cars - snow patrol.txt"
+        }
+      ]
+    },
+    {
       text: "Flaming Lips",
       id: "flaming_lips",
       items: [
@@ -1030,6 +1041,17 @@
           text: "Yoshimi Battles the Pink Robots",
           id: "flaming_lips-yoshimi_battles_the_pink_robots",
           url: "tab/other/flaming lips - yoshimi battles the pink robots.txt"
+        }
+      ]
+    },
+    {
+      text: "Shakey Graves",
+      id: "shakey_graves",
+      items: [
+        {
+          text: "Dearly Departed",
+          id: "shakey_graves-dearly_departed",
+          url: "tab/other/shakey graves - dearly departed.txt"
         }
       ]
     },
@@ -2516,6 +2538,17 @@
       ]
     },
     {
+      text: "Supergrass",
+      id: "supergrass",
+      items: [
+        {
+          text: "Pumping on Your Stereo",
+          id: "supergrass-pumping_on_your_stereo",
+          url: "tab/other/supergrass - pumping on your stereo.txt"
+        }
+      ]
+    },
+    {
       text: "Phish",
       id: "phish",
       items: [
@@ -2654,9 +2687,37 @@
           url: "tab/queen/queen - i want to break free.txt"
         },
         {
-          text: "Under Pressure",
+          text: "Under Pressure"
+        }
+      ]
+    },
+    {
+      text: "Radiohead",
+      id: "radiohead",
+      items: [
+        {
+          text: "Just",
+          id: "radiohead-just",
+          url: "tab/radiohead/radiohead - just.txt"
+        },
+        {
           id: "queen-under_pressure",
           url: "tab/queen/queen - under pressure.txt"
+        },
+        {
+          text: "Black Star"
+        },
+        {
+          text: "Creep"
+        },
+        {
+          text: "Fake Plastic Trees"
+        },
+        {
+          text: "High and Dry"
+        },
+        {
+          text: "Karma Police"
         }
       ]
     },
@@ -2668,35 +2729,25 @@
           text: "Whats the Frequency Kenneth?",
           id: "rem-whats_the_frequency_kenneth",
           url: "tab/other/rem - whats the frequency kenneth.txt"
-        }
-      ]
-    },
-    {
-      text: "Radiohead",
-      id: "radiohead",
-      items: [
+        },
+        {},
         {
-          text: "Black Star",
           id: "radiohead-black_star",
           url: "tab/radiohead/radiohead - black star.txt"
         },
         {
-          text: "Creep",
           id: "radiohead-creep",
           url: "tab/radiohead/radiohead - creep.txt"
         },
         {
-          text: "Fake Plastic Trees",
           id: "radiohead-fake_plastic_trees",
           url: "tab/radiohead/radiohead - fake plastic trees.txt"
         },
         {
-          text: "High and Dry",
           id: "radiohead-high_and_dry",
           url: "tab/radiohead/Radiohead - High and Dry.txt"
         },
         {
-          text: "Karma Police",
           id: "radiohead-karma_police",
           url: "tab/radiohead/Radiohead - Karma Police.txt"
         }
