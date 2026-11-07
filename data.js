@@ -1851,6 +1851,67 @@
       ]
     },
     {
+      text: "New Pornographers",
+      id: "new_pornographers",
+      items: [
+        {
+          text: "All the Old Showstoppers",
+          id: "new_pornographers-all_the_old_showstoppers",
+          url: "tab/newpornographers/all the old showstoprpers - new pornographers.txt"
+        },
+        {
+          text: "From Blown Speakers"
+        },
+        {
+          text: "Twin Cinema"
+        }
+      ]
+    },
+    {
+      text: "First Aid Kit",
+      id: "first_aid_kit",
+      items: [
+        {
+          text: "Emmylou",
+          id: "first_aid_kit-emmylou",
+          url: "tab/other/emmylou - first aid kit.txt"
+        }
+      ]
+    },
+    {
+      text: "Phoenix",
+      id: "phoenix",
+      items: [
+        {
+          text: "Lisztomania",
+          id: "phoenix-lisztomania",
+          url: "tab/other /lisztomania.txt"
+        }
+      ]
+    },
+    {
+      text: "Eagle-Eye Cherry",
+      id: "eagleeye_cherry",
+      items: [
+        {
+          text: "Save Tonight",
+          id: "eagleeye_cherry-save_tonight",
+          url: "tab/other/save tonight - eagle-eye cherry.txt"
+        }
+      ]
+    },
+    {
+      text: "Muse",
+      id: "muse",
+      items: [
+        {
+          text: "Starlight",
+          id: "muse-starlight",
+          url: "tab/other/starlight - muse.txt"
+        }
+      ]
+    },
+    {
       text: "Margot and the Nuclear so and Sos",
       id: "margot_and_the_nuclear_so_and_sos",
       items: [
@@ -2011,20 +2072,12 @@
           text: "Naomi",
           id: "neutral_milk_hotel-naomi",
           url: "tab/other/neutral milk hotel - naomi.txt"
-        }
-      ]
-    },
-    {
-      text: "New Pornographers",
-      id: "new_pornographers",
-      items: [
+        },
         {
-          text: "From Blown Speakers",
           id: "new_pornographers-from_blown_speakers",
           url: "tab/newpornographers/new pornographers - from blown speakers.txt"
         },
         {
-          text: "Twin Cinema",
           id: "new_pornographers-twin_cinema",
           url: "tab/newpornographers/new pornographers - twin cinema.txt"
         }
