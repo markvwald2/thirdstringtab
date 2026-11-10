@@ -1860,10 +1860,14 @@
           url: "tab/newpornographers/all the old showstoprpers - new pornographers.txt"
         },
         {
-          text: "From Blown Speakers"
+          text: "From Blown Speakers",
+          id: "new_pornographers-from_blown_speakers",
+          url: "tab/newpornographers/new pornographers - from blown speakers.txt"
         },
         {
-          text: "Twin Cinema"
+          text: "Twin Cinema",
+          id: "new_pornographers-twin_cinema",
+          url: "tab/newpornographers/new pornographers - twin cinema.txt"
         }
       ]
     },
@@ -1885,7 +1889,7 @@
         {
           text: "Lisztomania",
           id: "phoenix-lisztomania",
-          url: "tab/other /lisztomania.txt"
+          url: "tab/other/lisztomania.txt"
         }
       ]
     },
@@ -2072,14 +2076,6 @@
           text: "Naomi",
           id: "neutral_milk_hotel-naomi",
           url: "tab/other/neutral milk hotel - naomi.txt"
-        },
-        {
-          id: "new_pornographers-from_blown_speakers",
-          url: "tab/newpornographers/new pornographers - from blown speakers.txt"
-        },
-        {
-          id: "new_pornographers-twin_cinema",
-          url: "tab/newpornographers/new pornographers - twin cinema.txt"
         }
       ]
     },
