@@ -2076,14 +2076,6 @@
           text: "Naomi",
           id: "neutral_milk_hotel-naomi",
           url: "tab/other/neutral milk hotel - naomi.txt"
-        },
-        {
-          id: "new_pornographers-from_blown_speakers",
-          url: "tab/newpornographers/new pornographers - from blown speakers.txt"
-        },
-        {
-          id: "new_pornographers-twin_cinema",
-          url: "tab/newpornographers/new pornographers - twin cinema.txt"
         }
       ]
     },
